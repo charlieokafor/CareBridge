@@ -1,0 +1,1838 @@
+{
+ "transcribe_auto": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.024,
+    "wer": 0.062,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 126.27
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.755,
+    "wer": 0.832,
+    "fail": 0.845,
+    "langOk": 0.169,
+    "secs": 126.34
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.041,
+    "wer": 0.096,
+    "fail": 0.042,
+    "langOk": 0.972,
+    "secs": 126.39
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.231,
+    "wer": 0.338,
+    "fail": 0.352,
+    "langOk": 0.648,
+    "secs": 126.47
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.344,
+    "wer": 0.436,
+    "fail": 0.366,
+    "langOk": 0.718,
+    "secs": 126.53
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.116,
+    "wer": 0.155,
+    "fail": 0.091,
+    "langOk": 0.909,
+    "secs": 114.89
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.309,
+    "wer": 0.332,
+    "fail": 0.446,
+    "langOk": 0.554,
+    "secs": 121.76
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.305,
+    "wer": 0.4,
+    "fail": 0.309,
+    "langOk": 0.709,
+    "secs": 121.13
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.395,
+    "wer": 0.513,
+    "fail": 0.491,
+    "langOk": 0.509,
+    "secs": 129.03
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.223,
+    "wer": 0.335,
+    "fail": 0.218,
+    "langOk": 0.855,
+    "secs": 132.01
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.312,
+    "wer": 0.38,
+    "fail": 0.343,
+    "langOk": 0.7,
+    "secs": 137.41
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.282,
+    "wer": 0.362,
+    "fail": 0.33,
+    "langOk": 0.687,
+    "secs": 123.32
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.265,
+    "wer": 0.306,
+    "fail": 0.273,
+    "langOk": 0.782,
+    "secs": 143.19
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.279,
+    "wer": 0.353,
+    "fail": 0.321,
+    "langOk": 0.701,
+    "secs": 126.4
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.024,
+    "wer": 0.065,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 123.18
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.764,
+    "wer": 0.851,
+    "fail": 0.85,
+    "langOk": 0.15,
+    "secs": 123.25
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.043,
+    "wer": 0.099,
+    "fail": 0.05,
+    "langOk": 0.967,
+    "secs": 123.31
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.231,
+    "wer": 0.349,
+    "fail": 0.383,
+    "langOk": 0.617,
+    "secs": 123.39
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.345,
+    "wer": 0.444,
+    "fail": 0.367,
+    "langOk": 0.7,
+    "secs": 123.45
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.026,
+    "wer": 0.05,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 143.08
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.703,
+    "wer": 0.731,
+    "fail": 0.818,
+    "langOk": 0.273,
+    "secs": 143.15
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.035,
+    "wer": 0.079,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 143.19
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.226,
+    "wer": 0.275,
+    "fail": 0.182,
+    "langOk": 0.818,
+    "secs": 143.25
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.335,
+    "wer": 0.395,
+    "fail": 0.364,
+    "langOk": 0.818,
+    "secs": 143.31
+   }
+  }
+ },
+ "transcribe_known": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.024,
+    "wer": 0.062,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 126.59
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.268,
+    "wer": 0.395,
+    "fail": 0.38,
+    "langOk": 1.0,
+    "secs": 126.67
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.038,
+    "wer": 0.086,
+    "fail": 0.014,
+    "langOk": 1.0,
+    "secs": 126.74
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.068,
+    "wer": 0.14,
+    "fail": 0.014,
+    "langOk": 1.0,
+    "secs": 126.81
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.142,
+    "wer": 0.248,
+    "fail": 0.113,
+    "langOk": 1.0,
+    "secs": 126.89
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.043,
+    "wer": 0.102,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 113.79
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.09,
+    "wer": 0.113,
+    "fail": 0.031,
+    "langOk": 1.0,
+    "secs": 121.8
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.138,
+    "wer": 0.254,
+    "fail": 0.182,
+    "langOk": 1.0,
+    "secs": 121.53
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.13,
+    "wer": 0.203,
+    "fail": 0.182,
+    "langOk": 1.0,
+    "secs": 129.87
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.118,
+    "wer": 0.243,
+    "fail": 0.109,
+    "langOk": 1.0,
+    "secs": 132.69
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.126,
+    "wer": 0.209,
+    "fail": 0.129,
+    "langOk": 1.0,
+    "secs": 138.47
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.106,
+    "wer": 0.19,
+    "fail": 0.103,
+    "langOk": 1.0,
+    "secs": 123.5
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.118,
+    "wer": 0.163,
+    "fail": 0.109,
+    "langOk": 1.0,
+    "secs": 144.41
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.108,
+    "wer": 0.186,
+    "fail": 0.104,
+    "langOk": 1.0,
+    "secs": 126.74
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.024,
+    "wer": 0.064,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 123.36
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.262,
+    "wer": 0.403,
+    "fail": 0.383,
+    "langOk": 1.0,
+    "secs": 123.43
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.038,
+    "wer": 0.088,
+    "fail": 0.017,
+    "langOk": 1.0,
+    "secs": 123.5
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.068,
+    "wer": 0.143,
+    "fail": 0.017,
+    "langOk": 1.0,
+    "secs": 123.58
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.14,
+    "wer": 0.254,
+    "fail": 0.1,
+    "langOk": 1.0,
+    "secs": 123.65
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.026,
+    "wer": 0.05,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 144.25
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.304,
+    "wer": 0.352,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 144.33
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.035,
+    "wer": 0.079,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 144.42
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.07,
+    "wer": 0.124,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 144.48
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.154,
+    "wer": 0.213,
+    "fail": 0.182,
+    "langOk": 1.0,
+    "secs": 144.55
+   }
+  }
+ },
+ "transcribe_stream": {
+  "noise": {
+   "russian": {
+    "n": 71,
+    "cer": 0.246,
+    "wer": 0.427,
+    "fail": 0.352,
+    "langOk": 1.0,
+    "secs": 0.28
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.427,
+    "wer": 0.567,
+    "fail": 0.563,
+    "langOk": 1.0,
+    "secs": 0.34
+   },
+   "clean": {
+    "n": 71,
+    "cer": 0.053,
+    "wer": 0.106,
+    "fail": 0.014,
+    "langOk": 1.0,
+    "secs": 0.17
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.128,
+    "wer": 0.245,
+    "fail": 0.07,
+    "langOk": 1.0,
+    "secs": 0.28
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.082,
+    "wer": 0.172,
+    "fail": 0.07,
+    "langOk": 1.0,
+    "secs": 0.3
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.112,
+    "wer": 0.2,
+    "fail": 0.073,
+    "langOk": 1.0,
+    "secs": 0.33
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.103,
+    "wer": 0.125,
+    "fail": 0.062,
+    "langOk": 1.0,
+    "secs": 0.16
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.232,
+    "wer": 0.403,
+    "fail": 0.345,
+    "langOk": 1.0,
+    "secs": 0.29
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.279,
+    "wer": 0.41,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 0.31
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.192,
+    "wer": 0.366,
+    "fail": 0.2,
+    "langOk": 1.0,
+    "secs": 0.25
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.212,
+    "wer": 0.34,
+    "fail": 0.257,
+    "langOk": 1.0,
+    "secs": 0.31
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.192,
+    "wer": 0.317,
+    "fail": 0.227,
+    "langOk": 1.0,
+    "secs": 0.27
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.161,
+    "wer": 0.229,
+    "fail": 0.145,
+    "langOk": 1.0,
+    "secs": 0.29
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.187,
+    "wer": 0.303,
+    "fail": 0.214,
+    "langOk": 1.0,
+    "secs": 0.28
+   }
+  },
+  "kind_noise": {
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.245,
+    "wer": 0.442,
+    "fail": 0.367,
+    "langOk": 1.0,
+    "secs": 0.29
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.43,
+    "wer": 0.579,
+    "fail": 0.583,
+    "langOk": 1.0,
+    "secs": 0.34
+   },
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.057,
+    "wer": 0.111,
+    "fail": 0.017,
+    "langOk": 1.0,
+    "secs": 0.16
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.139,
+    "wer": 0.266,
+    "fail": 0.083,
+    "langOk": 1.0,
+    "secs": 0.28
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.089,
+    "wer": 0.188,
+    "fail": 0.083,
+    "langOk": 1.0,
+    "secs": 0.3
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.034,
+    "wer": 0.079,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 0.22
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.409,
+    "wer": 0.501,
+    "fail": 0.455,
+    "langOk": 1.0,
+    "secs": 0.35
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.254,
+    "wer": 0.347,
+    "fail": 0.273,
+    "langOk": 1.0,
+    "secs": 0.25
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.069,
+    "wer": 0.133,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 0.29
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.039,
+    "wer": 0.087,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 0.33
+   }
+  }
+ },
+ "whisper_app_auto": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.064,
+    "wer": 0.215,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 5.04
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.911,
+    "wer": 0.98,
+    "fail": 1.0,
+    "langOk": 0.268,
+    "secs": 5.01
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.216,
+    "wer": 0.443,
+    "fail": 0.211,
+    "langOk": 0.958,
+    "secs": 5.88
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.483,
+    "wer": 0.728,
+    "fail": 0.648,
+    "langOk": 0.732,
+    "secs": 6.73
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.565,
+    "wer": 0.714,
+    "fail": 0.648,
+    "langOk": 0.563,
+    "secs": 7.39
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.408,
+    "wer": 0.598,
+    "fail": 0.418,
+    "langOk": 0.782,
+    "secs": 6.2
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.377,
+    "wer": 0.471,
+    "fail": 0.431,
+    "langOk": 0.938,
+    "secs": 3.22
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.487,
+    "wer": 0.676,
+    "fail": 0.582,
+    "langOk": 0.636,
+    "secs": 6.28
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.62,
+    "wer": 0.806,
+    "fail": 0.655,
+    "langOk": 0.436,
+    "secs": 6.09
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.337,
+    "wer": 0.556,
+    "fail": 0.436,
+    "langOk": 0.8,
+    "secs": 5.86
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.465,
+    "wer": 0.616,
+    "fail": 0.5,
+    "langOk": 0.614,
+    "secs": 8.31
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.467,
+    "wer": 0.649,
+    "fail": 0.527,
+    "langOk": 0.69,
+    "secs": 6.23
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.34,
+    "wer": 0.439,
+    "fail": 0.364,
+    "langOk": 0.782,
+    "secs": 4.84
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.448,
+    "wer": 0.616,
+    "fail": 0.501,
+    "langOk": 0.704,
+    "secs": 6.01
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.071,
+    "wer": 0.236,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 5.21
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.901,
+    "wer": 0.978,
+    "fail": 1.0,
+    "langOk": 0.267,
+    "secs": 5.3
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.245,
+    "wer": 0.5,
+    "fail": 0.25,
+    "langOk": 0.95,
+    "secs": 6.07
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.498,
+    "wer": 0.765,
+    "fail": 0.7,
+    "langOk": 0.717,
+    "secs": 7.05
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.621,
+    "wer": 0.763,
+    "fail": 0.683,
+    "langOk": 0.517,
+    "secs": 7.5
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.022,
+    "wer": 0.098,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 4.16
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.966,
+    "wer": 0.99,
+    "fail": 1.0,
+    "langOk": 0.273,
+    "secs": 3.47
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.053,
+    "wer": 0.132,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 4.81
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.396,
+    "wer": 0.526,
+    "fail": 0.364,
+    "langOk": 0.818,
+    "secs": 5.01
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.262,
+    "wer": 0.447,
+    "fail": 0.455,
+    "langOk": 0.818,
+    "secs": 6.78
+   }
+  }
+ },
+ "whisper_app_button": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.064,
+    "wer": 0.215,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.3
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.926,
+    "wer": 0.98,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 3.64
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.214,
+    "wer": 0.44,
+    "fail": 0.197,
+    "langOk": 1.0,
+    "secs": 3.37
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.501,
+    "wer": 0.724,
+    "fail": 0.648,
+    "langOk": 1.0,
+    "secs": 3.72
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.501,
+    "wer": 0.699,
+    "fail": 0.62,
+    "langOk": 1.0,
+    "secs": 3.6
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.398,
+    "wer": 0.592,
+    "fail": 0.418,
+    "langOk": 1.0,
+    "secs": 4.2
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.369,
+    "wer": 0.48,
+    "fail": 0.446,
+    "langOk": 1.0,
+    "secs": 1.3
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.463,
+    "wer": 0.665,
+    "fail": 0.545,
+    "langOk": 1.0,
+    "secs": 4.28
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.634,
+    "wer": 0.806,
+    "fail": 0.655,
+    "langOk": 1.0,
+    "secs": 3.95
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.331,
+    "wer": 0.546,
+    "fail": 0.418,
+    "langOk": 1.0,
+    "secs": 3.53
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.459,
+    "wer": 0.606,
+    "fail": 0.486,
+    "langOk": 1.0,
+    "secs": 4.13
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.46,
+    "wer": 0.644,
+    "fail": 0.52,
+    "langOk": 1.0,
+    "secs": 3.68
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.336,
+    "wer": 0.437,
+    "fail": 0.345,
+    "langOk": 1.0,
+    "secs": 2.7
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.441,
+    "wer": 0.612,
+    "fail": 0.493,
+    "langOk": 1.0,
+    "secs": 3.52
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.071,
+    "wer": 0.236,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.44
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.918,
+    "wer": 0.978,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 3.72
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.243,
+    "wer": 0.496,
+    "fail": 0.233,
+    "langOk": 1.0,
+    "secs": 3.52
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.532,
+    "wer": 0.76,
+    "fail": 0.7,
+    "langOk": 1.0,
+    "secs": 3.93
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.537,
+    "wer": 0.747,
+    "fail": 0.667,
+    "langOk": 1.0,
+    "secs": 3.77
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.022,
+    "wer": 0.098,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 2.52
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.97,
+    "wer": 0.99,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 3.18
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.053,
+    "wer": 0.132,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 2.53
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.33,
+    "wer": 0.526,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 2.56
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.306,
+    "wer": 0.439,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 2.7
+   }
+  }
+ },
+ "whisper_small_clean": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.064,
+    "wer": 0.214,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.63
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.92,
+    "wer": 0.982,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 3.94
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.215,
+    "wer": 0.43,
+    "fail": 0.197,
+    "langOk": 1.0,
+    "secs": 3.73
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.466,
+    "wer": 0.67,
+    "fail": 0.592,
+    "langOk": 1.0,
+    "secs": 3.99
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.491,
+    "wer": 0.689,
+    "fail": 0.606,
+    "langOk": 1.0,
+    "secs": 3.9
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.382,
+    "wer": 0.595,
+    "fail": 0.418,
+    "langOk": 1.0,
+    "secs": 4.05
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.354,
+    "wer": 0.394,
+    "fail": 0.369,
+    "langOk": 1.0,
+    "secs": 3.15
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.45,
+    "wer": 0.665,
+    "fail": 0.545,
+    "langOk": 1.0,
+    "secs": 4.26
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.632,
+    "wer": 0.81,
+    "fail": 0.655,
+    "langOk": 1.0,
+    "secs": 3.96
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.328,
+    "wer": 0.546,
+    "fail": 0.418,
+    "langOk": 1.0,
+    "secs": 3.48
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.449,
+    "wer": 0.608,
+    "fail": 0.486,
+    "langOk": 1.0,
+    "secs": 4.16
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.447,
+    "wer": 0.628,
+    "fail": 0.5,
+    "langOk": 1.0,
+    "secs": 3.97
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.343,
+    "wer": 0.431,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 3.14
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.431,
+    "wer": 0.597,
+    "fail": 0.479,
+    "langOk": 1.0,
+    "secs": 3.84
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.071,
+    "wer": 0.235,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.74
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.905,
+    "wer": 0.981,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 4.02
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.245,
+    "wer": 0.485,
+    "fail": 0.233,
+    "langOk": 1.0,
+    "secs": 3.86
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.501,
+    "wer": 0.718,
+    "fail": 0.633,
+    "langOk": 1.0,
+    "secs": 4.17
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.513,
+    "wer": 0.72,
+    "fail": 0.633,
+    "langOk": 1.0,
+    "secs": 4.04
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.022,
+    "wer": 0.098,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.02
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 1.0,
+    "wer": 0.99,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 3.52
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.053,
+    "wer": 0.132,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.0
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.273,
+    "wer": 0.41,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 3.04
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.365,
+    "wer": 0.523,
+    "fail": 0.455,
+    "langOk": 1.0,
+    "secs": 3.12
+   }
+  }
+ },
+ "whisper_small_df": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.07,
+    "wer": 0.23,
+    "fail": 0.014,
+    "langOk": 1.0,
+    "secs": 3.98
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.941,
+    "wer": 0.986,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 4.25
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.332,
+    "wer": 0.526,
+    "fail": 0.408,
+    "langOk": 1.0,
+    "secs": 4.04
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.711,
+    "wer": 0.852,
+    "fail": 0.817,
+    "langOk": 1.0,
+    "secs": 4.37
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.615,
+    "wer": 0.809,
+    "fail": 0.817,
+    "langOk": 1.0,
+    "secs": 4.37
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.553,
+    "wer": 0.708,
+    "fail": 0.673,
+    "langOk": 1.0,
+    "secs": 5.11
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.405,
+    "wer": 0.464,
+    "fail": 0.446,
+    "langOk": 1.0,
+    "secs": 3.51
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.534,
+    "wer": 0.709,
+    "fail": 0.6,
+    "langOk": 1.0,
+    "secs": 4.43
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.709,
+    "wer": 0.858,
+    "fail": 0.782,
+    "langOk": 1.0,
+    "secs": 4.04
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.469,
+    "wer": 0.666,
+    "fail": 0.545,
+    "langOk": 1.0,
+    "secs": 4.04
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.551,
+    "wer": 0.711,
+    "fail": 0.643,
+    "langOk": 1.0,
+    "secs": 4.21
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.55,
+    "wer": 0.701,
+    "fail": 0.63,
+    "langOk": 1.0,
+    "secs": 4.38
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.447,
+    "wer": 0.57,
+    "fail": 0.509,
+    "langOk": 1.0,
+    "secs": 3.25
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.534,
+    "wer": 0.681,
+    "fail": 0.611,
+    "langOk": 1.0,
+    "secs": 4.2
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.08,
+    "wer": 0.259,
+    "fail": 0.017,
+    "langOk": 1.0,
+    "secs": 4.14
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.943,
+    "wer": 0.989,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 4.4
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.377,
+    "wer": 0.582,
+    "fail": 0.483,
+    "langOk": 1.0,
+    "secs": 4.2
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.725,
+    "wer": 0.861,
+    "fail": 0.85,
+    "langOk": 1.0,
+    "secs": 4.54
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.624,
+    "wer": 0.815,
+    "fail": 0.8,
+    "langOk": 1.0,
+    "secs": 4.59
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.013,
+    "wer": 0.075,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.11
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.93,
+    "wer": 0.97,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 3.42
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.089,
+    "wer": 0.219,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.13
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.635,
+    "wer": 0.808,
+    "fail": 0.636,
+    "langOk": 1.0,
+    "secs": 3.44
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.568,
+    "wer": 0.78,
+    "fail": 0.909,
+    "langOk": 1.0,
+    "secs": 3.14
+   }
+  }
+ },
+ "whisper_small_raw": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.06,
+    "wer": 0.205,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.64
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.886,
+    "wer": 0.957,
+    "fail": 0.986,
+    "langOk": 1.0,
+    "secs": 4.23
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.2,
+    "wer": 0.414,
+    "fail": 0.183,
+    "langOk": 1.0,
+    "secs": 3.76
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.435,
+    "wer": 0.642,
+    "fail": 0.549,
+    "langOk": 1.0,
+    "secs": 3.79
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.494,
+    "wer": 0.657,
+    "fail": 0.606,
+    "langOk": 1.0,
+    "secs": 3.91
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.377,
+    "wer": 0.581,
+    "fail": 0.436,
+    "langOk": 1.0,
+    "secs": 4.21
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.325,
+    "wer": 0.373,
+    "fail": 0.338,
+    "langOk": 1.0,
+    "secs": 3.3
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.453,
+    "wer": 0.639,
+    "fail": 0.545,
+    "langOk": 1.0,
+    "secs": 4.2
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.609,
+    "wer": 0.8,
+    "fail": 0.636,
+    "langOk": 1.0,
+    "secs": 4.0
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.313,
+    "wer": 0.504,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 3.48
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.426,
+    "wer": 0.587,
+    "fail": 0.486,
+    "langOk": 1.0,
+    "secs": 4.07
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.436,
+    "wer": 0.608,
+    "fail": 0.487,
+    "langOk": 1.0,
+    "secs": 4.01
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.302,
+    "wer": 0.396,
+    "fail": 0.345,
+    "langOk": 1.0,
+    "secs": 3.09
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.415,
+    "wer": 0.575,
+    "fail": 0.465,
+    "langOk": 1.0,
+    "secs": 3.87
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.069,
+    "wer": 0.23,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.77
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.891,
+    "wer": 0.965,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 4.36
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.223,
+    "wer": 0.462,
+    "fail": 0.217,
+    "langOk": 1.0,
+    "secs": 3.91
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.457,
+    "wer": 0.675,
+    "fail": 0.583,
+    "langOk": 1.0,
+    "secs": 3.93
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.537,
+    "wer": 0.705,
+    "fail": 0.633,
+    "langOk": 1.0,
+    "secs": 4.08
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.013,
+    "wer": 0.069,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 2.95
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.86,
+    "wer": 0.909,
+    "fail": 0.909,
+    "langOk": 1.0,
+    "secs": 3.49
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.07,
+    "wer": 0.152,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 2.95
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.313,
+    "wer": 0.458,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 3.06
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.256,
+    "wer": 0.394,
+    "fail": 0.455,
+    "langOk": 1.0,
+    "secs": 2.99
+   }
+  }
+ },
+ "whisper_small_vad": {
+  "noise": {
+   "clean": {
+    "n": 71,
+    "cer": 0.059,
+    "wer": 0.219,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.63
+   },
+   "er_0db": {
+    "n": 71,
+    "cer": 0.886,
+    "wer": 0.957,
+    "fail": 0.986,
+    "langOk": 1.0,
+    "secs": 4.34
+   },
+   "er_10db": {
+    "n": 71,
+    "cer": 0.2,
+    "wer": 0.419,
+    "fail": 0.183,
+    "langOk": 1.0,
+    "secs": 3.85
+   },
+   "er_5db": {
+    "n": 71,
+    "cer": 0.435,
+    "wer": 0.642,
+    "fail": 0.549,
+    "langOk": 1.0,
+    "secs": 3.89
+   },
+   "russian": {
+    "n": 71,
+    "cer": 0.481,
+    "wer": 0.644,
+    "fail": 0.592,
+    "langOk": 1.0,
+    "secs": 4.03
+   }
+  },
+  "lang": {
+   "ar": {
+    "n": 55,
+    "cer": 0.376,
+    "wer": 0.581,
+    "fail": 0.436,
+    "langOk": 1.0,
+    "secs": 4.3
+   },
+   "en": {
+    "n": 65,
+    "cer": 0.31,
+    "wer": 0.361,
+    "fail": 0.323,
+    "langOk": 1.0,
+    "secs": 3.33
+   },
+   "pl": {
+    "n": 55,
+    "cer": 0.454,
+    "wer": 0.646,
+    "fail": 0.545,
+    "langOk": 1.0,
+    "secs": 4.35
+   },
+   "ro": {
+    "n": 55,
+    "cer": 0.608,
+    "wer": 0.808,
+    "fail": 0.636,
+    "langOk": 1.0,
+    "secs": 4.09
+   },
+   "ru": {
+    "n": 55,
+    "cer": 0.315,
+    "wer": 0.51,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 3.53
+   },
+   "uk": {
+    "n": 70,
+    "cer": 0.426,
+    "wer": 0.587,
+    "fail": 0.486,
+    "langOk": 1.0,
+    "secs": 4.15
+   }
+  },
+  "kind": {
+   "fleurs": {
+    "n": 300,
+    "cer": 0.432,
+    "wer": 0.609,
+    "fail": 0.483,
+    "langOk": 1.0,
+    "secs": 4.09
+   },
+   "clinical": {
+    "n": 55,
+    "cer": 0.303,
+    "wer": 0.399,
+    "fail": 0.345,
+    "langOk": 1.0,
+    "secs": 3.17
+   }
+  },
+  "all": {
+   "all": {
+    "n": 355,
+    "cer": 0.412,
+    "wer": 0.576,
+    "fail": 0.462,
+    "langOk": 1.0,
+    "secs": 3.95
+   }
+  },
+  "kind_noise": {
+   "fleurs|clean": {
+    "n": 60,
+    "cer": 0.067,
+    "wer": 0.245,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.75
+   },
+   "fleurs|er_0db": {
+    "n": 60,
+    "cer": 0.891,
+    "wer": 0.965,
+    "fail": 1.0,
+    "langOk": 1.0,
+    "secs": 4.49
+   },
+   "fleurs|er_10db": {
+    "n": 60,
+    "cer": 0.224,
+    "wer": 0.468,
+    "fail": 0.217,
+    "langOk": 1.0,
+    "secs": 4.01
+   },
+   "fleurs|er_5db": {
+    "n": 60,
+    "cer": 0.457,
+    "wer": 0.675,
+    "fail": 0.583,
+    "langOk": 1.0,
+    "secs": 4.03
+   },
+   "fleurs|russian": {
+    "n": 60,
+    "cer": 0.522,
+    "wer": 0.69,
+    "fail": 0.617,
+    "langOk": 1.0,
+    "secs": 4.2
+   },
+   "clinical|clean": {
+    "n": 11,
+    "cer": 0.017,
+    "wer": 0.08,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.03
+   },
+   "clinical|er_0db": {
+    "n": 11,
+    "cer": 0.86,
+    "wer": 0.909,
+    "fail": 0.909,
+    "langOk": 1.0,
+    "secs": 3.56
+   },
+   "clinical|er_10db": {
+    "n": 11,
+    "cer": 0.07,
+    "wer": 0.152,
+    "fail": 0.0,
+    "langOk": 1.0,
+    "secs": 3.03
+   },
+   "clinical|er_5db": {
+    "n": 11,
+    "cer": 0.313,
+    "wer": 0.458,
+    "fail": 0.364,
+    "langOk": 1.0,
+    "secs": 3.15
+   },
+   "clinical|russian": {
+    "n": 11,
+    "cer": 0.256,
+    "wer": 0.394,
+    "fail": 0.455,
+    "langOk": 1.0,
+    "secs": 3.06
+   }
+  }
+ }
+}

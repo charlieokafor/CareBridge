@@ -1,0 +1,492 @@
+{
+  "summary": {
+    "sentences": 20,
+    "false_alarms": 2,
+    "planted": 28,
+    "caught": 27,
+    "blocked_as_fail": 27,
+    "missed": 1
+  },
+  "rows": [
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Take two 500 milligram paracetamol tablets every six hours.",
+      "translation": "Приймайте дві таблетки парацетамолу по 500 міліграм кожні шість годин.",
+      "back": "Take two paracetamol tablets of 500 milligrams every six hours.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Take two 500 milligram paracetamol tablets every six hours.",
+      "translation": "Приймайте дві таблетки парацетамолу по 5000 міліграм кожні шість годин.",
+      "back": "Take two paracetamol tablets of 5,000 milligrams every six hours.",
+      "status": "fail",
+      "score": 100,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "Take two 500 milligram paracetamol tablets every six hours.",
+      "translation": "Приймайте дві таблетки ібупрофену по 500 міліграм кожні шість годин.",
+      "back": "Take two tablets of ibuprofen of 500 milligrams every six hours.",
+      "status": "fail",
+      "score": 53,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Do not eat or drink anything after midnight.",
+      "translation": "Не їжте і не пийте нічого після півночі.",
+      "back": "Do not eat or drink anything after midnight.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "'not' deleted",
+      "source": "Do not eat or drink anything after midnight.",
+      "translation": "Їжте і не пийте нічого після півночі.",
+      "back": "Eat and drink nothing after midnight.",
+      "status": "ok",
+      "score": 81,
+      "failed_checks": ""
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "The pain is in your left leg.",
+      "translation": "Біль у вашій лівій нозі.",
+      "back": "Pain in your left leg.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "left/right swapped",
+      "source": "The pain is in your left leg.",
+      "translation": "Біль у вашій правій нозі.",
+      "back": "Pain in your right leg.",
+      "status": "fail",
+      "score": 99,
+      "failed_checks": "Left, Right"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Take one ibuprofen tablet twice a day after food.",
+      "translation": "Приймати по одній таблетці ібупрофену двічі на день після їжі.",
+      "back": "Take one tablet of ibuprofen twice a day after meals.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Take one ibuprofen tablet twice a day after food.",
+      "translation": "Приймати по одній таблетці ібупрофену чотири рази на день після їжі.",
+      "back": "Take one tablet of ibuprofen four times a day after meals.",
+      "status": "fail",
+      "score": 100,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "Take one ibuprofen tablet twice a day after food.",
+      "translation": "Приймати по одній таблетці парацетамолу двічі на день після їжі.",
+      "back": "Take one tablet of paracetamol twice a day after meals.",
+      "status": "fail",
+      "score": 56,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "You are allergic to penicillin.",
+      "translation": "У вас алергія на пеніцилін.",
+      "back": "You are allergic to penicillin.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "You are allergic to penicillin.",
+      "translation": "У вас алергія на амоксицилін.",
+      "back": "You are allergic to amoxicillin.",
+      "status": "fail",
+      "score": 67,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Do not take more than eight tablets in 24 hours.",
+      "translation": "Не приймайте більше восьми таблеток за 24 години.",
+      "back": "Do not take more than eight tablets in 24 hours.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Do not take more than eight tablets in 24 hours.",
+      "translation": "Не приймайте більше восьми таблеток за 240 години.",
+      "back": "Do not take more than eight tablets in 240 hours.",
+      "status": "fail",
+      "score": 100,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "'not' deleted",
+      "source": "Do not take more than eight tablets in 24 hours.",
+      "translation": "Приймайте більше восьми таблеток за 24 години.",
+      "back": "Take more than eight tablets in 24 hours.",
+      "status": "fail",
+      "score": 69,
+      "failed_checks": "Negation"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "We will operate on your right knee tomorrow.",
+      "translation": "Завтра ми зробимо операцію на правому коліні.",
+      "back": "Tomorrow we will have surgery on the right knee.",
+      "status": "warn",
+      "score": 74,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "left/right swapped",
+      "source": "We will operate on your right knee tomorrow.",
+      "translation": "Завтра ми зробимо операцію на лівому коліні.",
+      "back": "Tomorrow we will have surgery on our left knee.",
+      "status": "fail",
+      "score": 71,
+      "failed_checks": "Left, Right"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Take 10 units of insulin before breakfast.",
+      "translation": "Приймати 10 одиниць інсуліну перед сніданком.",
+      "back": "Take 10 units of insulin before breakfast.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Take 10 units of insulin before breakfast.",
+      "translation": "Приймати 100 одиниць інсуліну перед сніданком.",
+      "back": "Take 100 units of insulin before breakfast.",
+      "status": "fail",
+      "score": 89,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "Take 10 units of insulin before breakfast.",
+      "translation": "Приймати 10 одиниць гепарину перед сніданком.",
+      "back": "Take 10 units of heparin before breakfast.",
+      "status": "fail",
+      "score": 54,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Your blood pressure is 150 over 90.",
+      "translation": "Ваш артеріальний тиск становить 150 понад 90.",
+      "back": "Your blood pressure is 150 over 90.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Your blood pressure is 150 over 90.",
+      "translation": "Ваш артеріальний тиск становить 1500 понад 90.",
+      "back": "Your blood pressure is 1500 over 90.",
+      "status": "fail",
+      "score": 100,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Do not drive for 24 hours after the anaesthetic.",
+      "translation": "Не керуйте автомобілем протягом 24 годин після анестезії.",
+      "back": "Do not drive for 24 hours after anesthesia.",
+      "status": "warn",
+      "score": 96,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Do not drive for 24 hours after the anaesthetic.",
+      "translation": "Не керуйте автомобілем протягом 240 годин після анестезії.",
+      "back": "Do not drive for 240 hours after anesthesia.",
+      "status": "fail",
+      "score": 89,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "'not' deleted",
+      "source": "Do not drive for 24 hours after the anaesthetic.",
+      "translation": "Керуйте автомобілем протягом 24 годин після анестезії.",
+      "back": "Drive the car for 24 hours after anesthesia.",
+      "status": "fail",
+      "score": 65,
+      "failed_checks": "Negation"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "The X-ray shows a fracture in your left wrist.",
+      "translation": "Рентген показує перелом у лівому зап'ясті.",
+      "back": "An X-ray shows a fracture in his left wrist.",
+      "status": "ok",
+      "score": 88,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "left/right swapped",
+      "source": "The X-ray shows a fracture in your left wrist.",
+      "translation": "Рентген показує перелом у правому зап'ясті.",
+      "back": "An X-ray shows a fracture in the right wrist.",
+      "status": "fail",
+      "score": 100,
+      "failed_checks": "Left, Right"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Take 5 ml of the syrup three times a day.",
+      "translation": "Приймати по 5 мл сиропу тричі на день.",
+      "back": "Take 5 ml of syrup three times a day.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Take 5 ml of the syrup three times a day.",
+      "translation": "Приймати по 50 мл сиропу тричі на день.",
+      "back": "Take 50 ml of syrup three times a day.",
+      "status": "fail",
+      "score": 82,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "You must not take aspirin with this medicine.",
+      "translation": "Не можна приймати аспірин разом з цим ліками.",
+      "back": "You can not take aspirin with this medicine.",
+      "status": "ok",
+      "score": 97,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "'not' deleted",
+      "source": "You must not take aspirin with this medicine.",
+      "translation": "Можна приймати аспірин разом з цим ліками.",
+      "back": "You can take aspirin with this medicine.",
+      "status": "fail",
+      "score": 63,
+      "failed_checks": "Negation"
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "You must not take aspirin with this medicine.",
+      "translation": "Не можна приймати парацетамол разом з цим ліками.",
+      "back": "You can not take paracetamol with this medicine.",
+      "status": "fail",
+      "score": 59,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Come back in 7 days to have the stitches removed.",
+      "translation": "Поверніться через 7 днів, щоб видалити шви.",
+      "back": "Come back after 7 days to remove the stitches.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Come back in 7 days to have the stitches removed.",
+      "translation": "Поверніться через 70 днів, щоб видалити шви.",
+      "back": "Come back in 70 days to remove the stitches.",
+      "status": "fail",
+      "score": 74,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Do not lift anything heavy for six weeks.",
+      "translation": "Не піднімайте нічого важкого протягом шести тижнів.",
+      "back": "Do not lift anything heavy for six weeks.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Do not lift anything heavy for six weeks.",
+      "translation": "Не піднімайте нічого важкого протягом восьми тижнів.",
+      "back": "Do not lift anything heavy for eight weeks.",
+      "status": "fail",
+      "score": 96,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "'not' deleted",
+      "source": "Do not lift anything heavy for six weeks.",
+      "translation": "Піднімайте нічого важкого протягом шести тижнів.",
+      "back": "Lift anything heavy for six weeks.",
+      "status": "fail",
+      "score": 59,
+      "failed_checks": "Negation"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Your temperature is 39 degrees.",
+      "translation": "Ваша температура 39 градусів.",
+      "back": "Your temperature is 39 degrees.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Your temperature is 39 degrees.",
+      "translation": "Ваша температура 390 градусів.",
+      "back": "Your temperature is 390 degrees.",
+      "status": "fail",
+      "score": 47,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Take the antibiotic for 5 days, even if you feel better.",
+      "translation": "Приймайте антибіотик протягом 5 днів, навіть якщо ви відчуваєте себе краще.",
+      "back": "Take an antibiotic for 5 days, even if you feel better.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "dose/number changed",
+      "source": "Take the antibiotic for 5 days, even if you feel better.",
+      "translation": "Приймайте антибіотик протягом 50 днів, навіть якщо ви відчуваєте себе краще.",
+      "back": "Take an antibiotic for 50 days, even if you feel better.",
+      "status": "fail",
+      "score": 78,
+      "failed_checks": "Numbers"
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "Take the antibiotic for 5 days, even if you feel better.",
+      "translation": "Приймайте знеболювальне протягом 5 днів, навіть якщо ви відчуваєте себе краще.",
+      "back": "Take a painkiller for 5 days, even if you feel better.",
+      "status": "fail",
+      "score": 71,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "The pain on your right side may be appendicitis.",
+      "translation": "Біль на правому боці може бути апендицитом.",
+      "back": "Pain on the right side can be appendicitis.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "left/right swapped",
+      "source": "The pain on your right side may be appendicitis.",
+      "translation": "Біль на лівому боці може бути апендицитом.",
+      "back": "Pain on the left side can be appendicitis.",
+      "status": "fail",
+      "score": 100,
+      "failed_checks": "Left, Right"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Do not stop taking warfarin without asking your doctor.",
+      "translation": "Не припиняйте приймати варфарин, не запитавши лікаря.",
+      "back": "Do not stop taking warfarin without asking your doctor.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    },
+    {
+      "kind": "planted",
+      "error": "'not' deleted",
+      "source": "Do not stop taking warfarin without asking your doctor.",
+      "translation": "Припиняйте приймати варфарин, не запитавши лікаря.",
+      "back": "Stop taking warfarin without asking your doctor.",
+      "status": "fail",
+      "score": 91,
+      "failed_checks": "Negation"
+    },
+    {
+      "kind": "planted",
+      "error": "medicine swapped",
+      "source": "Do not stop taking warfarin without asking your doctor.",
+      "translation": "Не припиняйте приймати аспірин, не запитавши лікаря.",
+      "back": "Do not stop taking aspirin without asking your doctor.",
+      "status": "fail",
+      "score": 49,
+      "failed_checks": "Clinical terms"
+    },
+    {
+      "kind": "clean",
+      "error": "",
+      "source": "Press this button if the pain in your chest gets worse.",
+      "translation": "Натисніть цю кнопку, якщо біль у грудях посилюється.",
+      "back": "Press this button if the chest pain gets worse.",
+      "status": "ok",
+      "score": 100,
+      "failed_checks": ""
+    }
+  ]
+}

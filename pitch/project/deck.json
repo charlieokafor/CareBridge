@@ -1,0 +1,21 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-09T23:55:00Z"},
+  "lists": "css",
+  "title": "CareBridge Pitch",
+  "cover": "title",
+  "order": ["hook", "reveal", "title", "numbers", "catch", "statement", "tiers", "demo", "safetynet", "tech", "testing", "inclusion", "impact", "close"],
+  "sections": {
+    "s1": {"description": "Human story: a patient the room cannot understand", "start": "hook"},
+    "s2": {"description": "The problem at TUH, in numbers", "start": "numbers"},
+    "s3": {"description": "The idea: AI where it is safe, humans where it matters", "start": "statement"},
+    "s4": {"description": "How it solves the problem: live demo and the safety net", "start": "demo"},
+    "s5": {"description": "Proof: technology, testing and inclusion", "start": "tech"},
+    "s6": {"description": "Value and the call to action", "start": "impact"}
+  },
+  "faces": {
+    "inter-tight": {"family": "Inter Tight", "href": "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500..800&display=swap"},
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

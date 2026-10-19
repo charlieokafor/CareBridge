@@ -1,0 +1,11 @@
+{
+ "_about": "Everyday names Wikidata lacks or files under a rarer synonym, per language (curated Oct 2026). English name -> {lang: [names]}. Applied by curate.py; marked curated.",
+ "antibiotic": {"zh": ["抗生素"], "yue": ["抗生素"], "ja": ["抗生物質"], "id": ["antibiotik"], "sw": ["antibiotiki"],
+                "tl": ["antibiotiko"], "vi": ["kháng sinh", "thuốc kháng sinh"], "el": ["αντιβιοτικό"],
+                "pt": ["antibiótico"], "it": ["antibiotico"], "tr": ["antibiyotik"], "cs": ["antibiotikum", "antibiotika"],
+                "bn": ["অ্যান্টিবায়োটিক"]},
+ "penicillin": {"yue": ["盤尼西林", "青黴素"], "sw": ["penisilini"], "id": ["penisilin"], "tl": ["penicillin"]},
+ "paracetamol": {"yue": ["撲熱息痛", "必理痛"], "zh": ["对乙酰氨基酚", "扑热息痛"], "ja": ["アセトアミノフェン"]},
+ "insulin": {"sw": ["insulini"], "zh": ["胰岛素"], "ja": ["インスリン"]},
+ "painkiller": {"pt": ["analgésico"], "it": ["antidolorifico"], "id": ["obat pereda nyeri"], "zh": ["止痛药"], "yue": ["止痛藥"]}
+}

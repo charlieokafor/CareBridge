@@ -1,0 +1,35 @@
+<section id="tech" data-transition="fade" style="background:#08090C;color:#F5F5F7;font-family:'Inter', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:48px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<p style="font-size:24px;font-weight:700;letter-spacing:6px;text-transform:uppercase;color:#5AA2FF">Built on AWS</p>
+<h2 style="font-family:'Inter Tight', Arial, sans-serif;font-size:64px;font-weight:800;letter-spacing:-2px;line-height:1.1;color:#F5F5F7">The patient's voice never leaves the hospital's own cloud.</h2>
+</div>
+<div style="display:flex;align-items:center;gap:20px">
+<div style="flex:1;display:flex;flex-direction:column;gap:10px;background:#16171C;border-radius:24px;padding:32px">
+<h3 style="font-family:'Inter Tight', Arial, sans-serif;font-size:34px;font-weight:700;color:#F5F5F7">Any device</h3>
+<p style="font-size:26px;line-height:1.35;color:#B4B4BE">Phone, iPad, laptop. Staff sign-in.</p>
+</div>
+<x-shape kind="arrow-right" style="background:#3A3A42;width:56px;height:28px"></x-shape>
+<div style="flex:1;display:flex;flex-direction:column;gap:10px;background:#16171C;border-radius:24px;padding:32px">
+<h3 style="font-family:'Inter Tight', Arial, sans-serif;font-size:34px;font-weight:700;color:#F5F5F7">API Gateway</h3>
+<p style="font-size:26px;line-height:1.35;color:#B4B4BE">Secure https entry point.</p>
+</div>
+<x-shape kind="arrow-right" style="background:#3A3A42;width:56px;height:28px"></x-shape>
+<div style="flex:1.6;display:flex;flex-direction:column;gap:10px;background:#0F2347;border-radius:24px;padding:32px;border:2px solid #2F80FF">
+<h3 style="font-family:'Inter Tight', Arial, sans-serif;font-size:34px;font-weight:700;color:#F5F5F7">EC2: our own AI</h3>
+<p style="font-size:26px;line-height:1.35;color:#C9DCFF">Whisper (speech) · NLLB-200 (translation) · MiniLM (meaning check) · Piper (voices)</p>
+</div>
+<x-shape kind="arrow-right" style="background:#3A3A42;width:56px;height:28px"></x-shape>
+<div style="flex:1;display:flex;flex-direction:column;gap:10px;background:#16171C;border-radius:24px;padding:32px">
+<h3 style="font-family:'Inter Tight', Arial, sans-serif;font-size:34px;font-weight:700;color:#F5F5F7">Records</h3>
+<p style="font-size:26px;line-height:1.35;color:#B4B4BE">DynamoDB audit log. S3 FHIR exports.</p>
+</div>
+</div>
+<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:32px">
+<div style="display:flex;flex-direction:column;gap:6px"><p style="font-family:'Inter Tight', Arial, sans-serif;font-size:72px;font-weight:800;letter-spacing:-2px;color:#5AA2FF">~3 s</p><p style="font-size:28px;color:#B4B4BE">per translated, double-checked sentence</p></div>
+<div style="display:flex;flex-direction:column;gap:6px"><p style="font-family:'Inter Tight', Arial, sans-serif;font-size:72px;font-weight:800;letter-spacing:-2px;color:#5AA2FF">28</p><p style="font-size:28px;color:#B4B4BE">languages passed our medical test; 9 were removed</p></div>
+<div style="display:flex;flex-direction:column;gap:6px"><p style="font-family:'Inter Tight', Arial, sans-serif;font-size:72px;font-weight:800;letter-spacing:-2px;color:#5AA2FF">0</p><p style="font-size:28px;color:#B4B4BE">audio recordings stored</p></div>
+</div>
+<p style="position:absolute;left:128px;right:128px;bottom:64px;font-size:24px;color:#8E8E99">Amazon's managed AI services were switched off in our hackathon lab, so we self-host open models. In production: AWS Dublin region (eu-west-1).</p>
+<aside>Speaker: Mohd Wafa (3:35 to 3:55).
+"Under the hood, it's all on AWS. Amazon's own AI services were switched off in our hackathon account, so we self-hosted open models on an EC2 server: Whisper for speech, Meta's NLLB for translation, a second model that checks the meaning, and Piper for the voices. Audio never leaves the hospital's cloud and is never stored. Every sentence goes to a DynamoDB audit log and exports as a FHIR record. About three seconds per double-checked sentence. We tested 37 languages on 20 medical sentences each, kept the 28 that passed, gave each one the translation model that scored best, and removed 9, including Mandarin, which turned appendicitis into tachycardia."</aside>
+</section>

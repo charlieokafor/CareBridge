@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CareBridge Poster</title>
+<style>
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+:root {
+  --ink: #111216; --muted: #4A4F5A; --soft: #6E7380; --line: #E3E4E8; --bg: #F4F5F7;
+  --blue: #0A5BD8; --blue-soft: #E8F0FD; --green: #1E8E3E; --green-soft: #E7F5EC;
+  --amber: #B86E00; --amber-soft: #FDF3E1; --red: #D12B1F; --red-soft: #FCEBEA; --navy: #0B0F17;
+}
+html, body { background: #fff; }
+body { font-family: -apple-system, "SF Pro Text", "SF Pro Display", system-ui, "Helvetica Neue", Arial, sans-serif; color: var(--ink); }
+.page { width: 210mm; height: 297mm; position: relative; overflow: hidden; break-after: page; padding: 11mm 14mm 0; display: flex; flex-direction: column; }
+.page:last-child { break-after: auto; }
+
+.top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 7mm; }
+.step { display: flex; align-items: center; gap: 3.5mm; }
+.step .n { width: 14mm; height: 14mm; border-radius: 50%; background: var(--ink); color: #fff; font-weight: 800; font-size: 17pt; display: grid; place-items: center; }
+.step .t { font-size: 12pt; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); }
+.brand { display: flex; align-items: center; gap: 2.5mm; font-weight: 800; font-size: 14pt; letter-spacing: -.01em; }
+.brand svg { width: 9mm; height: 9mm; }
+
+h1 { font-size: 40pt; line-height: 1.04; font-weight: 800; letter-spacing: -.03em; }
+h2 { font-size: 16pt; font-weight: 800; letter-spacing: -.01em; }
+.lede { font-size: 15pt; line-height: 1.38; color: var(--muted); margin-top: 3.5mm; }
+.blue { color: var(--blue); } .red { color: var(--red); } .green { color: var(--green); } .amber { color: var(--amber); }
+sup { font-size: 58%; color: var(--soft); font-weight: 600; margin-left: .3mm; }
+.label { font-size: 9pt; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+.card { background: var(--bg); border-radius: 4mm; padding: 5mm; }
+.grid { display: grid; gap: 4mm; }
+.icon { width: 8mm; height: 8mm; stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+.refs { margin-top: auto; border-top: .3mm solid var(--line); padding: 2.2mm 0 5mm; font-size: 6.9pt; line-height: 1.5; color: var(--soft); }
+.refs b { color: var(--muted); font-weight: 700; }
+.refs .row { display: flex; justify-content: space-between; gap: 6mm; }
+.refs ol { list-style: none; }
+.refs li { word-break: break-all; }
+.refs li span { word-break: normal; }
+.pg { white-space: nowrap; font-weight: 700; color: var(--muted); }
+
+/* dark page */
+.dark { background: var(--navy); color: #fff; }
+.dark .step .n { background: #fff; color: var(--navy); }
+.dark .step .t { color: #A9B1C2; }
+.dark .refs { border-top-color: #2A3140; color: #8C95A8; }
+.dark .refs b, .dark .pg { color: #C5CBD8; }
+
+/* 1 hook */
+.wave { color: #7FB0FF; height: 22mm; margin-top: 4mm; }
+.wave svg { width: 100%; height: 100%; }
+.heard { display: flex; align-items: center; gap: 3mm; color: #7FB0FF; font-size: 11pt; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; }
+.play { width: 9mm; height: 9mm; border-radius: 50%; background: #7FB0FF; display: grid; place-items: center; }
+.ukq { font-size: 19pt; line-height: 1.38; color: #C5CBD8; margin-top: 5mm; font-weight: 500; }
+.hook1 { font-size: 50pt; font-weight: 800; letter-spacing: -.035em; line-height: 1.03; margin-top: 16mm; }
+.hook2 { font-size: 33pt; font-weight: 800; letter-spacing: -.025em; line-height: 1.1; margin-top: 9mm; color: #7FB0FF; }
+.sign { display: flex; align-items: center; gap: 4mm; margin-top: auto; margin-bottom: 7mm; }
+.sign svg { width: 15mm; height: 15mm; flex: none; }
+.sign > div { flex: 1; }
+.sign .nm { font-size: 24pt; font-weight: 800; letter-spacing: -.02em; }
+.sign .tagl { font-size: 11pt; color: #A9B1C2; margin-top: .6mm; }
+
+/* 2 problem */
+.timeline { margin-top: 7mm; display: grid; }
+.tl { display: grid; grid-template-columns: 22mm 6mm 1fr; gap: 3mm; }
+.tl .time { font-size: 17pt; font-weight: 800; text-align: right; padding-top: .6mm; font-variant-numeric: tabular-nums; }
+.tl .rail { display: flex; flex-direction: column; align-items: center; }
+.tl .rail i { width: 4.5mm; height: 4.5mm; border-radius: 50%; background: var(--ink); margin-top: 2mm; flex: none; }
+.tl .rail b { flex: 1; width: .6mm; background: var(--line); margin: 1mm 0; }
+.tl .what { padding-bottom: 7mm; }
+.tl .what p { font-size: 15pt; line-height: 1.38; }
+.tl.late .time, .tl.late .what p { color: var(--red); }
+.tl.late .rail i { background: var(--red); }
+.picker { display: inline-flex; flex-direction: column; margin-top: 3mm; border: .4mm solid var(--line); border-radius: 3mm; overflow: hidden; font-size: 13pt; min-width: 88mm; box-shadow: 0 1.5mm 4mm rgba(0,0,0,.08); }
+.picker div { padding: 2.4mm 4.5mm; border-top: .3mm solid var(--line); display: flex; justify-content: space-between; }
+.picker div:first-child { border-top: none; background: var(--bg); font-weight: 700; color: var(--muted); font-size: 9.5pt; letter-spacing: .08em; text-transform: uppercase; }
+.picker div span { color: var(--red); font-weight: 800; }
+.verdict { font-size: 36pt; font-weight: 800; letter-spacing: -.025em; line-height: 1.12; }
+.facts { grid-template-columns: repeat(3, 1fr); gap: 3mm; margin-top: 9mm; }
+.fact { padding: 4mm 4.5mm; }
+.fact .num { font-size: 30pt; font-weight: 800; letter-spacing: -.03em; line-height: 1; }
+.fact .cap { font-size: 11pt; line-height: 1.33; color: var(--muted); margin-top: 1.6mm; }
+
+/* 3 solution */
+.sol { display: grid; grid-template-columns: 90mm 1fr; gap: 8mm; margin-top: 8mm; align-items: start; }
+.phone { background: #0b0b0d; border-radius: 10mm; padding: 5.5mm 4.6mm; color: #fff; border: 1.6mm solid #2A2D33;
+  background-image: radial-gradient(70mm 40mm at 50% -6%, rgba(255,59,48,.30), transparent 60%); }
+.ph-top { display: flex; gap: 1.4mm; align-items: center; flex-wrap: wrap; }
+.ph-badge { background: #ff3b30; font-weight: 800; letter-spacing: .12em; font-size: 7.6pt; padding: 1.3mm 2.2mm; border-radius: 10mm; }
+.ph-lang { background: rgba(255,255,255,.12); font-size: 7.6pt; font-weight: 600; padding: 1.3mm 2.2mm; border-radius: 10mm; }
+.ph-pause { margin-left: auto; background: #fff; color: #d70015; font-weight: 800; font-size: 7.8pt; padding: 1.5mm 2.6mm; border-radius: 2.6mm; }
+.ph-state { display: flex; align-items: center; gap: 2mm; font-size: 9.6pt; color: rgba(255,255,255,.85); font-weight: 600; margin: 10mm 0 5mm; }
+.ph-state i { width: 3mm; height: 3mm; border-radius: 50%; background: #34c759; box-shadow: 0 0 0 1.2mm rgba(52,199,89,.25); }
+.ph-label { font-size: 7.2pt; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.55); font-weight: 700; margin-bottom: 1mm; }
+.ph-orig { font-size: 11pt; color: rgba(255,255,255,.78); line-height: 1.35; margin-bottom: 5mm; }
+.ph-tr { font-size: 19pt; font-weight: 700; line-height: 1.2; letter-spacing: -.01em; }
+.ph-bottom { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.8mm; margin-top: 14mm; }
+.ph-bottom span { background: rgba(255,255,255,.12); border-radius: 2.6mm; font-size: 7pt; font-weight: 600; text-align: center; padding: 2.6mm 1mm; }
+.ph-bottom span.r { background: #ff3b30; }
+.phcap { font-size: 9.4pt; color: var(--soft); text-align: center; margin-top: 2.4mm; line-height: 1.35; }
+.steps3 { display: grid; gap: 6.5mm; }
+.s3 { display: grid; grid-template-columns: 12mm 1fr; gap: 3.5mm; }
+.s3 .k { width: 12mm; height: 12mm; border-radius: 50%; background: var(--red); color: #fff; font-size: 14pt; font-weight: 800; display: grid; place-items: center; }
+.s3 h3 { font-size: 16.5pt; font-weight: 800; line-height: 1.15; }
+.s3 p { font-size: 12pt; line-height: 1.4; color: var(--muted); margin-top: 1mm; }
+.reply { border-left: 1.2mm solid var(--blue); background: var(--blue-soft); border-radius: 0 3mm 3mm 0; padding: 3.4mm 4mm; }
+.reply .k1 { font-size: 7.5pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--blue); }
+.reply p { font-size: 12pt; line-height: 1.35; margin-top: .8mm; }
+.reply .ticks { display: flex; gap: 4mm; margin-top: 1.6mm; font-size: 9pt; font-weight: 700; color: var(--green); }
+.reply .ticks span { display: inline-flex; gap: 1.2mm; align-items: center; }
+.reply .ticks svg { width: 3.8mm; height: 3.8mm; }
+.big-close { font-size: 22pt; font-weight: 800; letter-spacing: -.02em; line-height: 1.2; margin-top: 10mm; }
+
+/* 4 trust */
+.two { grid-template-columns: 1fr 1fr; gap: 6mm; margin-top: 7mm; }
+.col h2 { display: flex; align-items: center; gap: 2.4mm; margin-bottom: 3mm; line-height: 1.15; }
+.col h2 .icon { width: 8mm; height: 8mm; flex: none; }
+.checks { display: grid; grid-template-columns: 1fr 1fr; gap: 2mm; }
+.checks span { background: var(--green-soft); color: #145F2A; font-weight: 700; font-size: 10.5pt; padding: 2.4mm 3mm; border-radius: 2.5mm; display: flex; gap: 1.6mm; align-items: center; }
+.checks svg { width: 4mm; height: 4mm; flex: none; }
+.stress { margin-top: 5mm; }
+.stress .num { font-size: 50pt; font-weight: 800; letter-spacing: -.045em; line-height: .95; color: var(--green); }
+.stress .num small { font-size: 24pt; color: var(--ink); letter-spacing: -.02em; }
+.stress p { font-size: 10.5pt; line-height: 1.4; color: var(--muted); margin-top: 2mm; }
+.redbox { margin-top: 5mm; background: var(--red-soft); border-radius: 3.5mm; padding: 3.5mm 4mm; font-size: 10.5pt; line-height: 1.4; }
+.record { border: .4mm solid var(--line); border-radius: 4mm; overflow: hidden; box-shadow: 0 1.5mm 5mm rgba(0,0,0,.07); }
+.record .rh { background: var(--bg); padding: 3mm 4mm; display: flex; justify-content: space-between; align-items: center; }
+.record .rh b { font-size: 10.5pt; }
+.record .rh span { font-size: 8pt; font-weight: 800; letter-spacing: .1em; color: var(--green); }
+.record .rl { padding: 2.4mm 4mm; border-top: .3mm solid var(--line); font-size: 9.6pt; line-height: 1.35; }
+.record .rl small { display: block; color: var(--soft); font-size: 8pt; }
+.record .rl.alert { color: var(--red); font-weight: 700; }
+.priv { list-style: none; margin-top: 5mm; display: grid; gap: 3mm; }
+.priv li { display: grid; grid-template-columns: 7mm 1fr; gap: 2mm; font-size: 11pt; line-height: 1.35; }
+.priv li .icon { width: 6mm; height: 6mm; color: var(--blue); }
+.priv li b { display: block; }
+.priv li span { color: var(--muted); font-size: 10pt; }
+.band { grid-template-columns: repeat(3, 1fr); gap: 3mm; margin-top: 3mm; }
+.band div { background: var(--navy); color: #fff; border-radius: 3.5mm; padding: 4mm; }
+.band b { display: block; font-size: 17pt; font-weight: 800; letter-spacing: -.02em; }
+.band span { display: block; font-size: 9.6pt; color: #C5CBD8; line-height: 1.38; margin-top: 1.4mm; }
+.trustline { margin-top: 8mm; font-size: 21pt; font-weight: 800; letter-spacing: -.02em; line-height: 1.2; }
+
+/* 5 cost */
+.money { font-size: 78pt; font-weight: 800; letter-spacing: -.05em; line-height: .95; margin-top: 2mm; }
+.chart { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4mm; align-items: end; height: 60mm; margin-top: 8mm; border-bottom: .4mm solid var(--ink); }
+.chart .c { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+.chart .c b { font-size: 10.5pt; font-weight: 800; margin-bottom: 1.4mm; }
+.chart .c i { display: block; width: 100%; border-radius: 2mm 2mm 0 0; background: #B9CCEE; }
+.chart .c.now i { background: var(--blue); }
+.years { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4mm; font-size: 9.5pt; color: var(--muted); text-align: center; margin-top: 1.4mm; font-weight: 600; }
+.cost2 { grid-template-columns: 1fr 1fr; gap: 4mm; margin-top: 7mm; }
+.cost2 .num { font-size: 26pt; font-weight: 800; letter-spacing: -.03em; line-height: 1; }
+.cost2 p { font-size: 10.5pt; line-height: 1.38; color: var(--muted); margin-top: 1.6mm; }
+.night { margin-top: 7mm; font-size: 22pt; font-weight: 800; letter-spacing: -.02em; line-height: 1.2; }
+.always { display: flex; gap: 3mm; margin-top: 5mm; }
+.always span { flex: 1; background: var(--navy); color: #fff; border-radius: 3.5mm; padding: 4mm; font-size: 14pt; font-weight: 800; text-align: center; }
+.always span small { display: block; font-size: 8.5pt; font-weight: 600; color: #A9B1C2; margin-top: 1mm; letter-spacing: .02em; }
+
+/* 6 beyond + close */
+.cm { border: .4mm solid var(--line); border-radius: 4mm; padding: 4mm 4.5mm; margin-top: 4mm; }
+.cm .tag, .vid .tag { display: inline-block; font-size: 7.6pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; padding: 1mm 2.4mm; border-radius: 10mm; }
+.cm-head h3, .vid h3 { font-size: 15pt; font-weight: 800; margin-top: 2mm; }
+.cm-head p, .vid p { font-size: 10.5pt; line-height: 1.4; color: var(--muted); margin-top: .8mm; }
+.cm-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 3mm; margin-top: 3.5mm; }
+.cm-steps div { background: var(--bg); border-radius: 3mm; padding: 3mm; }
+.cm-steps b { display: grid; place-items: center; width: 7mm; height: 7mm; border-radius: 50%; background: var(--green); color: #fff; font-size: 9.5pt; }
+.cm-steps h4 { font-size: 10.5pt; font-weight: 800; margin-top: 1.6mm; }
+.cm-steps p { font-size: 8.8pt; line-height: 1.33; color: var(--muted); margin-top: .6mm; }
+.cm-ex { margin-top: 3mm; border-left: 1.2mm solid var(--green); padding: .5mm 0 .5mm 3.5mm; font-size: 10.5pt; line-height: 1.45; }
+.cm-ex .k1 { font-size: 7.5pt; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--soft); margin-right: 2mm; }
+.cm-ex mark { background: #FFE7A8; padding: 0 .6mm; border-radius: .6mm; }
+.cm-ex .t { color: var(--green); font-weight: 700; font-size: 9.5pt; margin-top: .6mm; }
+.vid { display: grid; grid-template-columns: 1fr 66mm; gap: 5mm; align-items: center; border: .4mm solid var(--line); border-radius: 4mm; padding: 3.5mm 4.5mm; margin-top: 3mm; }
+.vid .subs { margin-top: 0; height: 22mm; }
+.vid .subs .tile { height: 10mm; }
+
+.modes { grid-template-columns: 1fr 1fr; gap: 4mm; margin-top: 6mm; }
+.mode { border: .4mm solid var(--line); border-radius: 4mm; padding: 4.5mm; }
+.mode .tag { display: inline-block; font-size: 7.6pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; padding: 1mm 2.4mm; border-radius: 10mm; }
+.mode h3 { font-size: 15pt; font-weight: 800; margin-top: 2.4mm; }
+.mode p { font-size: 10.5pt; line-height: 1.4; color: var(--muted); margin-top: 1.4mm; }
+.mini { margin-top: 3mm; background: var(--bg); border-radius: 3mm; padding: 2.8mm 3.2mm; font-size: 9pt; line-height: 1.35; }
+.mini mark { background: #FFE7A8; padding: 0 .6mm; border-radius: .6mm; }
+.mini .t { color: var(--green); font-weight: 700; margin-top: 1.2mm; font-size: 8.6pt; }
+.subs { margin-top: 3mm; background: #1D2027; border-radius: 3mm; height: 26mm; position: relative; overflow: hidden; }
+.subs .tile { position: absolute; top: 2.4mm; width: 44%; height: 13mm; border-radius: 2mm; background: #2C313B; color: #8C95A8; font-size: 7pt; font-weight: 700; display: grid; place-items: center; }
+.subs .tile.a { left: 3%; } .subs .tile.b { right: 3%; }
+.subs .cc { position: absolute; left: 5%; right: 5%; bottom: 2mm; background: rgba(0,0,0,.72); color: #fff; font-size: 7.6pt; text-align: center; padding: 1.2mm; border-radius: 1.2mm; line-height: 1.3; }
+.ask { background: var(--navy); color: #fff; border-radius: 5mm; padding: 4mm 6mm; margin-top: 3mm; }
+.ask .label { color: #7FB0FF; }
+.ask .a { font-size: 15.5pt; font-weight: 800; letter-spacing: -.015em; line-height: 1.2; margin-top: 1.6mm; }
+.final { font-size: 19pt; font-weight: 800; letter-spacing: -.02em; line-height: 1.2; margin-top: 4mm; }
+.end { display: grid; grid-template-columns: 24mm 1fr; gap: 5mm; align-items: center; margin-top: 4mm; margin-bottom: 3mm; }
+.end .qr svg { width: 24mm; height: 24mm; display: block; }
+.end .try { font-size: 14pt; font-weight: 800; }
+.end .try2 { font-size: 10pt; color: var(--muted); margin-top: .8mm; }
+.end .team { font-size: 11pt; font-weight: 700; margin-top: 1.8mm; }
+.end .ev { font-size: 9pt; color: var(--soft); margin-top: .6mm; }
+</style>
+</head>
+<body>
+
+<!-- ============ 01 THE HOOK ============ -->
+<section class="page dark">
+  <div class="top">
+    <div class="step"><div class="n">01</div><div class="t">The hook</div></div>
+    <div class="brand">{{ICON}}CareBridge</div>
+  </div>
+
+  <div class="heard"><div class="play"><svg viewBox="0 0 24 24" width="15" height="15"><path d="M8 5v14l11-7z" fill="#0B0F17"/></svg></div>Mary · 09:02 · Tallaght ED</div>
+  <div class="wave">{{WAVE}}</div>
+  <p class="ukq" lang="uk">«Допоможіть, будь ласка. У мене дуже болить у грудях. У мене алергія на пеніцилін.»</p>
+
+  <p class="hook1">Asking for help is the most basic thing a person in need can do.</p>
+  <p class="hook2">But what happens when nobody understands you?</p>
+
+  <div class="sign">{{ICON}}<div><div class="nm">CareBridge</div><div class="tagl">No patient goes unheard · Bakht Zia Khan · Chijindu Okafor · Eriitunu Adesioye · Mohd Wafa</div></div></div>
+
+  <div class="refs"><div class="row">
+    <ol>
+      <li><span>Mary is a fictional patient, built from the real figures on page 2. Her line is the Ukrainian voice clip we play in our live demo; page 3 shows what CareBridge heard.</span></li>
+      <li><span>Ukrainian is TUH’s most-booked interpreter language (IJMS study, reported 21 Apr 2026):</span> https://www.waterford-news.ie/dublin-hospital-hired-interpreters-for-foreign-language-patients-nearly-11000-times-in-17-months_arid-95325.html</li>
+    </ol>
+    <span class="pg">1 / 6</span>
+  </div></div>
+</section>
+
+<!-- ============ 02 THE PROBLEM ============ -->
+<section class="page">
+  <div class="top">
+    <div class="step"><div class="n">02</div><div class="t">The problem</div></div>
+    <div class="brand">{{ICON}}CareBridge</div>
+  </div>
+
+  <h1 style="font-size:46pt">Mary’s emergency</h1>
+  <p class="lede">Mary is visiting her daughter in Dublin. Her chest starts to hurt. She is in pain, she is scared, and she doesn’t speak English.</p>
+
+  <div class="timeline">
+    <div class="tl"><div class="time">09:02</div><div class="rail"><i></i><b></b></div><div class="what"><p>Mary arrives at Tallaght and tries to explain what’s wrong.</p></div></div>
+    <div class="tl"><div class="time">09:04</div><div class="rail"><i></i><b></b></div><div class="what"><p>The nurse opens a translation app. First, it wants a language.</p>
+      <div class="picker"><div>Translate from</div><div>Russian <span>?</span></div><div>Polish <span>?</span></div><div>Ukrainian <span>?</span></div><div>Romanian <span>?</span></div></div></div></div>
+    <div class="tl late"><div class="time">09:12</div><div class="rail"><i></i><b style="background:transparent"></b></div><div class="what" style="padding-bottom:0"><p><b>Still guessing.</b> Nobody knows she is allergic to penicillin. In an emergency, minutes matter.</p></div></div>
+  </div>
+
+  <p class="verdict" style="margin-top:9mm">Mary is not the problem.<br><span class="red">The system is.</span></p>
+
+  <div class="grid facts">
+    <div class="card fact"><div class="num">10,793</div><div class="cap">times Tallaght needed an interpreter in 17 months<sup>1</sup></div></div>
+    <div class="card fact"><div class="num">Top 4</div><div class="cap">Ukrainian, Russian, Polish, Romanian: the very languages the nurse was guessing between<sup>1</sup></div></div>
+    <div class="card fact"><div class="num">1 in 12</div><div class="cap">machine-translated hospital sentences that could cause significant harm<sup>2</sup></div></div>
+  </div>
+
+  <div class="refs"><div class="row">
+    <ol>
+      <li><b>1</b> <span>TUH interpreter-use study, Jan 2024 to Jun 2025, Irish Journal of Medical Science (reported 21 Apr 2026):</span> https://www.waterford-news.ie/dublin-hospital-hired-interpreters-for-foreign-language-patients-nearly-11000-times-in-17-months_arid-95325.html</li>
+      <li><b>2</b> <span>Khoong et al., JAMA Internal Medicine, 2019. Google Translate on emergency discharge instructions: up to 8% of sentences in Chinese, 2% in Spanish:</span> https://pubmed.ncbi.nlm.nih.gov/30801626/</li>
+      <li><span>The timeline is an illustration.</span></li>
+    </ol>
+    <span class="pg">2 / 6</span>
+  </div></div>
+</section>
+
+<!-- ============ 03 THE SOLUTION ============ -->
+<section class="page">
+  <div class="top">
+    <div class="step"><div class="n">03</div><div class="t">The solution: Emergency Mode</div></div>
+    <div class="brand">{{ICON}}CareBridge</div>
+  </div>
+
+  <h1>One tap.<br><span class="red">Mary is heard.</span></h1>
+
+  <div class="sol">
+    <div>
+      <div class="phone">
+        <div class="ph-top"><span class="ph-badge">⚡ EMERGENCY</span><span class="ph-pause">❙❙ Pause</span></div>
+        <div class="ph-top" style="margin-top:2mm"><span class="ph-lang">🔒 English ⇄ Українська · locked for this session</span></div>
+        <div class="ph-state"><i></i>Speaking English…</div>
+        <div class="ph-label">Patient · Ukrainian · 100% sure</div>
+        <div class="ph-orig" lang="uk">Допоможіть, будь ласка, у мене дуже болить у грудях, у мене алергія на пеніцилін.</div>
+        <div class="ph-label">Translation · English</div>
+        <div class="ph-tr">Help me, please. My chest hurts a lot, I’m allergic to penicillin.</div>
+        <div class="ph-bottom"><span>↺ Replay last</span><span class="r">☎ Human interpreter</span><span>Standard mode</span></div>
+      </div>
+      <p class="phcap">Real output from CareBridge on 10 Oct 2026, from Mary’s voice clip. Read out loud in seconds.</p>
+    </div>
+
+    <div class="steps3">
+      <div class="s3"><div class="k">1</div><div><h3>Tap once</h3><p>One big button: <b>START NOW</b>. No menus, no language to choose.</p></div></div>
+      <div class="s3"><div class="k">2</div><div><h3>Mary speaks</h3><p>CareBridge works out that she speaks Ukrainian, not Russian, and locks it in for the whole visit.</p></div></div>
+      <div class="s3"><div class="k">3</div><div><h3>Everyone hears</h3><p>Her words are spoken in English for the nurse. The nurse’s words are spoken in Ukrainian for Mary. Out loud, both ways.</p></div></div>
+      <div class="reply">
+        <div class="k1">The nurse answers</div>
+        <p>“You are safe. We will not give you penicillin.”</p>
+        <p lang="uk" style="font-weight:700">Ти в безпеці. Ми не дамо вам пеніциліну.</p>
+        <div class="ticks"><span>{{TICK}}“Not” kept</span><span>{{TICK}}Medicine kept</span></div>
+      </div>
+    </div>
+  </div>
+
+  <p class="big-close">No menus. No guessing. Put it on the table and talk.<br><span class="blue">For the first time since she walked in, Mary can say what’s wrong.</span></p>
+
+  <div class="refs"><div class="row">
+    <ol>
+      <li><span>Screen redrawn from CareBridge’s Emergency mode with the live output of 10 Oct 2026 (patient line translated and checked in 3.9 s, reply in 2.6 s, after speech recognition).</span></li>
+      <li><span>Speech: OpenAI Whisper</span> https://arxiv.org/abs/2212.04356 <span>· Translation: Meta NLLB-200</span> https://arxiv.org/abs/2207.04672 <span>· Voices: Piper</span> https://github.com/rhasspy/piper</li>
+    </ol>
+    <span class="pg">3 / 6</span>
+  </div></div>
+</section>
+
+<!-- ============ 04 TRUST AND SECURITY ============ -->
+<section class="page">
+  <div class="top">
+    <div class="step"><div class="n">04</div><div class="t">Trust and security</div></div>
+    <div class="brand">{{ICON}}CareBridge</div>
+  </div>
+
+  <h1>Safe enough for a hospital.<br><span class="blue">Private enough for Mary.</span></h1>
+
+  <div class="grid two">
+    <div class="col">
+      <h2 class="green"><svg class="icon" viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Checked before anyone hears it</h2>
+      <div class="checks">
+        <span>{{TICK}}Every number</span><span>{{TICK}}Every “not”</span>
+        <span>{{TICK}}Left and right</span><span>{{TICK}}Every medicine</span>
+      </div>
+      <div class="stress">
+        <div class="num">27<small> / 28</small></div>
+        <p>We planted 28 dangerous errors in real translations: wrong doses, missing “nots”, swapped sides and medicines. CareBridge caught 27, with <b>zero false alarms</b>.</p>
+      </div>
+      <div class="redbox"><b class="red">Consent? Bad news?</b> The AI stops, and one tap calls a human interpreter. Some conversations should always have a person.</div>
+    </div>
+
+    <div class="col">
+      <h2 class="blue"><svg class="icon" viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M9 13l2 2 4-4"/></svg>Saved to Mary’s record</h2>
+      <div class="record">
+        <div class="rh"><b>Mary · Ukrainian · Emergency</b><span>✓ SAVED</span></div>
+        <div class="rl"><small>Patient · 09:04</small>Help me, please. My chest hurts a lot, I’m allergic to penicillin.</div>
+        <div class="rl"><small>Nurse · 09:04</small>You are safe. We will not give you penicillin.</div>
+        <div class="rl alert">Allergy: penicillin</div>
+      </div>
+      <ul class="priv">
+        <li><svg class="icon" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 18 0 9 9 0 0 0-18 0"/><path d="M12 7v5l3 2"/></svg><div><b>Her care team can come back to it</b><span>What she said and how it was translated, as a standard health record.</span></div></li>
+        <li><svg class="icon" viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3M4 4l16 16"/></svg><div><b>Her voice is never saved</b><span>The audio is processed in memory and thrown away. Only the words are kept.</span></div></li>
+        <li><svg class="icon" viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><div><b>Her data stays in Ireland</b><span>In the hospital, CareBridge runs on AWS in Dublin. Staff sign-in only.</span></div></li>
+      </ul>
+    </div>
+  </div>
+
+  <h2 style="margin-top:8mm">Tested before it’s trusted</h2>
+  <div class="grid band">
+    <div><b>37 → 12</b><span>languages tested on 20 medical sentences each. 28 passed; 12 are in our pilot, led by TUH’s top four.</span></div>
+    <div><b>Failed = off</b><span>Mandarin turned “appendicitis” into “tachycardia”, so it was switched off, not shipped.</span></div>
+    <div><b>Mary is told</b><span>On her screen, in her own language, that a computer is translating, and that she can ask for a person at any time.</span></div>
+  </div>
+
+  <div class="refs"><div class="row">
+    <ol>
+      <li><span>Stress test and language tests run on the live system, 9 to 10 Oct 2026 (CareBridge repository: eval/error_injection.py, eval/results.json, eval/lang_eval.json). Record card redrawn from the CareBridge audit log. Record format: HL7 FHIR DocumentReference</span> https://hl7.org/fhir/R4/documentreference.html</li>
+      <li><span>AWS Europe (Ireland) region, eu-west-1:</span> https://aws.amazon.com/about-aws/global-infrastructure/regions_az/ <span>· Our hackathon demo runs in the AWS lab region we were given; Dublin is the hospital set-up.</span></li>
+    </ol>
+    <span class="pg">4 / 6</span>
+  </div></div>
+</section>
+
+<!-- ============ 05 WHY IT MATTERS ============ -->
+<section class="page">
+  <div class="top">
+    <div class="step"><div class="n">05</div><div class="t">Why it matters: the cost</div></div>
+    <div class="brand">{{ICON}}CareBridge</div>
+  </div>
+
+  <div class="money blue">€11.3 million</div>
+  <p class="lede" style="font-size:16pt">spent by the HSE on interpreting and translation in 2025. <b style="color:var(--ink)">Five times what it spent in 2020.</b><sup>1</sup></p>
+
+  <div class="chart">
+    <div class="c"><b>€2.2m</b><i style="height:19.9%"></i></div>
+    <div class="c"><b>€3.1m</b><i style="height:27.1%"></i></div>
+    <div class="c"><b>€3.3m</b><i style="height:29%"></i></div>
+    <div class="c"><b>€6.2m</b><i style="height:54.7%"></i></div>
+    <div class="c"><b>€9.8m</b><i style="height:86.7%"></i></div>
+    <div class="c now"><b>€11.3m</b><i style="height:100%"></i></div>
+  </div>
+  <div class="years"><span>2020</span><span>2021</span><span>2022</span><span>2023</span><span>2024</span><span>2025</span></div>
+
+  <div class="grid cost2">
+    <div class="card"><div class="num">€530,331</div><p>Letterkenny University Hospital alone, in 2025, across 39 languages.<sup>2</sup></p></div>
+    <div class="card"><div class="num">Under €3</div><p>a day to run the server behind our live demo, around the clock.<sup>3</sup></p></div>
+  </div>
+
+  <p class="night">Interpreters are essential.<br>But they can’t be at every bedside at 3am.</p>
+  <div class="always">
+    <span>24/7<small>day and night</small></span>
+    <span>Every room<small>any phone, iPad or laptop</small></span>
+    <span>First second<small>no booking, no waiting</small></span>
+  </div>
+
+  <div class="refs"><div class="row">
+    <ol>
+      <li><b>1</b> <span>HSE reply to PQ 31617/26 (Deputy Carol Nolan), 7 May 2026. HSE spend on translation and interpreter services: €2,244,752 in 2020, €11,287,959 in 2025:</span> https://about.hse.ie/publications/question-from-deputy-carol-nolan-pq-31617-26/</li>
+      <li><b>2</b> <span>Donegal News, HSE FOI release on interpreting spend at Letterkenny University Hospital, 2025, incl. VAT:</span> https://donegalnews.com/revealed-hse-spend-on-interpreters-at-luh</li>
+      <li><b>3</b> <span>One Amazon EC2 m7i.large server, on demand, about US$0.10 to $0.11 an hour:</span> https://aws.amazon.com/ec2/pricing/on-demand/</li>
+    </ol>
+    <span class="pg">5 / 6</span>
+  </div></div>
+</section>
+
+<!-- ============ 06 BEYOND THE EMERGENCY ============ -->
+<section class="page">
+  <div class="top">
+    <div class="step"><div class="n">06</div><div class="t">Beyond the emergency</div></div>
+    <div class="brand">{{ICON}}CareBridge</div>
+  </div>
+
+  <h1 style="font-size:30pt">From the emergency room<br><span class="blue">to the follow-up call.</span></h1>
+
+  <div class="cm">
+    <div class="cm-head"><span class="tag" style="background:var(--green-soft);color:#145F2A">In the app today</span>
+      <h3>Consultation Mode</h3><p>For Mary’s check-ups, when there is time to get every word right.</p></div>
+    <div class="cm-steps">
+      <div><b>1</b><h4>The doctor speaks</h4><p>Into their phone, in plain English.</p></div>
+      <div><b>2</b><h4>The doctor checks</h4><p>CareBridge shows what it heard and highlights every dose and medicine. The doctor fixes anything wrong and confirms.</p></div>
+      <div><b>3</b><h4>Mary hears it</h4><p>On her own screen, read aloud in Ukrainian. She answers by voice or with a tap.</p></div>
+      <div><b>4</b><h4>It’s on her record</h4><p>Every word, in both languages, ready for her next visit.</p></div>
+    </div>
+    <div class="cm-ex">
+      <div><span class="k1">Doctor said</span>Take <mark>two tablets</mark> of <mark>500 milligram</mark> <mark>paracetamol</mark> <mark>every six hours</mark>.</div>
+      <div lang="uk"><span class="k1">Mary hears</span>Прийміть дві таблетки 500 мг парацетамолу кожні шість годин.</div>
+      <div class="t">✓ Numbers kept: 2 · 500 · 6 &nbsp; ✓ Medicine kept</div>
+    </div>
+  </div>
+
+  <div class="vid">
+    <div><span class="tag" style="background:var(--blue-soft);color:var(--blue)">Next step</span>
+      <h3>Video follow-ups</h3><p>When Mary goes home, her care comes with her: CareBridge inside Google Meet, with live translated subtitles for Mary and her doctor.</p></div>
+    <div class="subs"><div class="tile a">Doctor</div><div class="tile b">Mary</div><div class="cc">How is the pain since your last visit? · Як біль після вашого останнього візиту?</div></div>
+  </div>
+
+  <div class="ask">
+    <p class="a">CareBridge doesn’t replace the people who care for Mary.<br><span style="color:#7FB0FF">It makes sure they can understand her.</span></p>
+  </div>
+
+  <p class="final">Because everyone deserves to be able to ask for help,<br><span class="blue">and to be understood when they do.</span></p>
+
+  <div class="end">
+    <div class="qr">{{QR}}</div>
+    <div>
+      <div class="try">Scan to try CareBridge live</div>
+      <div class="try2">Staff sign-in only. Ask any of us for today’s demo code.</div>
+      <div class="team">Bakht Zia Khan · Chijindu Okafor · Eriitunu Adesioye · Mohd Wafa</div>
+      <div class="ev">TUH Healthcare Innovation Challenge 2026 · Challenge 6: real-time medical multilingual speech translation</div>
+    </div>
+  </div>
+
+  <div class="refs"><div class="row">
+    <ol>
+      <li><span>Consultation Mode example: live CareBridge server, 10 Oct 2026 (four details highlighted; numbers and medicine checks passed). The video-call picture is a sketch of our next step; it is not built yet.</span></li>
+      <li><span>Google Meet is a product of Google LLC; CareBridge is not affiliated with Google. Live app:</span> https://lekjx2h7ch.execute-api.us-east-1.amazonaws.com</li>
+    </ol>
+    <span class="pg">6 / 6</span>
+  </div></div>
+</section>
+
+</body>
+</html>

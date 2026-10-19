@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CareBridge Pitch Script</title>
+<style>
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+:root { --ink: #111216; --muted: #4A4F5A; --soft: #6E7380; --line: #E3E4E8; --bg: #F4F5F7; --blue: #0A5BD8; --blue-soft: #E8F0FD; --green: #1E8E3E; --green-soft: #E7F5EC; --amber: #B86E00; --amber-soft: #FDF3E1; --red: #D12B1F; --red-soft: #FCEBEA; }
+body { font-family: -apple-system, "SF Pro Text", system-ui, "Helvetica Neue", Arial, sans-serif; color: var(--ink); background: #fff; }
+.page { width: 210mm; height: 297mm; padding: 12mm 14mm 10mm; overflow: hidden; break-after: page; display: flex; flex-direction: column; }
+.page:last-child { break-after: auto; }
+.head { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: .5mm solid var(--ink); padding-bottom: 3mm; margin-bottom: 4.5mm; }
+.head h1 { font-size: 26pt; font-weight: 800; letter-spacing: -.02em; line-height: 1.05; }
+.head .meta { text-align: right; font-size: 10pt; color: var(--muted); line-height: 1.4; }
+.head .meta b { font-size: 16pt; color: var(--ink); display: block; }
+.who { display: block; font-size: 9pt; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--blue); margin-bottom: 1.5mm; }
+h2 { font-size: 12.5pt; font-weight: 800; margin: 4.5mm 0 1.8mm; }
+p, li { font-size: 10pt; line-height: 1.42; }
+table { width: 100%; border-collapse: collapse; font-size: 9.6pt; }
+th { text-align: left; font-size: 7.8pt; letter-spacing: .1em; text-transform: uppercase; color: var(--soft); padding: 1.4mm 2mm; border-bottom: .3mm solid var(--line); }
+td { padding: 1.6mm 2mm; border-bottom: .3mm solid var(--line); vertical-align: top; line-height: 1.38; }
+td b { font-weight: 800; }
+.bar { flex: none; display: flex; height: 9mm; border-radius: 2mm; overflow: hidden; margin: 2.5mm 0 1mm; font-size: 8pt; font-weight: 800; color: #fff; }
+.bar div { display: flex; align-items: center; justify-content: center; }
+.ticks { display: flex; justify-content: space-between; font-size: 8pt; color: var(--soft); font-weight: 700; }
+ul.check { list-style: none; }
+ul.check li { padding-left: 7mm; position: relative; margin-top: 1.2mm; }
+ul.check li::before { content: ""; position: absolute; left: 0; top: .8mm; width: 3.6mm; height: 3.6mm; border: .45mm solid var(--ink); border-radius: .8mm; }
+.rules { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2.2mm; }
+.rule { background: var(--bg); border-radius: 3mm; padding: 2.6mm 3mm; font-size: 8.9pt; line-height: 1.35; }
+.rule b { display: block; font-size: 9.8pt; margin-bottom: .5mm; }
+
+/* speaker pages */
+.flow { display: flex; flex-direction: column; gap: 2.6mm; }
+.sec { font-size: 8pt; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--soft); margin-top: 1.2mm; display: flex; gap: 2mm; align-items: center; }
+.sec::after { content: ""; flex: 1; height: .3mm; background: var(--line); }
+.say { font-size: 13.6pt; line-height: 1.48; padding-left: 4.5mm; border-left: 1.3mm solid var(--ink); }
+.say em { font-style: normal; font-weight: 800; }
+.say .p { color: var(--soft); font-size: 9.5pt; font-weight: 800; letter-spacing: .05em; }
+.cut { color: var(--soft); text-decoration: underline dashed #B7BBC4; text-underline-offset: 1mm; }
+.cut::after { content: " ✂"; font-size: 9pt; }
+.do { background: var(--blue-soft); border-radius: 2.5mm; padding: 2.4mm 3.5mm 2.4mm 12mm; font-size: 10.2pt; line-height: 1.42; position: relative; }
+.do::before { content: "DO"; position: absolute; left: 3.4mm; top: 2.7mm; font-size: 7.5pt; font-weight: 800; letter-spacing: .1em; color: var(--blue); }
+.do.wait { background: var(--amber-soft); }
+.do.wait::before { content: "WAIT"; color: var(--amber); left: 2.4mm; font-size: 7pt; }
+.pg { display: inline-block; background: var(--ink); color: #fff; font-size: 8pt; font-weight: 800; padding: .3mm 1.8mm; border-radius: 1.6mm; vertical-align: 2px; }
+.hand { margin-top: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 3mm; }
+.box { border: .35mm solid var(--line); border-radius: 3mm; padding: 3mm 3.5mm; font-size: 9.3pt; line-height: 1.4; }
+.box b.t { display: block; font-size: 8pt; letter-spacing: .12em; text-transform: uppercase; margin-bottom: 1mm; }
+.box.red { border-color: #F1C3BF; background: var(--red-soft); }
+.box.red b.t { color: var(--red); }
+.box.tip b.t { color: var(--green); }
+.box.explain { background: var(--green-soft); border-color: #BFE3CB; grid-column: 1 / -1; }
+.box.explain b.t { color: #145F2A; }
+.box.explain ol { padding-left: 4.5mm; margin-top: 1mm; }
+.box.explain li { font-size: 9.3pt; line-height: 1.4; }
+.mohd .say { font-size: 12.8pt; line-height: 1.45; }
+.mohd .flow { gap: 2.2mm; }
+.foot { font-size: 8pt; color: var(--soft); margin-top: 3mm; border-top: .3mm solid var(--line); padding-top: 2mm; display: flex; justify-content: space-between; gap: 4mm; }
+</style>
+</head>
+<body>
+
+<!-- ================= PAGE 1: AT A GLANCE ================= -->
+<section class="page">
+  <div class="head">
+    <div><span class="who">CareBridge · Challenge 6 · Sat 10 Oct, 09:00</span><h1>Our pitch on one page</h1></div>
+    <div class="meta"><b>4:20, start to finish</b>Pitch, live demo, poster.<br>No slides, no Q&amp;A.</div>
+  </div>
+
+  <p><b>The feeling we want:</b> the judges hear Mary and can’t understand her, just like the nurse. A minute later, CareBridge understands her out loud, in front of them. The rest shows why it can be trusted, why it matters, and how it follows Mary beyond the emergency.</p>
+
+  <div class="bar">
+    <div style="width:21.2%;background:#4A4F5A">Bakht 0:55</div>
+    <div style="width:25%;background:var(--red)">Chijindu Okafor 1:05</div>
+    <div style="width:21.2%;background:var(--blue)">Eriitunu Adesioye 0:55</div>
+    <div style="width:32.6%;background:var(--ink)">Mohd 1:25</div>
+  </div>
+  <div class="ticks"><span>0:00</span><span>0:55</span><span>2:00</span><span>2:55</span><span>4:20</span></div>
+
+  <h2>Running order</h2>
+  <table>
+    <tr><th style="width:9%">Time</th><th style="width:28%">Section</th><th style="width:19%">Who</th><th style="width:8%">Poster</th><th>Live demo</th></tr>
+    <tr><td><b>0:00</b></td><td>1 · The hook<br>2 · The problem: Mary’s emergency</td><td><b>Bakht</b></td><td>1, 2</td><td>Plays Mary’s voice and asks the judges which language it was.</td></tr>
+    <tr><td><b>0:55</b></td><td>3 · The solution: Emergency Mode</td><td><b>Chijindu Okafor</b></td><td>3</td><td>One tap. Mary’s voice plays again; the phone says it in English. The reply is spoken in Ukrainian.</td></tr>
+    <tr><td><b>2:00</b></td><td>4 · Trust and security<br>5 · Why it matters</td><td><b>Eriitunu Adesioye</b></td><td>4, 5</td><td>Laptop: that same conversation, already saved.</td></tr>
+    <tr><td><b>2:55</b></td><td>6 · Beyond the emergency<br>7 · The close</td><td><b>Mohd</b></td><td>6</td><td>Consultation Mode: a dose is highlighted, confirmed, then read out on Mary’s iPad.</td></tr>
+    <tr><td><b>4:20</b></td><td colspan="4"><b>End.</b> “Thank you.” Step back together.</td></tr>
+  </table>
+
+  <h2>Who holds what</h2>
+  <table>
+    <tr><th style="width:21%">Person</th><th style="width:22%">Device</th><th>Ready at 08:55</th></tr>
+    <tr><td><b>Bakht</b></td><td>Own phone, then the iPad</td><td>Phone: Safari on Mary’s voice (link on page 6), volume at maximum. iPad: Mary’s screen in Mohd’s consultation.</td></tr>
+    <tr><td><b>Chijindu Okafor</b></td><td>Own phone</td><td>CareBridge home screen, signed in as “Chijindu Okafor”. Microphone already allowed.</td></tr>
+    <tr><td><b>Eriitunu Adesioye</b></td><td>Laptop</td><td>CareBridge home screen, signed in.</td></tr>
+    <tr><td><b>Mohd</b></td><td>Own phone</td><td>Standard Consultation running in Українська (we call it “Consultation Mode” in the pitch).</td></tr>
+  </table>
+
+  <h2>Six rules</h2>
+  <div class="rules">
+    <div class="rule"><b>It’s a pitch</b>Energy, not detail. Short sentences. Look at the judges, not at your page.</div>
+    <div class="rule"><b>Point at the poster</b>Touch the page number as you say it. The poster is our only visual.</div>
+    <div class="rule"><b>Silence while it listens</b>While Emergency Mode is on, nobody else talks. It translates whatever it hears.</div>
+    <div class="rule"><b>One retry, then move on</b>Never fix things in front of the judges. Use the backup line on your page.</div>
+    <div class="rule"><b>Hand over by name</b>End on the next person’s name: Bakht → Chijindu Okafor → Eriitunu Adesioye → Mohd.</div>
+    <div class="rule"><b>Grey ✂ lines are cuttable</b>If a rehearsal runs over 4:20, cut these first. Never cut a demo or the last line.</div>
+  </div>
+  <div class="foot"><span>Timekeeper: Bakht, once the opening section is done. One raised finger at 4:00 means “Mohd, go to the close”.</span><span>1 / 6</span></div>
+</section>
+
+<!-- ================= PAGE 2: BAKHT ================= -->
+<section class="page">
+  <div class="head">
+    <div><span class="who">1 · The hook &nbsp;·&nbsp; 2 · The problem</span><h1>Bakht Zia Khan</h1></div>
+    <div class="meta"><b>0:00 – 0:55</b>Poster <span class="pg">1</span> <span class="pg">2</span><br>In hand: your phone, Mary’s voice ready</div>
+  </div>
+
+  <div class="flow">
+    <div class="do">Step forward. Look at the judges. Wait two seconds before you speak.</div>
+    <div class="sec">1 · The hook · 15 seconds</div>
+    <div class="say"><span class="pg">1</span> “Asking for help is the most basic thing a person in need can do. <span class="p">[PAUSE]</span><br>
+      But what happens when <em>nobody understands you?</em>”</div>
+
+    <div class="sec">2 · The problem · 40 seconds</div>
+    <div class="say">“<span class="pg">2</span> Meet <em>Mary</em>. She’s visiting her daughter in Dublin. This morning, her chest starts to hurt, so she comes to Tallaght. She’s in pain, she’s scared, and she doesn’t speak English. This is what she says to the nurse:”</div>
+    <div class="do">Hold your phone up towards the judges and play Mary’s voice (6 seconds). Let it finish.</div>
+    <div class="say">“<em>Which language was that?</em>” <span class="p">[PAUSE. LET THEM GUESS.]</span><br>
+      “Russian? Polish? Ukrainian? The nurse doesn’t know either, and her translation app wants her to pick one. Nobody is sure. Minutes pass. And in an emergency, <em>minutes matter</em>.”</div>
+    <div class="say">“Mary is not the problem. <em>The system is.</em> <span class="p">[TURN]</span> Chijindu Okafor.”</div>
+    <div class="do wait">Stay next to Chijindu Okafor with Mary’s voice ready. <b>On the nod, play it again</b>, about 30 cm from the phone. Then pick up the iPad for Mohd’s demo, and keep time: one raised finger at 4:00.</div>
+  </div>
+
+  <div class="hand">
+    <div class="box tip"><b class="t">Delivery</b>Say the hook slowly and calmly; it’s the first thing the judges hear. “Which language was that?” is a real question: wait for a judge to answer or shrug. That moment is the whole pitch.</div>
+    <div class="box red"><b class="t">If Mary’s voice won’t play</b>Read the Ukrainian line on poster page 1 out loud, slowly, then ask “Which language was that?” It has the same effect.</div>
+  </div>
+  <div class="foot"><span>About 105 words plus the clip. Hard stop 0:55.</span><span>2 / 6</span></div>
+</section>
+
+<!-- ================= PAGE 3: CHARLES ================= -->
+<section class="page">
+  <div class="head">
+    <div><span class="who">3 · The solution: Emergency Mode</span><h1>Chijindu Okafor</h1></div>
+    <div class="meta"><b>0:55 – 2:00</b>Poster <span class="pg">3</span><br>In hand: your phone, CareBridge home screen</div>
+  </div>
+
+  <div class="flow">
+    <div class="say">“<span class="pg">3</span> This is <em>CareBridge</em>. <span class="p">[HOLD UP YOUR PHONE]</span><br>
+      In an emergency, there’s no time for menus. So: <em>one tap</em>.”</div>
+    <div class="do">Tap <b>Emergency · START NOW</b>. Hold the phone up facing the judges. <b>Nod to Bakht</b>, who plays Mary’s voice again near your phone. Nobody speaks.</div>
+    <div class="do wait">About 8 seconds. The phone says out loud: <b>“Help me, please. My chest hurts a lot. I’m allergic to penicillin.”</b></div>
+    <div class="do">Straight away, without explaining, lean in and say clearly: <b>“You are safe. We will not give you penicillin.”</b></div>
+    <div class="do wait">The phone says it out loud in Ukrainian. <b>Then tap Pause.</b> Only start talking again after that: while it’s listening, it translates everything you say.</div>
+    <div class="say">“It didn’t ask us anything. It knew she speaks <em>Ukrainian, not Russian</em>, and caught a <em>penicillin allergy</em> nobody knew about. Put it on the table, and it just works. <span class="p">[PAUSE]</span><br>
+      For the first time since she walked in, <em>Mary can say what’s wrong.</em> <span class="p">[TURN]</span> Eriitunu Adesioye.”</div>
+  </div>
+
+  <div class="hand">
+    <div class="box tip"><b class="t">Delivery</b>Let the phone do the talking. From START NOW until you tap Pause, say only the one line to the phone. Watch the judges’ faces, not the screen. Your last line is the emotional peak, so say it slowly.</div>
+    <div class="box red"><b class="t">If it doesn’t hear Mary</b>Nod for one more play, closer to the phone. If it still misses: “In a real emergency this is one tap. Let me keep us on time.” Tap Pause and hand over to Eriitunu Adesioye.</div>
+  </div>
+  <div class="foot"><span>About 60 words plus two live turns (about 35 seconds of demo). Hard stop 2:00.</span><span>3 / 6</span></div>
+</section>
+
+<!-- ================= PAGE 4: ERIITUNU ================= -->
+<section class="page">
+  <div class="head">
+    <div><span class="who">4 · Trust and security &nbsp;·&nbsp; 5 · Why it matters</span><h1>Eriitunu Adesioye</h1></div>
+    <div class="meta"><b>2:00 – 2:55</b>Poster <span class="pg">4</span> <span class="pg">5</span><br>In hand: laptop on the CareBridge home screen</div>
+  </div>
+
+  <div class="flow">
+    <div class="sec">4 · Trust and security · 30 seconds</div>
+    <div class="say">“<span class="pg">4</span> But a hospital can’t just trust a translation. So before anyone hears it, CareBridge checks <em>every number, every ‘not’, every medicine</em>. We planted twenty-eight dangerous errors into real translations, and it caught <em>twenty-seven</em>.”</div>
+    <div class="do">Tap <b>Audit log</b>, then the top red ⚡ <b>Ukrainian · Chijindu Okafor</b> row. Turn the laptop to the judges.</div>
+    <div class="say">“That conversation is already saved to Mary’s record, so her care team can come back to it any time. Her voice itself is <em>never saved</em>. And in the hospital it runs on AWS in Dublin, so <em>Mary’s data stays in Ireland</em>.”</div>
+
+    <div class="sec">5 · Why it matters · 25 seconds</div>
+    <div class="say">“<span class="pg">5</span> And it matters. Last year the HSE spent <em>eleven point three million euro</em> on interpreting: <em>five times</em> more than in 2020.<br>
+      Interpreters are essential. But they can’t be at every bedside at <em>three in the morning</em>.<br>
+      CareBridge can: twenty-four seven, in every room, from the first second. <span class="p">[TURN]</span> Mohd.”</div>
+  </div>
+
+  <div class="hand">
+    <div class="box tip"><b class="t">Delivery</b>Two big numbers: 27 out of 28, and €11.3 million. Say each one slowly and point at it on the poster. Everything else is support.</div>
+    <div class="box red"><b class="t">If the audit log is slow</b>Skip it: point at the saved record on poster page 4 and say the same line. Don’t wait for the screen.</div>
+  </div>
+  <div class="foot"><span>About 125 words. Hard stop 2:55.</span><span>4 / 6</span></div>
+</section>
+
+<!-- ================= PAGE 5: MOHD ================= -->
+<section class="page mohd">
+  <div class="head">
+    <div><span class="who">6 · Beyond the emergency &nbsp;·&nbsp; 7 · The close</span><h1>Mohd Wafa</h1></div>
+    <div class="meta"><b>2:55 – 4:20</b>Poster <span class="pg">6</span><br>In hand: your phone in Consultation Mode</div>
+  </div>
+
+  <div class="flow">
+    <div class="sec">6 · Beyond the emergency · 65 seconds</div>
+    <div class="say">“<span class="pg">6</span> Mary recovers, and she comes back for check-ups. Now there’s time to get every word right, so we use <em>Consultation Mode</em>. I have CareBridge on my phone, and Mary has her own screen, in Ukrainian.” <span class="p">[BAKHT HOLDS UP THE iPAD]</span></div>
+    <div class="do">Tap the mic, say <b>“Take two tablets of 500 milligram paracetamol every six hours.”</b>, tap stop. Turn your phone to the judges.</div>
+    <div class="say">“Before anything reaches Mary, I see what CareBridge heard, with the <em>dose, the medicine and how often</em> highlighted. If it misheard me, I fix it. Once I’ve checked…”</div>
+    <div class="do">Tick the checkbox, tap <b>Confirm &amp; translate</b>.</div>
+    <div class="say">“…it’s translated, checked again, and read out to Mary in Ukrainian.” <span class="p">[LET THE iPAD SPEAK]</span><br>
+      “She can answer by voice or a tap, and it all goes on her record. <span class="cut">And next, we’re bringing CareBridge into Google Meet, so her follow-ups can come with her, wherever she is.</span>”</div>
+
+    <div class="sec">7 · The close · 20 seconds</div>
+    <div class="say">“<span class="p">[PAUSE]</span> Mary came in with chest pain and no words anyone understood. She leaves <em>heard</em>, with her allergy on her record.<br>
+      CareBridge doesn’t replace the people who care for Mary. It makes sure <em>they can understand her</em>.<br>
+      Because everyone deserves to be able to ask for help, <em>and to be understood when they do.</em> Thank you.”</div>
+  </div>
+
+  <div class="hand">
+    <div class="box explain"><b class="t">What Consultation Mode is (for you, not to read out)</b>
+      Emergency Mode is hands-free: it translates both ways on its own, instantly. Consultation Mode (on screen: <b>Standard Consultation</b>) is for planned visits like check-ups, clinics and ward rounds, when there is time to get every word right.
+      <ol>
+        <li><b>Two screens, one conversation.</b> The doctor uses a phone; the patient has their own screen (the iPad) in their language.</li>
+        <li><b>The doctor speaks, then reviews.</b> CareBridge shows what it heard, with doses, medicines and “not” highlighted. The doctor can edit it, and must tick that the highlighted details are right.</li>
+        <li><b>Then it goes to the patient.</b> It is translated, numbers and medicines are checked, and it is shown and read aloud on the patient’s screen.</li>
+        <li><b>The patient answers</b> by speaking, or by tapping answers, a pain scale or a body map. Everything is saved to the record.</li>
+      </ol>
+    </div>
+  </div>
+  <div class="foot"><span><b style="color:var(--red)">Backup:</b> misheard? Tap <b>Type instead</b>. Bakht’s 4:00 finger? Drop the ✂ line, go to the close. Finish at 4:20.</span><span>5 / 6</span></div>
+</section>
+
+<!-- ================= PAGE 6: SETUP AND BACKUPS ================= -->
+<section class="page">
+  <div class="head">
+    <div><span class="who">Everyone · before 09:00</span><h1>Setup and backups</h1></div>
+    <div class="meta"><b>Start at 08:00</b>Rehearse at 08:30.<br>Fresh sessions at 08:50.</div>
+  </div>
+
+  <h2 style="margin-top:0">08:00 · Mohd: wake the server</h2>
+  <ul class="check">
+    <li>AWS Academy Learner Lab → <b>Start Lab</b>. This gives a fresh 4 hours, until about 12:00. Wait for the green dot.</li>
+    <li>On the laptop open <b>https://lekjx2h7ch.execute-api.us-east-1.amazonaws.com/api/health</b> and refresh until it shows <b>"ready":true</b> (2 to 3 minutes).</li>
+    <li>Sign in to CareBridge on every device with the staff code, each with your own first name.</li>
+  </ul>
+
+  <h2>08:10 · Every device</h2>
+  <ul class="check">
+    <li>Charged above 80%. Volume at maximum. <b>iPhone silent switch OFF</b>, or the app will be muted.</li>
+    <li>Do Not Disturb on. Auto-lock set to Never. All other apps closed. Everyone on the same Wi-Fi; Mohd has a hotspot ready.</li>
+  </ul>
+
+  <h2>08:30 · Rehearse twice with a stopwatch</h2>
+  <ul class="check">
+    <li><b>Bakht:</b> open <b>https://lekjx2h7ch.execute-api.us-east-1.amazonaws.com/audio/mary.wav</b> in Safari and play it once.</li>
+    <li><b>Chijindu Okafor:</b> do the full Emergency demo once (allow the microphone when asked). Check the English is spoken loudly. Then go back to the home screen.</li>
+    <li>Time the whole pitch. Over 4:20? Cut the grey ✂ lines, starting with Mohd’s. Never cut a demo.</li>
+  </ul>
+
+  <h2>08:50 · Fresh sessions for the judges</h2>
+  <ul class="check">
+    <li><b>Mohd:</b> Home → <b>Standard Consultation</b> → tap <b>Українська</b>. Open <b>Add a device</b> to see the code.</li>
+    <li><b>Bakht:</b> iPad → <b>Join a session</b> → enter the code → <b>Patient</b>. Tap Start and consent, as Mary would. Put the iPad where you can grab it.</li>
+    <li><b>Chijindu Okafor:</b> stay on the home screen. Emergency starts live, in front of the judges.</li>
+    <li>Poster on the board: <b>top row 1 · 2 · 3, bottom row 4 · 5 · 6</b>, page 1 top left at eye level.</li>
+  </ul>
+
+  <h2>If something breaks</h2>
+  <table>
+    <tr><th style="width:30%">Problem</th><th>What to do, without stopping</th></tr>
+    <tr><td><b>Speech is misheard</b></td><td>Re-record once. Then type it, or use a pre-checked phrase: “We can type it too.”</td></tr>
+    <tr><td><b>No sound from a device</b></td><td>Point at the words on screen: “She sees it in her own language, and normally hears it too.”</td></tr>
+    <tr><td><b>Site down or Wi-Fi gone</b></td><td>Home → <b>Offline phrasebook</b>: “We built an offline mode for exactly this.” Keep pitching from the poster.</td></tr>
+    <tr><td><b>Running long</b></td><td>At Bakht’s 4:00 finger, Mohd cuts the grey ✂ line and goes straight to the close.</td></tr>
+  </table>
+  <div class="foot"><span>Never type or show the staff code where a judge’s phone or camera can see it.</span><span>6 / 6</span></div>
+</section>
+
+</body>
+</html>

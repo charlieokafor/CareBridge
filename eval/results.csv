@@ -1,0 +1,49 @@
+kind,error,source,translation,back,status,score,failed_checks
+clean,,Take two 500 milligram paracetamol tablets every six hours.,Приймайте дві таблетки парацетамолу по 500 міліграм кожні шість годин.,Take two paracetamol tablets of 500 milligrams every six hours.,ok,100,
+planted,dose/number changed,Take two 500 milligram paracetamol tablets every six hours.,Приймайте дві таблетки парацетамолу по 5000 міліграм кожні шість годин.,"Take two paracetamol tablets of 5,000 milligrams every six hours.",fail,100,Numbers
+planted,medicine swapped,Take two 500 milligram paracetamol tablets every six hours.,Приймайте дві таблетки ібупрофену по 500 міліграм кожні шість годин.,Take two tablets of ibuprofen of 500 milligrams every six hours.,fail,53,Clinical terms
+clean,,Do not eat or drink anything after midnight.,Не їжте і не пийте нічого після півночі.,Do not eat or drink anything after midnight.,ok,100,
+planted,'not' deleted,Do not eat or drink anything after midnight.,Їжте і не пийте нічого після півночі.,Eat and drink nothing after midnight.,ok,81,
+clean,,The pain is in your left leg.,Біль у вашій лівій нозі.,Pain in your left leg.,ok,100,
+planted,left/right swapped,The pain is in your left leg.,Біль у вашій правій нозі.,Pain in your right leg.,fail,99,"Left, Right"
+clean,,Take one ibuprofen tablet twice a day after food.,Приймати по одній таблетці ібупрофену двічі на день після їжі.,Take one tablet of ibuprofen twice a day after meals.,ok,100,
+planted,dose/number changed,Take one ibuprofen tablet twice a day after food.,Приймати по одній таблетці ібупрофену чотири рази на день після їжі.,Take one tablet of ibuprofen four times a day after meals.,fail,100,Numbers
+planted,medicine swapped,Take one ibuprofen tablet twice a day after food.,Приймати по одній таблетці парацетамолу двічі на день після їжі.,Take one tablet of paracetamol twice a day after meals.,fail,56,Clinical terms
+clean,,You are allergic to penicillin.,У вас алергія на пеніцилін.,You are allergic to penicillin.,ok,100,
+planted,medicine swapped,You are allergic to penicillin.,У вас алергія на амоксицилін.,You are allergic to amoxicillin.,fail,67,Clinical terms
+clean,,Do not take more than eight tablets in 24 hours.,Не приймайте більше восьми таблеток за 24 години.,Do not take more than eight tablets in 24 hours.,ok,100,
+planted,dose/number changed,Do not take more than eight tablets in 24 hours.,Не приймайте більше восьми таблеток за 240 години.,Do not take more than eight tablets in 240 hours.,fail,100,Numbers
+planted,'not' deleted,Do not take more than eight tablets in 24 hours.,Приймайте більше восьми таблеток за 24 години.,Take more than eight tablets in 24 hours.,fail,69,Negation
+clean,,We will operate on your right knee tomorrow.,Завтра ми зробимо операцію на правому коліні.,Tomorrow we will have surgery on the right knee.,warn,74,
+planted,left/right swapped,We will operate on your right knee tomorrow.,Завтра ми зробимо операцію на лівому коліні.,Tomorrow we will have surgery on our left knee.,fail,71,"Left, Right"
+clean,,Take 10 units of insulin before breakfast.,Приймати 10 одиниць інсуліну перед сніданком.,Take 10 units of insulin before breakfast.,ok,100,
+planted,dose/number changed,Take 10 units of insulin before breakfast.,Приймати 100 одиниць інсуліну перед сніданком.,Take 100 units of insulin before breakfast.,fail,89,Numbers
+planted,medicine swapped,Take 10 units of insulin before breakfast.,Приймати 10 одиниць гепарину перед сніданком.,Take 10 units of heparin before breakfast.,fail,54,Clinical terms
+clean,,Your blood pressure is 150 over 90.,Ваш артеріальний тиск становить 150 понад 90.,Your blood pressure is 150 over 90.,ok,100,
+planted,dose/number changed,Your blood pressure is 150 over 90.,Ваш артеріальний тиск становить 1500 понад 90.,Your blood pressure is 1500 over 90.,fail,100,Numbers
+clean,,Do not drive for 24 hours after the anaesthetic.,Не керуйте автомобілем протягом 24 годин після анестезії.,Do not drive for 24 hours after anesthesia.,warn,96,
+planted,dose/number changed,Do not drive for 24 hours after the anaesthetic.,Не керуйте автомобілем протягом 240 годин після анестезії.,Do not drive for 240 hours after anesthesia.,fail,89,Numbers
+planted,'not' deleted,Do not drive for 24 hours after the anaesthetic.,Керуйте автомобілем протягом 24 годин після анестезії.,Drive the car for 24 hours after anesthesia.,fail,65,Negation
+clean,,The X-ray shows a fracture in your left wrist.,Рентген показує перелом у лівому зап'ясті.,An X-ray shows a fracture in his left wrist.,ok,88,
+planted,left/right swapped,The X-ray shows a fracture in your left wrist.,Рентген показує перелом у правому зап'ясті.,An X-ray shows a fracture in the right wrist.,fail,100,"Left, Right"
+clean,,Take 5 ml of the syrup three times a day.,Приймати по 5 мл сиропу тричі на день.,Take 5 ml of syrup three times a day.,ok,100,
+planted,dose/number changed,Take 5 ml of the syrup three times a day.,Приймати по 50 мл сиропу тричі на день.,Take 50 ml of syrup three times a day.,fail,82,Numbers
+clean,,You must not take aspirin with this medicine.,Не можна приймати аспірин разом з цим ліками.,You can not take aspirin with this medicine.,ok,97,
+planted,'not' deleted,You must not take aspirin with this medicine.,Можна приймати аспірин разом з цим ліками.,You can take aspirin with this medicine.,fail,63,Negation
+planted,medicine swapped,You must not take aspirin with this medicine.,Не можна приймати парацетамол разом з цим ліками.,You can not take paracetamol with this medicine.,fail,59,Clinical terms
+clean,,Come back in 7 days to have the stitches removed.,"Поверніться через 7 днів, щоб видалити шви.",Come back after 7 days to remove the stitches.,ok,100,
+planted,dose/number changed,Come back in 7 days to have the stitches removed.,"Поверніться через 70 днів, щоб видалити шви.",Come back in 70 days to remove the stitches.,fail,74,Numbers
+clean,,Do not lift anything heavy for six weeks.,Не піднімайте нічого важкого протягом шести тижнів.,Do not lift anything heavy for six weeks.,ok,100,
+planted,dose/number changed,Do not lift anything heavy for six weeks.,Не піднімайте нічого важкого протягом восьми тижнів.,Do not lift anything heavy for eight weeks.,fail,96,Numbers
+planted,'not' deleted,Do not lift anything heavy for six weeks.,Піднімайте нічого важкого протягом шести тижнів.,Lift anything heavy for six weeks.,fail,59,Negation
+clean,,Your temperature is 39 degrees.,Ваша температура 39 градусів.,Your temperature is 39 degrees.,ok,100,
+planted,dose/number changed,Your temperature is 39 degrees.,Ваша температура 390 градусів.,Your temperature is 390 degrees.,fail,47,Numbers
+clean,,"Take the antibiotic for 5 days, even if you feel better.","Приймайте антибіотик протягом 5 днів, навіть якщо ви відчуваєте себе краще.","Take an antibiotic for 5 days, even if you feel better.",ok,100,
+planted,dose/number changed,"Take the antibiotic for 5 days, even if you feel better.","Приймайте антибіотик протягом 50 днів, навіть якщо ви відчуваєте себе краще.","Take an antibiotic for 50 days, even if you feel better.",fail,78,Numbers
+planted,medicine swapped,"Take the antibiotic for 5 days, even if you feel better.","Приймайте знеболювальне протягом 5 днів, навіть якщо ви відчуваєте себе краще.","Take a painkiller for 5 days, even if you feel better.",fail,71,Clinical terms
+clean,,The pain on your right side may be appendicitis.,Біль на правому боці може бути апендицитом.,Pain on the right side can be appendicitis.,ok,100,
+planted,left/right swapped,The pain on your right side may be appendicitis.,Біль на лівому боці може бути апендицитом.,Pain on the left side can be appendicitis.,fail,100,"Left, Right"
+clean,,Do not stop taking warfarin without asking your doctor.,"Не припиняйте приймати варфарин, не запитавши лікаря.",Do not stop taking warfarin without asking your doctor.,ok,100,
+planted,'not' deleted,Do not stop taking warfarin without asking your doctor.,"Припиняйте приймати варфарин, не запитавши лікаря.",Stop taking warfarin without asking your doctor.,fail,91,Negation
+planted,medicine swapped,Do not stop taking warfarin without asking your doctor.,"Не припиняйте приймати аспірин, не запитавши лікаря.",Do not stop taking aspirin without asking your doctor.,fail,49,Clinical terms
+clean,,Press this button if the pain in your chest gets worse.,"Натисніть цю кнопку, якщо біль у грудях посилюється.",Press this button if the chest pain gets worse.,ok,100,

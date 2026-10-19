@@ -1,0 +1,11 @@
+.venv*/
+__pycache__/
+*.pyc
+.DS_Store
+*.pem
+*.env
+node_modules/
+
+_secrets/
+_to_delete/
+*accessKeys*.csv

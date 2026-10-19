@@ -1,0 +1,2487 @@
+{
+ "fleurs_en_0__clean": {
+  "text": "The governor's office said nineteen of the injured were police officers.",
+  "lang": "en",
+  "clip": "fleurs_en_0",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_0__er_10db": {
+  "text": "The governor's office said nineteen of the injured were police officers.",
+  "lang": "en",
+  "clip": "fleurs_en_0",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_0__er_5db": {
+  "text": "The governor's office said nineteen of the injured were police officers.",
+  "lang": "en",
+  "clip": "fleurs_en_0",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_0__er_0db": {
+  "text": "The governor's office said nineteen of the injured were police officers.",
+  "lang": "en",
+  "clip": "fleurs_en_0",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_0__russian": {
+  "text": "The governor's office said nineteen of the injured were police officers.",
+  "lang": "en",
+  "clip": "fleurs_en_0",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_1__clean": {
+  "text": "Bishkek was described as sinking into a state of \"anarchy\" by one observer, as gangs of people roamed the streets and plundered stores of consumer goods.",
+  "lang": "en",
+  "clip": "fleurs_en_1",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_1__er_10db": {
+  "text": "Bishkek was described as sinking into a state of \"anarchy\" by one observer, as gangs of people roamed the streets and plundered stores of consumer goods.",
+  "lang": "en",
+  "clip": "fleurs_en_1",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_1__er_5db": {
+  "text": "Bishkek was described as sinking into a state of \"anarchy\" by one observer, as gangs of people roamed the streets and plundered stores of consumer goods.",
+  "lang": "en",
+  "clip": "fleurs_en_1",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_1__er_0db": {
+  "text": "Bishkek was described as sinking into a state of \"anarchy\" by one observer, as gangs of people roamed the streets and plundered stores of consumer goods.",
+  "lang": "en",
+  "clip": "fleurs_en_1",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_1__russian": {
+  "text": "Bishkek was described as sinking into a state of \"anarchy\" by one observer, as gangs of people roamed the streets and plundered stores of consumer goods.",
+  "lang": "en",
+  "clip": "fleurs_en_1",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_2__clean": {
+  "text": "Popular sports include football, basketball, volleyball, water-polo, fencing, rugby, cycling, ice hockey, roller hockey and F1 motor racing.",
+  "lang": "en",
+  "clip": "fleurs_en_2",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_2__er_10db": {
+  "text": "Popular sports include football, basketball, volleyball, water-polo, fencing, rugby, cycling, ice hockey, roller hockey and F1 motor racing.",
+  "lang": "en",
+  "clip": "fleurs_en_2",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_2__er_5db": {
+  "text": "Popular sports include football, basketball, volleyball, water-polo, fencing, rugby, cycling, ice hockey, roller hockey and F1 motor racing.",
+  "lang": "en",
+  "clip": "fleurs_en_2",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_2__er_0db": {
+  "text": "Popular sports include football, basketball, volleyball, water-polo, fencing, rugby, cycling, ice hockey, roller hockey and F1 motor racing.",
+  "lang": "en",
+  "clip": "fleurs_en_2",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_2__russian": {
+  "text": "Popular sports include football, basketball, volleyball, water-polo, fencing, rugby, cycling, ice hockey, roller hockey and F1 motor racing.",
+  "lang": "en",
+  "clip": "fleurs_en_2",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_3__clean": {
+  "text": "Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night.",
+  "lang": "en",
+  "clip": "fleurs_en_3",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_3__er_10db": {
+  "text": "Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night.",
+  "lang": "en",
+  "clip": "fleurs_en_3",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_3__er_5db": {
+  "text": "Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night.",
+  "lang": "en",
+  "clip": "fleurs_en_3",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_3__er_0db": {
+  "text": "Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night.",
+  "lang": "en",
+  "clip": "fleurs_en_3",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_3__russian": {
+  "text": "Remember that even though music on the main stages may have finished, there may be sections of the festival that will keep playing music until late into the night.",
+  "lang": "en",
+  "clip": "fleurs_en_3",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_4__clean": {
+  "text": "During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.",
+  "lang": "en",
+  "clip": "fleurs_en_4",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_4__er_10db": {
+  "text": "During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.",
+  "lang": "en",
+  "clip": "fleurs_en_4",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_4__er_5db": {
+  "text": "During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.",
+  "lang": "en",
+  "clip": "fleurs_en_4",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_4__er_0db": {
+  "text": "During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.",
+  "lang": "en",
+  "clip": "fleurs_en_4",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_4__russian": {
+  "text": "During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.",
+  "lang": "en",
+  "clip": "fleurs_en_4",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_5__clean": {
+  "text": "The term bug is used by entomologists in a formal sense for this group of insects.",
+  "lang": "en",
+  "clip": "fleurs_en_5",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_5__er_10db": {
+  "text": "The term bug is used by entomologists in a formal sense for this group of insects.",
+  "lang": "en",
+  "clip": "fleurs_en_5",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_5__er_5db": {
+  "text": "The term bug is used by entomologists in a formal sense for this group of insects.",
+  "lang": "en",
+  "clip": "fleurs_en_5",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_5__er_0db": {
+  "text": "The term bug is used by entomologists in a formal sense for this group of insects.",
+  "lang": "en",
+  "clip": "fleurs_en_5",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_5__russian": {
+  "text": "The term bug is used by entomologists in a formal sense for this group of insects.",
+  "lang": "en",
+  "clip": "fleurs_en_5",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_6__clean": {
+  "text": "However, that is not true. Although there is something written on the back of the document, it is not a treasure map.",
+  "lang": "en",
+  "clip": "fleurs_en_6",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_6__er_10db": {
+  "text": "However, that is not true. Although there is something written on the back of the document, it is not a treasure map.",
+  "lang": "en",
+  "clip": "fleurs_en_6",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_6__er_5db": {
+  "text": "However, that is not true. Although there is something written on the back of the document, it is not a treasure map.",
+  "lang": "en",
+  "clip": "fleurs_en_6",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_6__er_0db": {
+  "text": "However, that is not true. Although there is something written on the back of the document, it is not a treasure map.",
+  "lang": "en",
+  "clip": "fleurs_en_6",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_6__russian": {
+  "text": "However, that is not true. Although there is something written on the back of the document, it is not a treasure map.",
+  "lang": "en",
+  "clip": "fleurs_en_6",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_7__clean": {
+  "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+  "lang": "en",
+  "clip": "fleurs_en_7",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_7__er_10db": {
+  "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+  "lang": "en",
+  "clip": "fleurs_en_7",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_7__er_5db": {
+  "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+  "lang": "en",
+  "clip": "fleurs_en_7",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_7__er_0db": {
+  "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+  "lang": "en",
+  "clip": "fleurs_en_7",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_7__russian": {
+  "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+  "lang": "en",
+  "clip": "fleurs_en_7",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_8__clean": {
+  "text": "Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.",
+  "lang": "en",
+  "clip": "fleurs_en_8",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_8__er_10db": {
+  "text": "Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.",
+  "lang": "en",
+  "clip": "fleurs_en_8",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_8__er_5db": {
+  "text": "Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.",
+  "lang": "en",
+  "clip": "fleurs_en_8",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_8__er_0db": {
+  "text": "Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.",
+  "lang": "en",
+  "clip": "fleurs_en_8",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_8__russian": {
+  "text": "Police superintendent Chandra Shekhar Solanki said the accused appeared in court with covered faces.",
+  "lang": "en",
+  "clip": "fleurs_en_8",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_en_9__clean": {
+  "text": "Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.",
+  "lang": "en",
+  "clip": "fleurs_en_9",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_en_9__er_10db": {
+  "text": "Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.",
+  "lang": "en",
+  "clip": "fleurs_en_9",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_9__er_5db": {
+  "text": "Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.",
+  "lang": "en",
+  "clip": "fleurs_en_9",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_9__er_0db": {
+  "text": "Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.",
+  "lang": "en",
+  "clip": "fleurs_en_9",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_en_9__russian": {
+  "text": "Unfortunately, studying traffic flow is difficult because driver behavior cannot be predicted with one-hundred percent certainty.",
+  "lang": "en",
+  "clip": "fleurs_en_9",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_0__clean": {
+  "text": "Так само, з Шенгенською візою вам не потрібно отримувати візи окремо кожної з країн, які входять до Шенгенської зони, що заощаджує час, гроші та паперову роботу.",
+  "lang": "uk",
+  "clip": "fleurs_uk_0",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_0__er_10db": {
+  "text": "Так само, з Шенгенською візою вам не потрібно отримувати візи окремо кожної з країн, які входять до Шенгенської зони, що заощаджує час, гроші та паперову роботу.",
+  "lang": "uk",
+  "clip": "fleurs_uk_0",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_0__er_5db": {
+  "text": "Так само, з Шенгенською візою вам не потрібно отримувати візи окремо кожної з країн, які входять до Шенгенської зони, що заощаджує час, гроші та паперову роботу.",
+  "lang": "uk",
+  "clip": "fleurs_uk_0",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_0__er_0db": {
+  "text": "Так само, з Шенгенською візою вам не потрібно отримувати візи окремо кожної з країн, які входять до Шенгенської зони, що заощаджує час, гроші та паперову роботу.",
+  "lang": "uk",
+  "clip": "fleurs_uk_0",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_0__russian": {
+  "text": "Так само, з Шенгенською візою вам не потрібно отримувати візи окремо кожної з країн, які входять до Шенгенської зони, що заощаджує час, гроші та паперову роботу.",
+  "lang": "uk",
+  "clip": "fleurs_uk_0",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_1__clean": {
+  "text": "У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них.",
+  "lang": "uk",
+  "clip": "fleurs_uk_1",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_1__er_10db": {
+  "text": "У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них.",
+  "lang": "uk",
+  "clip": "fleurs_uk_1",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_1__er_5db": {
+  "text": "У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них.",
+  "lang": "uk",
+  "clip": "fleurs_uk_1",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_1__er_0db": {
+  "text": "У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них.",
+  "lang": "uk",
+  "clip": "fleurs_uk_1",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_1__russian": {
+  "text": "У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них.",
+  "lang": "uk",
+  "clip": "fleurs_uk_1",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_2__clean": {
+  "text": "Такі елементи, як кальцій і калій, вважаються металами. Звичайно, також є такі метали, як срібло та золото.",
+  "lang": "uk",
+  "clip": "fleurs_uk_2",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_2__er_10db": {
+  "text": "Такі елементи, як кальцій і калій, вважаються металами. Звичайно, також є такі метали, як срібло та золото.",
+  "lang": "uk",
+  "clip": "fleurs_uk_2",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_2__er_5db": {
+  "text": "Такі елементи, як кальцій і калій, вважаються металами. Звичайно, також є такі метали, як срібло та золото.",
+  "lang": "uk",
+  "clip": "fleurs_uk_2",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_2__er_0db": {
+  "text": "Такі елементи, як кальцій і калій, вважаються металами. Звичайно, також є такі метали, як срібло та золото.",
+  "lang": "uk",
+  "clip": "fleurs_uk_2",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_2__russian": {
+  "text": "Такі елементи, як кальцій і калій, вважаються металами. Звичайно, також є такі метали, як срібло та золото.",
+  "lang": "uk",
+  "clip": "fleurs_uk_2",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_3__clean": {
+  "text": "Комісія стала відповіддю Мартеллі на масштабні протести проти режиму, які розпочались у жовтні.",
+  "lang": "uk",
+  "clip": "fleurs_uk_3",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_3__er_10db": {
+  "text": "Комісія стала відповіддю Мартеллі на масштабні протести проти режиму, які розпочались у жовтні.",
+  "lang": "uk",
+  "clip": "fleurs_uk_3",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_3__er_5db": {
+  "text": "Комісія стала відповіддю Мартеллі на масштабні протести проти режиму, які розпочались у жовтні.",
+  "lang": "uk",
+  "clip": "fleurs_uk_3",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_3__er_0db": {
+  "text": "Комісія стала відповіддю Мартеллі на масштабні протести проти режиму, які розпочались у жовтні.",
+  "lang": "uk",
+  "clip": "fleurs_uk_3",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_3__russian": {
+  "text": "Комісія стала відповіддю Мартеллі на масштабні протести проти режиму, які розпочались у жовтні.",
+  "lang": "uk",
+  "clip": "fleurs_uk_3",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_4__clean": {
+  "text": "Сундарбан був оголошений об'єктом Світової спадщини ЮНЕСКО. Частина лісу в межах індійської території називається Національним парком Сундарбан.",
+  "lang": "uk",
+  "clip": "fleurs_uk_4",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_4__er_10db": {
+  "text": "Сундарбан був оголошений об'єктом Світової спадщини ЮНЕСКО. Частина лісу в межах індійської території називається Національним парком Сундарбан.",
+  "lang": "uk",
+  "clip": "fleurs_uk_4",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_4__er_5db": {
+  "text": "Сундарбан був оголошений об'єктом Світової спадщини ЮНЕСКО. Частина лісу в межах індійської території називається Національним парком Сундарбан.",
+  "lang": "uk",
+  "clip": "fleurs_uk_4",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_4__er_0db": {
+  "text": "Сундарбан був оголошений об'єктом Світової спадщини ЮНЕСКО. Частина лісу в межах індійської території називається Національним парком Сундарбан.",
+  "lang": "uk",
+  "clip": "fleurs_uk_4",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_4__russian": {
+  "text": "Сундарбан був оголошений об'єктом Світової спадщини ЮНЕСКО. Частина лісу в межах індійської території називається Національним парком Сундарбан.",
+  "lang": "uk",
+  "clip": "fleurs_uk_4",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_5__clean": {
+  "text": "Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому.",
+  "lang": "uk",
+  "clip": "fleurs_uk_5",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_5__er_10db": {
+  "text": "Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому.",
+  "lang": "uk",
+  "clip": "fleurs_uk_5",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_5__er_5db": {
+  "text": "Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому.",
+  "lang": "uk",
+  "clip": "fleurs_uk_5",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_5__er_0db": {
+  "text": "Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому.",
+  "lang": "uk",
+  "clip": "fleurs_uk_5",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_5__russian": {
+  "text": "Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому.",
+  "lang": "uk",
+  "clip": "fleurs_uk_5",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_6__clean": {
+  "text": "З моменту заснування Асунсьйона в 1537 році Парагваю вдалося зберегти значну частину своїх корінних ознак і самобутності.",
+  "lang": "uk",
+  "clip": "fleurs_uk_6",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_6__er_10db": {
+  "text": "З моменту заснування Асунсьйона в 1537 році Парагваю вдалося зберегти значну частину своїх корінних ознак і самобутності.",
+  "lang": "uk",
+  "clip": "fleurs_uk_6",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_6__er_5db": {
+  "text": "З моменту заснування Асунсьйона в 1537 році Парагваю вдалося зберегти значну частину своїх корінних ознак і самобутності.",
+  "lang": "uk",
+  "clip": "fleurs_uk_6",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_6__er_0db": {
+  "text": "З моменту заснування Асунсьйона в 1537 році Парагваю вдалося зберегти значну частину своїх корінних ознак і самобутності.",
+  "lang": "uk",
+  "clip": "fleurs_uk_6",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_6__russian": {
+  "text": "З моменту заснування Асунсьйона в 1537 році Парагваю вдалося зберегти значну частину своїх корінних ознак і самобутності.",
+  "lang": "uk",
+  "clip": "fleurs_uk_6",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_7__clean": {
+  "text": "Касабланка — це одне з найменш цікавих місць для шопінгу в усьому Марокко.",
+  "lang": "uk",
+  "clip": "fleurs_uk_7",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_7__er_10db": {
+  "text": "Касабланка — це одне з найменш цікавих місць для шопінгу в усьому Марокко.",
+  "lang": "uk",
+  "clip": "fleurs_uk_7",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_7__er_5db": {
+  "text": "Касабланка — це одне з найменш цікавих місць для шопінгу в усьому Марокко.",
+  "lang": "uk",
+  "clip": "fleurs_uk_7",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_7__er_0db": {
+  "text": "Касабланка — це одне з найменш цікавих місць для шопінгу в усьому Марокко.",
+  "lang": "uk",
+  "clip": "fleurs_uk_7",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_7__russian": {
+  "text": "Касабланка — це одне з найменш цікавих місць для шопінгу в усьому Марокко.",
+  "lang": "uk",
+  "clip": "fleurs_uk_7",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_8__clean": {
+  "text": "Цивілізація — унікальна культура значної групи людей, які спільно живуть і працюють, тобто суспільства.",
+  "lang": "uk",
+  "clip": "fleurs_uk_8",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_8__er_10db": {
+  "text": "Цивілізація — унікальна культура значної групи людей, які спільно живуть і працюють, тобто суспільства.",
+  "lang": "uk",
+  "clip": "fleurs_uk_8",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_8__er_5db": {
+  "text": "Цивілізація — унікальна культура значної групи людей, які спільно живуть і працюють, тобто суспільства.",
+  "lang": "uk",
+  "clip": "fleurs_uk_8",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_8__er_0db": {
+  "text": "Цивілізація — унікальна культура значної групи людей, які спільно живуть і працюють, тобто суспільства.",
+  "lang": "uk",
+  "clip": "fleurs_uk_8",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_8__russian": {
+  "text": "Цивілізація — унікальна культура значної групи людей, які спільно живуть і працюють, тобто суспільства.",
+  "lang": "uk",
+  "clip": "fleurs_uk_8",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_9__clean": {
+  "text": "Велика піраміда, побудована єгиптянами в третьому столітті до нашої ери, є одним з багатьох великих пірамід, побудованих на честь мертвого фараона.",
+  "lang": "uk",
+  "clip": "fleurs_uk_9",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_9__er_10db": {
+  "text": "Велика піраміда, побудована єгиптянами в третьому столітті до нашої ери, є одним з багатьох великих пірамід, побудованих на честь мертвого фараона.",
+  "lang": "uk",
+  "clip": "fleurs_uk_9",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_9__er_5db": {
+  "text": "Велика піраміда, побудована єгиптянами в третьому столітті до нашої ери, є одним з багатьох великих пірамід, побудованих на честь мертвого фараона.",
+  "lang": "uk",
+  "clip": "fleurs_uk_9",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_9__er_0db": {
+  "text": "Велика піраміда, побудована єгиптянами в третьому столітті до нашої ери, є одним з багатьох великих пірамід, побудованих на честь мертвого фараона.",
+  "lang": "uk",
+  "clip": "fleurs_uk_9",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_uk_9__russian": {
+  "text": "Велика піраміда, побудована єгиптянами в третьому столітті до нашої ери, є одним з багатьох великих пірамід, побудованих на честь мертвого фараона.",
+  "lang": "uk",
+  "clip": "fleurs_uk_9",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_0__clean": {
+  "text": "Pałkarze środkowego rzędu, Sachin Tendulkar oraz Rahul Dravid, spisali się dobrze, tworząc parę na sto runów.",
+  "lang": "pl",
+  "clip": "fleurs_pl_0",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_0__er_10db": {
+  "text": "Pałkarze środkowego rzędu, Sachin Tendulkar oraz Rahul Dravid, spisali się dobrze, tworząc parę na sto runów.",
+  "lang": "pl",
+  "clip": "fleurs_pl_0",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_0__er_5db": {
+  "text": "Pałkarze środkowego rzędu, Sachin Tendulkar oraz Rahul Dravid, spisali się dobrze, tworząc parę na sto runów.",
+  "lang": "pl",
+  "clip": "fleurs_pl_0",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_0__er_0db": {
+  "text": "Pałkarze środkowego rzędu, Sachin Tendulkar oraz Rahul Dravid, spisali się dobrze, tworząc parę na sto runów.",
+  "lang": "pl",
+  "clip": "fleurs_pl_0",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_0__russian": {
+  "text": "Pałkarze środkowego rzędu, Sachin Tendulkar oraz Rahul Dravid, spisali się dobrze, tworząc parę na sto runów.",
+  "lang": "pl",
+  "clip": "fleurs_pl_0",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_1__clean": {
+  "text": "Można korzystać z taksówek motocyklowych (tzw. boda-boda), aby poruszać się po Gomie. Standardowa (lokalna) cena za krótki kurs wykosi ok. 500 franków kongijskich.",
+  "lang": "pl",
+  "clip": "fleurs_pl_1",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_1__er_10db": {
+  "text": "Można korzystać z taksówek motocyklowych (tzw. boda-boda), aby poruszać się po Gomie. Standardowa (lokalna) cena za krótki kurs wykosi ok. 500 franków kongijskich.",
+  "lang": "pl",
+  "clip": "fleurs_pl_1",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_1__er_5db": {
+  "text": "Można korzystać z taksówek motocyklowych (tzw. boda-boda), aby poruszać się po Gomie. Standardowa (lokalna) cena za krótki kurs wykosi ok. 500 franków kongijskich.",
+  "lang": "pl",
+  "clip": "fleurs_pl_1",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_1__er_0db": {
+  "text": "Można korzystać z taksówek motocyklowych (tzw. boda-boda), aby poruszać się po Gomie. Standardowa (lokalna) cena za krótki kurs wykosi ok. 500 franków kongijskich.",
+  "lang": "pl",
+  "clip": "fleurs_pl_1",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_1__russian": {
+  "text": "Można korzystać z taksówek motocyklowych (tzw. boda-boda), aby poruszać się po Gomie. Standardowa (lokalna) cena za krótki kurs wykosi ok. 500 franków kongijskich.",
+  "lang": "pl",
+  "clip": "fleurs_pl_1",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_2__clean": {
+  "text": "Wcale nie jest łatwo ją znaleźć, nawet gdy ktoś wie o jej istnieniu. We wnętrzu jaskini przybysza czeka absolutna izolacja.",
+  "lang": "pl",
+  "clip": "fleurs_pl_2",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_2__er_10db": {
+  "text": "Wcale nie jest łatwo ją znaleźć, nawet gdy ktoś wie o jej istnieniu. We wnętrzu jaskini przybysza czeka absolutna izolacja.",
+  "lang": "pl",
+  "clip": "fleurs_pl_2",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_2__er_5db": {
+  "text": "Wcale nie jest łatwo ją znaleźć, nawet gdy ktoś wie o jej istnieniu. We wnętrzu jaskini przybysza czeka absolutna izolacja.",
+  "lang": "pl",
+  "clip": "fleurs_pl_2",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_2__er_0db": {
+  "text": "Wcale nie jest łatwo ją znaleźć, nawet gdy ktoś wie o jej istnieniu. We wnętrzu jaskini przybysza czeka absolutna izolacja.",
+  "lang": "pl",
+  "clip": "fleurs_pl_2",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_2__russian": {
+  "text": "Wcale nie jest łatwo ją znaleźć, nawet gdy ktoś wie o jej istnieniu. We wnętrzu jaskini przybysza czeka absolutna izolacja.",
+  "lang": "pl",
+  "clip": "fleurs_pl_2",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_3__clean": {
+  "text": "Arnold Schwarzenegger, gubernator stanu Kalifornia, wprowadził ustawę zakazującą sprzedaży i wypożyczania brutalnych gier wideo osobom niepełnoletnim.",
+  "lang": "pl",
+  "clip": "fleurs_pl_3",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_3__er_10db": {
+  "text": "Arnold Schwarzenegger, gubernator stanu Kalifornia, wprowadził ustawę zakazującą sprzedaży i wypożyczania brutalnych gier wideo osobom niepełnoletnim.",
+  "lang": "pl",
+  "clip": "fleurs_pl_3",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_3__er_5db": {
+  "text": "Arnold Schwarzenegger, gubernator stanu Kalifornia, wprowadził ustawę zakazującą sprzedaży i wypożyczania brutalnych gier wideo osobom niepełnoletnim.",
+  "lang": "pl",
+  "clip": "fleurs_pl_3",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_3__er_0db": {
+  "text": "Arnold Schwarzenegger, gubernator stanu Kalifornia, wprowadził ustawę zakazującą sprzedaży i wypożyczania brutalnych gier wideo osobom niepełnoletnim.",
+  "lang": "pl",
+  "clip": "fleurs_pl_3",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_3__russian": {
+  "text": "Arnold Schwarzenegger, gubernator stanu Kalifornia, wprowadził ustawę zakazującą sprzedaży i wypożyczania brutalnych gier wideo osobom niepełnoletnim.",
+  "lang": "pl",
+  "clip": "fleurs_pl_3",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_4__clean": {
+  "text": "Haitański Instytut Sprawiedliwości i Demokracji odniósł się do niezależnych badań sugerujących, że nepalski batalion pokojowy ONZ bezwiednie przeniósł chorobę na Haiti.",
+  "lang": "pl",
+  "clip": "fleurs_pl_4",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_4__er_10db": {
+  "text": "Haitański Instytut Sprawiedliwości i Demokracji odniósł się do niezależnych badań sugerujących, że nepalski batalion pokojowy ONZ bezwiednie przeniósł chorobę na Haiti.",
+  "lang": "pl",
+  "clip": "fleurs_pl_4",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_4__er_5db": {
+  "text": "Haitański Instytut Sprawiedliwości i Demokracji odniósł się do niezależnych badań sugerujących, że nepalski batalion pokojowy ONZ bezwiednie przeniósł chorobę na Haiti.",
+  "lang": "pl",
+  "clip": "fleurs_pl_4",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_4__er_0db": {
+  "text": "Haitański Instytut Sprawiedliwości i Demokracji odniósł się do niezależnych badań sugerujących, że nepalski batalion pokojowy ONZ bezwiednie przeniósł chorobę na Haiti.",
+  "lang": "pl",
+  "clip": "fleurs_pl_4",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_4__russian": {
+  "text": "Haitański Instytut Sprawiedliwości i Demokracji odniósł się do niezależnych badań sugerujących, że nepalski batalion pokojowy ONZ bezwiednie przeniósł chorobę na Haiti.",
+  "lang": "pl",
+  "clip": "fleurs_pl_4",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_5__clean": {
+  "text": "Kongres rozpoczął finansowanie inicjatywy dotyczącej obsceniczności w roku fiskalnym 2005, określając, że FBI ma przeznaczyć 10 agentów ds. pornografii z udziałem dorosłych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_5",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_5__er_10db": {
+  "text": "Kongres rozpoczął finansowanie inicjatywy dotyczącej obsceniczności w roku fiskalnym 2005, określając, że FBI ma przeznaczyć 10 agentów ds. pornografii z udziałem dorosłych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_5",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_5__er_5db": {
+  "text": "Kongres rozpoczął finansowanie inicjatywy dotyczącej obsceniczności w roku fiskalnym 2005, określając, że FBI ma przeznaczyć 10 agentów ds. pornografii z udziałem dorosłych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_5",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_5__er_0db": {
+  "text": "Kongres rozpoczął finansowanie inicjatywy dotyczącej obsceniczności w roku fiskalnym 2005, określając, że FBI ma przeznaczyć 10 agentów ds. pornografii z udziałem dorosłych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_5",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_5__russian": {
+  "text": "Kongres rozpoczął finansowanie inicjatywy dotyczącej obsceniczności w roku fiskalnym 2005, określając, że FBI ma przeznaczyć 10 agentów ds. pornografii z udziałem dorosłych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_5",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_6__clean": {
+  "text": "W centrum medytacji tybetańskiej znajduje się joga bóstwa. Dzięki wizualizacji różnych bóstw oczyszcza się kanały energetyczne, aktywuje czakry i tworzy się świadomość oświecenia.",
+  "lang": "pl",
+  "clip": "fleurs_pl_6",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_6__er_10db": {
+  "text": "W centrum medytacji tybetańskiej znajduje się joga bóstwa. Dzięki wizualizacji różnych bóstw oczyszcza się kanały energetyczne, aktywuje czakry i tworzy się świadomość oświecenia.",
+  "lang": "pl",
+  "clip": "fleurs_pl_6",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_6__er_5db": {
+  "text": "W centrum medytacji tybetańskiej znajduje się joga bóstwa. Dzięki wizualizacji różnych bóstw oczyszcza się kanały energetyczne, aktywuje czakry i tworzy się świadomość oświecenia.",
+  "lang": "pl",
+  "clip": "fleurs_pl_6",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_6__er_0db": {
+  "text": "W centrum medytacji tybetańskiej znajduje się joga bóstwa. Dzięki wizualizacji różnych bóstw oczyszcza się kanały energetyczne, aktywuje czakry i tworzy się świadomość oświecenia.",
+  "lang": "pl",
+  "clip": "fleurs_pl_6",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_6__russian": {
+  "text": "W centrum medytacji tybetańskiej znajduje się joga bóstwa. Dzięki wizualizacji różnych bóstw oczyszcza się kanały energetyczne, aktywuje czakry i tworzy się świadomość oświecenia.",
+  "lang": "pl",
+  "clip": "fleurs_pl_6",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_7__clean": {
+  "text": "W przeważającej mierze praca była natury teoretycznej, ale program został napisany na potrzeby symulowania obserwacji galaktyki w gwiazdozbiorze Strzelca.",
+  "lang": "pl",
+  "clip": "fleurs_pl_7",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_7__er_10db": {
+  "text": "W przeważającej mierze praca była natury teoretycznej, ale program został napisany na potrzeby symulowania obserwacji galaktyki w gwiazdozbiorze Strzelca.",
+  "lang": "pl",
+  "clip": "fleurs_pl_7",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_7__er_5db": {
+  "text": "W przeważającej mierze praca była natury teoretycznej, ale program został napisany na potrzeby symulowania obserwacji galaktyki w gwiazdozbiorze Strzelca.",
+  "lang": "pl",
+  "clip": "fleurs_pl_7",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_7__er_0db": {
+  "text": "W przeważającej mierze praca była natury teoretycznej, ale program został napisany na potrzeby symulowania obserwacji galaktyki w gwiazdozbiorze Strzelca.",
+  "lang": "pl",
+  "clip": "fleurs_pl_7",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_7__russian": {
+  "text": "W przeważającej mierze praca była natury teoretycznej, ale program został napisany na potrzeby symulowania obserwacji galaktyki w gwiazdozbiorze Strzelca.",
+  "lang": "pl",
+  "clip": "fleurs_pl_7",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_8__clean": {
+  "text": "Większość osób pracujących w tym państwie posługuje się na co dzień językiem włoskim, zaś łacinę usłyszeć można często podczas uroczystości religijnych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_8",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_8__er_10db": {
+  "text": "Większość osób pracujących w tym państwie posługuje się na co dzień językiem włoskim, zaś łacinę usłyszeć można często podczas uroczystości religijnych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_8",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_8__er_5db": {
+  "text": "Większość osób pracujących w tym państwie posługuje się na co dzień językiem włoskim, zaś łacinę usłyszeć można często podczas uroczystości religijnych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_8",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_8__er_0db": {
+  "text": "Większość osób pracujących w tym państwie posługuje się na co dzień językiem włoskim, zaś łacinę usłyszeć można często podczas uroczystości religijnych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_8",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_8__russian": {
+  "text": "Większość osób pracujących w tym państwie posługuje się na co dzień językiem włoskim, zaś łacinę usłyszeć można często podczas uroczystości religijnych.",
+  "lang": "pl",
+  "clip": "fleurs_pl_8",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_9__clean": {
+  "text": "Na poziom pH wskazuje liczba jonów wodoru (litera „H” w skrócie „pH”) zawartych w badanej substancji chemicznej.",
+  "lang": "pl",
+  "clip": "fleurs_pl_9",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_9__er_10db": {
+  "text": "Na poziom pH wskazuje liczba jonów wodoru (litera „H” w skrócie „pH”) zawartych w badanej substancji chemicznej.",
+  "lang": "pl",
+  "clip": "fleurs_pl_9",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_9__er_5db": {
+  "text": "Na poziom pH wskazuje liczba jonów wodoru (litera „H” w skrócie „pH”) zawartych w badanej substancji chemicznej.",
+  "lang": "pl",
+  "clip": "fleurs_pl_9",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_9__er_0db": {
+  "text": "Na poziom pH wskazuje liczba jonów wodoru (litera „H” w skrócie „pH”) zawartych w badanej substancji chemicznej.",
+  "lang": "pl",
+  "clip": "fleurs_pl_9",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_pl_9__russian": {
+  "text": "Na poziom pH wskazuje liczba jonów wodoru (litera „H” w skrócie „pH”) zawartych w badanej substancji chemicznej.",
+  "lang": "pl",
+  "clip": "fleurs_pl_9",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_0__clean": {
+  "text": "După construirea barajului în 1963, au încetat inundațiile sezoniere care împrăștiau sedimente pe întreg cursul fluviului.",
+  "lang": "ro",
+  "clip": "fleurs_ro_0",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_0__er_10db": {
+  "text": "După construirea barajului în 1963, au încetat inundațiile sezoniere care împrăștiau sedimente pe întreg cursul fluviului.",
+  "lang": "ro",
+  "clip": "fleurs_ro_0",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_0__er_5db": {
+  "text": "După construirea barajului în 1963, au încetat inundațiile sezoniere care împrăștiau sedimente pe întreg cursul fluviului.",
+  "lang": "ro",
+  "clip": "fleurs_ro_0",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_0__er_0db": {
+  "text": "După construirea barajului în 1963, au încetat inundațiile sezoniere care împrăștiau sedimente pe întreg cursul fluviului.",
+  "lang": "ro",
+  "clip": "fleurs_ro_0",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_0__russian": {
+  "text": "După construirea barajului în 1963, au încetat inundațiile sezoniere care împrăștiau sedimente pe întreg cursul fluviului.",
+  "lang": "ro",
+  "clip": "fleurs_ro_0",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_1__clean": {
+  "text": "„În cursul nopții, au fost făcute între 150 și 200 de copii, cunoscute ca «postere Dunlap».”",
+  "lang": "ro",
+  "clip": "fleurs_ro_1",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_1__er_10db": {
+  "text": "„În cursul nopții, au fost făcute între 150 și 200 de copii, cunoscute ca «postere Dunlap».”",
+  "lang": "ro",
+  "clip": "fleurs_ro_1",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_1__er_5db": {
+  "text": "„În cursul nopții, au fost făcute între 150 și 200 de copii, cunoscute ca «postere Dunlap».”",
+  "lang": "ro",
+  "clip": "fleurs_ro_1",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_1__er_0db": {
+  "text": "„În cursul nopții, au fost făcute între 150 și 200 de copii, cunoscute ca «postere Dunlap».”",
+  "lang": "ro",
+  "clip": "fleurs_ro_1",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_1__russian": {
+  "text": "„În cursul nopții, au fost făcute între 150 și 200 de copii, cunoscute ca «postere Dunlap».”",
+  "lang": "ro",
+  "clip": "fleurs_ro_1",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_2__clean": {
+  "text": "Oamenii scriu acum mesaje pe ecranele computerului, fără a fi nevoie să pună vreodată mâna pe o ascuțitoare.",
+  "lang": "ro",
+  "clip": "fleurs_ro_2",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_2__er_10db": {
+  "text": "Oamenii scriu acum mesaje pe ecranele computerului, fără a fi nevoie să pună vreodată mâna pe o ascuțitoare.",
+  "lang": "ro",
+  "clip": "fleurs_ro_2",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_2__er_5db": {
+  "text": "Oamenii scriu acum mesaje pe ecranele computerului, fără a fi nevoie să pună vreodată mâna pe o ascuțitoare.",
+  "lang": "ro",
+  "clip": "fleurs_ro_2",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_2__er_0db": {
+  "text": "Oamenii scriu acum mesaje pe ecranele computerului, fără a fi nevoie să pună vreodată mâna pe o ascuțitoare.",
+  "lang": "ro",
+  "clip": "fleurs_ro_2",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_2__russian": {
+  "text": "Oamenii scriu acum mesaje pe ecranele computerului, fără a fi nevoie să pună vreodată mâna pe o ascuțitoare.",
+  "lang": "ro",
+  "clip": "fleurs_ro_2",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_3__clean": {
+  "text": "Scenele sunt afișate pe piramide și diferite piramide sunt iluminate.",
+  "lang": "ro",
+  "clip": "fleurs_ro_3",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_3__er_10db": {
+  "text": "Scenele sunt afișate pe piramide și diferite piramide sunt iluminate.",
+  "lang": "ro",
+  "clip": "fleurs_ro_3",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_3__er_5db": {
+  "text": "Scenele sunt afișate pe piramide și diferite piramide sunt iluminate.",
+  "lang": "ro",
+  "clip": "fleurs_ro_3",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_3__er_0db": {
+  "text": "Scenele sunt afișate pe piramide și diferite piramide sunt iluminate.",
+  "lang": "ro",
+  "clip": "fleurs_ro_3",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_3__russian": {
+  "text": "Scenele sunt afișate pe piramide și diferite piramide sunt iluminate.",
+  "lang": "ro",
+  "clip": "fleurs_ro_3",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_4__clean": {
+  "text": "Autoritatea centrală a bisericii era de peste o mie de ani în Roma, iar această concentrare a puterii și banilor i-a făcut pe mulți să-și pună întrebarea dacă principiul era într-adevăr respectat.",
+  "lang": "ro",
+  "clip": "fleurs_ro_4",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_4__er_10db": {
+  "text": "Autoritatea centrală a bisericii era de peste o mie de ani în Roma, iar această concentrare a puterii și banilor i-a făcut pe mulți să-și pună întrebarea dacă principiul era într-adevăr respectat.",
+  "lang": "ro",
+  "clip": "fleurs_ro_4",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_4__er_5db": {
+  "text": "Autoritatea centrală a bisericii era de peste o mie de ani în Roma, iar această concentrare a puterii și banilor i-a făcut pe mulți să-și pună întrebarea dacă principiul era într-adevăr respectat.",
+  "lang": "ro",
+  "clip": "fleurs_ro_4",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_4__er_0db": {
+  "text": "Autoritatea centrală a bisericii era de peste o mie de ani în Roma, iar această concentrare a puterii și banilor i-a făcut pe mulți să-și pună întrebarea dacă principiul era într-adevăr respectat.",
+  "lang": "ro",
+  "clip": "fleurs_ro_4",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_4__russian": {
+  "text": "Autoritatea centrală a bisericii era de peste o mie de ani în Roma, iar această concentrare a puterii și banilor i-a făcut pe mulți să-și pună întrebarea dacă principiul era într-adevăr respectat.",
+  "lang": "ro",
+  "clip": "fleurs_ro_4",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_5__clean": {
+  "text": "Croazierele din Sankt Petersburg includ și timp petrecut în oraș. Pasagerii croazierei sunt scutiți de obligația de a-și obține viză (vedeți condițiile).",
+  "lang": "ro",
+  "clip": "fleurs_ro_5",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_5__er_10db": {
+  "text": "Croazierele din Sankt Petersburg includ și timp petrecut în oraș. Pasagerii croazierei sunt scutiți de obligația de a-și obține viză (vedeți condițiile).",
+  "lang": "ro",
+  "clip": "fleurs_ro_5",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_5__er_5db": {
+  "text": "Croazierele din Sankt Petersburg includ și timp petrecut în oraș. Pasagerii croazierei sunt scutiți de obligația de a-și obține viză (vedeți condițiile).",
+  "lang": "ro",
+  "clip": "fleurs_ro_5",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_5__er_0db": {
+  "text": "Croazierele din Sankt Petersburg includ și timp petrecut în oraș. Pasagerii croazierei sunt scutiți de obligația de a-și obține viză (vedeți condițiile).",
+  "lang": "ro",
+  "clip": "fleurs_ro_5",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_5__russian": {
+  "text": "Croazierele din Sankt Petersburg includ și timp petrecut în oraș. Pasagerii croazierei sunt scutiți de obligația de a-și obține viză (vedeți condițiile).",
+  "lang": "ro",
+  "clip": "fleurs_ro_5",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_6__clean": {
+  "text": "Pe măsură ce cunoașterea limbii grecești a scăzut, Occidentul s-a trezit separat de rădăcinile sale filozofice și științifice grecești.",
+  "lang": "ro",
+  "clip": "fleurs_ro_6",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_6__er_10db": {
+  "text": "Pe măsură ce cunoașterea limbii grecești a scăzut, Occidentul s-a trezit separat de rădăcinile sale filozofice și științifice grecești.",
+  "lang": "ro",
+  "clip": "fleurs_ro_6",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_6__er_5db": {
+  "text": "Pe măsură ce cunoașterea limbii grecești a scăzut, Occidentul s-a trezit separat de rădăcinile sale filozofice și științifice grecești.",
+  "lang": "ro",
+  "clip": "fleurs_ro_6",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_6__er_0db": {
+  "text": "Pe măsură ce cunoașterea limbii grecești a scăzut, Occidentul s-a trezit separat de rădăcinile sale filozofice și științifice grecești.",
+  "lang": "ro",
+  "clip": "fleurs_ro_6",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_6__russian": {
+  "text": "Pe măsură ce cunoașterea limbii grecești a scăzut, Occidentul s-a trezit separat de rădăcinile sale filozofice și științifice grecești.",
+  "lang": "ro",
+  "clip": "fleurs_ro_6",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_7__clean": {
+  "text": "Urmați totuși sfaturile autorităților, respectați toate semnele și acordați o atenție sporită avertismentelor de siguranță.",
+  "lang": "ro",
+  "clip": "fleurs_ro_7",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_7__er_10db": {
+  "text": "Urmați totuși sfaturile autorităților, respectați toate semnele și acordați o atenție sporită avertismentelor de siguranță.",
+  "lang": "ro",
+  "clip": "fleurs_ro_7",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_7__er_5db": {
+  "text": "Urmați totuși sfaturile autorităților, respectați toate semnele și acordați o atenție sporită avertismentelor de siguranță.",
+  "lang": "ro",
+  "clip": "fleurs_ro_7",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_7__er_0db": {
+  "text": "Urmați totuși sfaturile autorităților, respectați toate semnele și acordați o atenție sporită avertismentelor de siguranță.",
+  "lang": "ro",
+  "clip": "fleurs_ro_7",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_7__russian": {
+  "text": "Urmați totuși sfaturile autorităților, respectați toate semnele și acordați o atenție sporită avertismentelor de siguranță.",
+  "lang": "ro",
+  "clip": "fleurs_ro_7",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_8__clean": {
+  "text": "Mai apoi, el a fost transferat la Spitalul Addenbrooke din Cambridge.",
+  "lang": "ro",
+  "clip": "fleurs_ro_8",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_8__er_10db": {
+  "text": "Mai apoi, el a fost transferat la Spitalul Addenbrooke din Cambridge.",
+  "lang": "ro",
+  "clip": "fleurs_ro_8",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_8__er_5db": {
+  "text": "Mai apoi, el a fost transferat la Spitalul Addenbrooke din Cambridge.",
+  "lang": "ro",
+  "clip": "fleurs_ro_8",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_8__er_0db": {
+  "text": "Mai apoi, el a fost transferat la Spitalul Addenbrooke din Cambridge.",
+  "lang": "ro",
+  "clip": "fleurs_ro_8",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_8__russian": {
+  "text": "Mai apoi, el a fost transferat la Spitalul Addenbrooke din Cambridge.",
+  "lang": "ro",
+  "clip": "fleurs_ro_8",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_9__clean": {
+  "text": "Rolando Mendoza a tras în turiști cu pușca sa M16.",
+  "lang": "ro",
+  "clip": "fleurs_ro_9",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_9__er_10db": {
+  "text": "Rolando Mendoza a tras în turiști cu pușca sa M16.",
+  "lang": "ro",
+  "clip": "fleurs_ro_9",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_9__er_5db": {
+  "text": "Rolando Mendoza a tras în turiști cu pușca sa M16.",
+  "lang": "ro",
+  "clip": "fleurs_ro_9",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_9__er_0db": {
+  "text": "Rolando Mendoza a tras în turiști cu pușca sa M16.",
+  "lang": "ro",
+  "clip": "fleurs_ro_9",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ro_9__russian": {
+  "text": "Rolando Mendoza a tras în turiști cu pușca sa M16.",
+  "lang": "ro",
+  "clip": "fleurs_ro_9",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_0__clean": {
+  "text": "Он не смог принять препараты, необходимые для облегчения боли, так как они запрещены в Играх.",
+  "lang": "ru",
+  "clip": "fleurs_ru_0",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_0__er_10db": {
+  "text": "Он не смог принять препараты, необходимые для облегчения боли, так как они запрещены в Играх.",
+  "lang": "ru",
+  "clip": "fleurs_ru_0",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_0__er_5db": {
+  "text": "Он не смог принять препараты, необходимые для облегчения боли, так как они запрещены в Играх.",
+  "lang": "ru",
+  "clip": "fleurs_ru_0",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_0__er_0db": {
+  "text": "Он не смог принять препараты, необходимые для облегчения боли, так как они запрещены в Играх.",
+  "lang": "ru",
+  "clip": "fleurs_ru_0",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_0__russian": {
+  "text": "Он не смог принять препараты, необходимые для облегчения боли, так как они запрещены в Играх.",
+  "lang": "ru",
+  "clip": "fleurs_ru_0",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_1__clean": {
+  "text": "В последствие он был перемещён в госпиталь Адденбрук в Кембридже.",
+  "lang": "ru",
+  "clip": "fleurs_ru_1",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_1__er_10db": {
+  "text": "В последствие он был перемещён в госпиталь Адденбрук в Кембридже.",
+  "lang": "ru",
+  "clip": "fleurs_ru_1",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_1__er_5db": {
+  "text": "В последствие он был перемещён в госпиталь Адденбрук в Кембридже.",
+  "lang": "ru",
+  "clip": "fleurs_ru_1",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_1__er_0db": {
+  "text": "В последствие он был перемещён в госпиталь Адденбрук в Кембридже.",
+  "lang": "ru",
+  "clip": "fleurs_ru_1",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_1__russian": {
+  "text": "В последствие он был перемещён в госпиталь Адденбрук в Кембридже.",
+  "lang": "ru",
+  "clip": "fleurs_ru_1",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_2__clean": {
+  "text": "Переносчиками являются свиньи, от которых через комаров болезнь затем передаётся человеку.",
+  "lang": "ru",
+  "clip": "fleurs_ru_2",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_2__er_10db": {
+  "text": "Переносчиками являются свиньи, от которых через комаров болезнь затем передаётся человеку.",
+  "lang": "ru",
+  "clip": "fleurs_ru_2",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_2__er_5db": {
+  "text": "Переносчиками являются свиньи, от которых через комаров болезнь затем передаётся человеку.",
+  "lang": "ru",
+  "clip": "fleurs_ru_2",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_2__er_0db": {
+  "text": "Переносчиками являются свиньи, от которых через комаров болезнь затем передаётся человеку.",
+  "lang": "ru",
+  "clip": "fleurs_ru_2",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_2__russian": {
+  "text": "Переносчиками являются свиньи, от которых через комаров болезнь затем передаётся человеку.",
+  "lang": "ru",
+  "clip": "fleurs_ru_2",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_3__clean": {
+  "text": "Однако после потери калитки капитана Индия совершила лишь 36 пробегов, потеряв 7 калиток для завершения иннингсов.",
+  "lang": "ru",
+  "clip": "fleurs_ru_3",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_3__er_10db": {
+  "text": "Однако после потери калитки капитана Индия совершила лишь 36 пробегов, потеряв 7 калиток для завершения иннингсов.",
+  "lang": "ru",
+  "clip": "fleurs_ru_3",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_3__er_5db": {
+  "text": "Однако после потери калитки капитана Индия совершила лишь 36 пробегов, потеряв 7 калиток для завершения иннингсов.",
+  "lang": "ru",
+  "clip": "fleurs_ru_3",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_3__er_0db": {
+  "text": "Однако после потери калитки капитана Индия совершила лишь 36 пробегов, потеряв 7 калиток для завершения иннингсов.",
+  "lang": "ru",
+  "clip": "fleurs_ru_3",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_3__russian": {
+  "text": "Однако после потери калитки капитана Индия совершила лишь 36 пробегов, потеряв 7 калиток для завершения иннингсов.",
+  "lang": "ru",
+  "clip": "fleurs_ru_3",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_4__clean": {
+  "text": "Помимо соревнований в среду, Карпендо принимал участие в двух индивидуальных соревнованиях на чемпионатах.",
+  "lang": "ru",
+  "clip": "fleurs_ru_4",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_4__er_10db": {
+  "text": "Помимо соревнований в среду, Карпендо принимал участие в двух индивидуальных соревнованиях на чемпионатах.",
+  "lang": "ru",
+  "clip": "fleurs_ru_4",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_4__er_5db": {
+  "text": "Помимо соревнований в среду, Карпендо принимал участие в двух индивидуальных соревнованиях на чемпионатах.",
+  "lang": "ru",
+  "clip": "fleurs_ru_4",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_4__er_0db": {
+  "text": "Помимо соревнований в среду, Карпендо принимал участие в двух индивидуальных соревнованиях на чемпионатах.",
+  "lang": "ru",
+  "clip": "fleurs_ru_4",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_4__russian": {
+  "text": "Помимо соревнований в среду, Карпендо принимал участие в двух индивидуальных соревнованиях на чемпионатах.",
+  "lang": "ru",
+  "clip": "fleurs_ru_4",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_5__clean": {
+  "text": "Дети передаются под опеку по множеству разнообразных причин: от беспризорности до жестокого обращения и даже вымогательств.",
+  "lang": "ru",
+  "clip": "fleurs_ru_5",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_5__er_10db": {
+  "text": "Дети передаются под опеку по множеству разнообразных причин: от беспризорности до жестокого обращения и даже вымогательств.",
+  "lang": "ru",
+  "clip": "fleurs_ru_5",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_5__er_5db": {
+  "text": "Дети передаются под опеку по множеству разнообразных причин: от беспризорности до жестокого обращения и даже вымогательств.",
+  "lang": "ru",
+  "clip": "fleurs_ru_5",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_5__er_0db": {
+  "text": "Дети передаются под опеку по множеству разнообразных причин: от беспризорности до жестокого обращения и даже вымогательств.",
+  "lang": "ru",
+  "clip": "fleurs_ru_5",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_5__russian": {
+  "text": "Дети передаются под опеку по множеству разнообразных причин: от беспризорности до жестокого обращения и даже вымогательств.",
+  "lang": "ru",
+  "clip": "fleurs_ru_5",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_6__clean": {
+  "text": "Во-первых, большинство наездников носят сапоги для верховой езды с каблуком, имеющие гладкую и довольно тонкую подошву.",
+  "lang": "ru",
+  "clip": "fleurs_ru_6",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_6__er_10db": {
+  "text": "Во-первых, большинство наездников носят сапоги для верховой езды с каблуком, имеющие гладкую и довольно тонкую подошву.",
+  "lang": "ru",
+  "clip": "fleurs_ru_6",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_6__er_5db": {
+  "text": "Во-первых, большинство наездников носят сапоги для верховой езды с каблуком, имеющие гладкую и довольно тонкую подошву.",
+  "lang": "ru",
+  "clip": "fleurs_ru_6",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_6__er_0db": {
+  "text": "Во-первых, большинство наездников носят сапоги для верховой езды с каблуком, имеющие гладкую и довольно тонкую подошву.",
+  "lang": "ru",
+  "clip": "fleurs_ru_6",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_6__russian": {
+  "text": "Во-первых, большинство наездников носят сапоги для верховой езды с каблуком, имеющие гладкую и довольно тонкую подошву.",
+  "lang": "ru",
+  "clip": "fleurs_ru_6",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_7__clean": {
+  "text": "Ученые смогли сделать вывод, что темная материя воздействует на другую темную материю так же, как и в случае с обычной материей.",
+  "lang": "ru",
+  "clip": "fleurs_ru_7",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_7__er_10db": {
+  "text": "Ученые смогли сделать вывод, что темная материя воздействует на другую темную материю так же, как и в случае с обычной материей.",
+  "lang": "ru",
+  "clip": "fleurs_ru_7",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_7__er_5db": {
+  "text": "Ученые смогли сделать вывод, что темная материя воздействует на другую темную материю так же, как и в случае с обычной материей.",
+  "lang": "ru",
+  "clip": "fleurs_ru_7",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_7__er_0db": {
+  "text": "Ученые смогли сделать вывод, что темная материя воздействует на другую темную материю так же, как и в случае с обычной материей.",
+  "lang": "ru",
+  "clip": "fleurs_ru_7",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_7__russian": {
+  "text": "Ученые смогли сделать вывод, что темная материя воздействует на другую темную материю так же, как и в случае с обычной материей.",
+  "lang": "ru",
+  "clip": "fleurs_ru_7",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_8__clean": {
+  "text": "Находка также позволяет ознакомиться с эволюцией перьев у птиц.",
+  "lang": "ru",
+  "clip": "fleurs_ru_8",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_8__er_10db": {
+  "text": "Находка также позволяет ознакомиться с эволюцией перьев у птиц.",
+  "lang": "ru",
+  "clip": "fleurs_ru_8",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_8__er_5db": {
+  "text": "Находка также позволяет ознакомиться с эволюцией перьев у птиц.",
+  "lang": "ru",
+  "clip": "fleurs_ru_8",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_8__er_0db": {
+  "text": "Находка также позволяет ознакомиться с эволюцией перьев у птиц.",
+  "lang": "ru",
+  "clip": "fleurs_ru_8",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_8__russian": {
+  "text": "Находка также позволяет ознакомиться с эволюцией перьев у птиц.",
+  "lang": "ru",
+  "clip": "fleurs_ru_8",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_9__clean": {
+  "text": "На севере регион ограничен Сахелем, а на юге и западе — Атлантическим океаном.",
+  "lang": "ru",
+  "clip": "fleurs_ru_9",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_9__er_10db": {
+  "text": "На севере регион ограничен Сахелем, а на юге и западе — Атлантическим океаном.",
+  "lang": "ru",
+  "clip": "fleurs_ru_9",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_9__er_5db": {
+  "text": "На севере регион ограничен Сахелем, а на юге и западе — Атлантическим океаном.",
+  "lang": "ru",
+  "clip": "fleurs_ru_9",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_9__er_0db": {
+  "text": "На севере регион ограничен Сахелем, а на юге и западе — Атлантическим океаном.",
+  "lang": "ru",
+  "clip": "fleurs_ru_9",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ru_9__russian": {
+  "text": "На севере регион ограничен Сахелем, а на юге и западе — Атлантическим океаном.",
+  "lang": "ru",
+  "clip": "fleurs_ru_9",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_0__clean": {
+  "text": "سَيسْمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء.",
+  "lang": "ar",
+  "clip": "fleurs_ar_0",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_0__er_10db": {
+  "text": "سَيسْمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء.",
+  "lang": "ar",
+  "clip": "fleurs_ar_0",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_0__er_5db": {
+  "text": "سَيسْمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء.",
+  "lang": "ar",
+  "clip": "fleurs_ar_0",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_0__er_0db": {
+  "text": "سَيسْمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء.",
+  "lang": "ar",
+  "clip": "fleurs_ar_0",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_0__russian": {
+  "text": "سَيسْمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء.",
+  "lang": "ar",
+  "clip": "fleurs_ar_0",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_1__clean": {
+  "text": "يوجد رسوم يومية للحفاظ على المنتزه والدخول إليه،أسوة بجميع المتنزهات الوطنية في جنوب إفريقيا.",
+  "lang": "ar",
+  "clip": "fleurs_ar_1",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_1__er_10db": {
+  "text": "يوجد رسوم يومية للحفاظ على المنتزه والدخول إليه،أسوة بجميع المتنزهات الوطنية في جنوب إفريقيا.",
+  "lang": "ar",
+  "clip": "fleurs_ar_1",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_1__er_5db": {
+  "text": "يوجد رسوم يومية للحفاظ على المنتزه والدخول إليه،أسوة بجميع المتنزهات الوطنية في جنوب إفريقيا.",
+  "lang": "ar",
+  "clip": "fleurs_ar_1",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_1__er_0db": {
+  "text": "يوجد رسوم يومية للحفاظ على المنتزه والدخول إليه،أسوة بجميع المتنزهات الوطنية في جنوب إفريقيا.",
+  "lang": "ar",
+  "clip": "fleurs_ar_1",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_1__russian": {
+  "text": "يوجد رسوم يومية للحفاظ على المنتزه والدخول إليه،أسوة بجميع المتنزهات الوطنية في جنوب إفريقيا.",
+  "lang": "ar",
+  "clip": "fleurs_ar_1",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_2__clean": {
+  "text": "بصفة عامة، يمكن أن يظهر سلوكان عندما يبدأ المديرون في قيادة أقرانهم السابقين أحدهما هو محاولة البقاء \"مثل الآخرين\" (أو الأخريات).",
+  "lang": "ar",
+  "clip": "fleurs_ar_2",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_2__er_10db": {
+  "text": "بصفة عامة، يمكن أن يظهر سلوكان عندما يبدأ المديرون في قيادة أقرانهم السابقين أحدهما هو محاولة البقاء \"مثل الآخرين\" (أو الأخريات).",
+  "lang": "ar",
+  "clip": "fleurs_ar_2",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_2__er_5db": {
+  "text": "بصفة عامة، يمكن أن يظهر سلوكان عندما يبدأ المديرون في قيادة أقرانهم السابقين أحدهما هو محاولة البقاء \"مثل الآخرين\" (أو الأخريات).",
+  "lang": "ar",
+  "clip": "fleurs_ar_2",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_2__er_0db": {
+  "text": "بصفة عامة، يمكن أن يظهر سلوكان عندما يبدأ المديرون في قيادة أقرانهم السابقين أحدهما هو محاولة البقاء \"مثل الآخرين\" (أو الأخريات).",
+  "lang": "ar",
+  "clip": "fleurs_ar_2",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_2__russian": {
+  "text": "بصفة عامة، يمكن أن يظهر سلوكان عندما يبدأ المديرون في قيادة أقرانهم السابقين أحدهما هو محاولة البقاء \"مثل الآخرين\" (أو الأخريات).",
+  "lang": "ar",
+  "clip": "fleurs_ar_2",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_3__clean": {
+  "text": "انقطاع النوم هو عملية الاستيقاظ عن عمد خلال فترة نومك الطبيعية والنوم بعد فترة قصيرة (من 10 إلى 60 دقيقة).",
+  "lang": "ar",
+  "clip": "fleurs_ar_3",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_3__er_10db": {
+  "text": "انقطاع النوم هو عملية الاستيقاظ عن عمد خلال فترة نومك الطبيعية والنوم بعد فترة قصيرة (من 10 إلى 60 دقيقة).",
+  "lang": "ar",
+  "clip": "fleurs_ar_3",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_3__er_5db": {
+  "text": "انقطاع النوم هو عملية الاستيقاظ عن عمد خلال فترة نومك الطبيعية والنوم بعد فترة قصيرة (من 10 إلى 60 دقيقة).",
+  "lang": "ar",
+  "clip": "fleurs_ar_3",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_3__er_0db": {
+  "text": "انقطاع النوم هو عملية الاستيقاظ عن عمد خلال فترة نومك الطبيعية والنوم بعد فترة قصيرة (من 10 إلى 60 دقيقة).",
+  "lang": "ar",
+  "clip": "fleurs_ar_3",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_3__russian": {
+  "text": "انقطاع النوم هو عملية الاستيقاظ عن عمد خلال فترة نومك الطبيعية والنوم بعد فترة قصيرة (من 10 إلى 60 دقيقة).",
+  "lang": "ar",
+  "clip": "fleurs_ar_3",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_4__clean": {
+  "text": "لقد جلب لنا القطار، والسيارة، والعديد من أجهزة النقل الأخرى.",
+  "lang": "ar",
+  "clip": "fleurs_ar_4",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_4__er_10db": {
+  "text": "لقد جلب لنا القطار، والسيارة، والعديد من أجهزة النقل الأخرى.",
+  "lang": "ar",
+  "clip": "fleurs_ar_4",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_4__er_5db": {
+  "text": "لقد جلب لنا القطار، والسيارة، والعديد من أجهزة النقل الأخرى.",
+  "lang": "ar",
+  "clip": "fleurs_ar_4",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_4__er_0db": {
+  "text": "لقد جلب لنا القطار، والسيارة، والعديد من أجهزة النقل الأخرى.",
+  "lang": "ar",
+  "clip": "fleurs_ar_4",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_4__russian": {
+  "text": "لقد جلب لنا القطار، والسيارة، والعديد من أجهزة النقل الأخرى.",
+  "lang": "ar",
+  "clip": "fleurs_ar_4",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_5__clean": {
+  "text": "قامت فرقة إيروشميث بإلغاء باقي حفلاتهم في جولتهم الموسيقية.",
+  "lang": "ar",
+  "clip": "fleurs_ar_5",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_5__er_10db": {
+  "text": "قامت فرقة إيروشميث بإلغاء باقي حفلاتهم في جولتهم الموسيقية.",
+  "lang": "ar",
+  "clip": "fleurs_ar_5",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_5__er_5db": {
+  "text": "قامت فرقة إيروشميث بإلغاء باقي حفلاتهم في جولتهم الموسيقية.",
+  "lang": "ar",
+  "clip": "fleurs_ar_5",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_5__er_0db": {
+  "text": "قامت فرقة إيروشميث بإلغاء باقي حفلاتهم في جولتهم الموسيقية.",
+  "lang": "ar",
+  "clip": "fleurs_ar_5",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_5__russian": {
+  "text": "قامت فرقة إيروشميث بإلغاء باقي حفلاتهم في جولتهم الموسيقية.",
+  "lang": "ar",
+  "clip": "fleurs_ar_5",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_6__clean": {
+  "text": "رُكّبت عدة شاشات تلفزيونية كبيرة في أماكن مختلفة في روما للسماح للجمهور بمشاهدة مراسم الجنازة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_6",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_6__er_10db": {
+  "text": "رُكّبت عدة شاشات تلفزيونية كبيرة في أماكن مختلفة في روما للسماح للجمهور بمشاهدة مراسم الجنازة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_6",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_6__er_5db": {
+  "text": "رُكّبت عدة شاشات تلفزيونية كبيرة في أماكن مختلفة في روما للسماح للجمهور بمشاهدة مراسم الجنازة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_6",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_6__er_0db": {
+  "text": "رُكّبت عدة شاشات تلفزيونية كبيرة في أماكن مختلفة في روما للسماح للجمهور بمشاهدة مراسم الجنازة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_6",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_6__russian": {
+  "text": "رُكّبت عدة شاشات تلفزيونية كبيرة في أماكن مختلفة في روما للسماح للجمهور بمشاهدة مراسم الجنازة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_6",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_7__clean": {
+  "text": "وقال مكتب المحافظ أن ١٩ من المصابين كانوا من ضباط الشرطة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_7",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_7__er_10db": {
+  "text": "وقال مكتب المحافظ أن ١٩ من المصابين كانوا من ضباط الشرطة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_7",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_7__er_5db": {
+  "text": "وقال مكتب المحافظ أن ١٩ من المصابين كانوا من ضباط الشرطة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_7",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_7__er_0db": {
+  "text": "وقال مكتب المحافظ أن ١٩ من المصابين كانوا من ضباط الشرطة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_7",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_7__russian": {
+  "text": "وقال مكتب المحافظ أن ١٩ من المصابين كانوا من ضباط الشرطة.",
+  "lang": "ar",
+  "clip": "fleurs_ar_7",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_8__clean": {
+  "text": "تم بناؤه من قِبل المصريين في القرن الثالث من الحقبة الحالية، يعتبر الهرم الأعظم واحداً من الأهرام الضخمة المبنية على شرف الفرعون الميت.",
+  "lang": "ar",
+  "clip": "fleurs_ar_8",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_8__er_10db": {
+  "text": "تم بناؤه من قِبل المصريين في القرن الثالث من الحقبة الحالية، يعتبر الهرم الأعظم واحداً من الأهرام الضخمة المبنية على شرف الفرعون الميت.",
+  "lang": "ar",
+  "clip": "fleurs_ar_8",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_8__er_5db": {
+  "text": "تم بناؤه من قِبل المصريين في القرن الثالث من الحقبة الحالية، يعتبر الهرم الأعظم واحداً من الأهرام الضخمة المبنية على شرف الفرعون الميت.",
+  "lang": "ar",
+  "clip": "fleurs_ar_8",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_8__er_0db": {
+  "text": "تم بناؤه من قِبل المصريين في القرن الثالث من الحقبة الحالية، يعتبر الهرم الأعظم واحداً من الأهرام الضخمة المبنية على شرف الفرعون الميت.",
+  "lang": "ar",
+  "clip": "fleurs_ar_8",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_8__russian": {
+  "text": "تم بناؤه من قِبل المصريين في القرن الثالث من الحقبة الحالية، يعتبر الهرم الأعظم واحداً من الأهرام الضخمة المبنية على شرف الفرعون الميت.",
+  "lang": "ar",
+  "clip": "fleurs_ar_8",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_9__clean": {
+  "text": "وقال عن الشائعات بأنها \"ثرثرةٌ سياسيةٌ وسخافةٌ\".",
+  "lang": "ar",
+  "clip": "fleurs_ar_9",
+  "noise": "clean",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_9__er_10db": {
+  "text": "وقال عن الشائعات بأنها \"ثرثرةٌ سياسيةٌ وسخافةٌ\".",
+  "lang": "ar",
+  "clip": "fleurs_ar_9",
+  "noise": "er_10db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_9__er_5db": {
+  "text": "وقال عن الشائعات بأنها \"ثرثرةٌ سياسيةٌ وسخافةٌ\".",
+  "lang": "ar",
+  "clip": "fleurs_ar_9",
+  "noise": "er_5db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_9__er_0db": {
+  "text": "وقال عن الشائعات بأنها \"ثرثرةٌ سياسيةٌ وسخافةٌ\".",
+  "lang": "ar",
+  "clip": "fleurs_ar_9",
+  "noise": "er_0db",
+  "kind": "fleurs"
+ },
+ "fleurs_ar_9__russian": {
+  "text": "وقال عن الشائعات بأنها \"ثرثرةٌ سياسيةٌ وسخافةٌ\".",
+  "lang": "ar",
+  "clip": "fleurs_ar_9",
+  "noise": "russian",
+  "kind": "fleurs"
+ },
+ "med_uk_help__clean": {
+  "text": "Допоможіть, будь ласка. У мене дуже болить у грудях. У мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_help",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_uk_help__er_10db": {
+  "text": "Допоможіть, будь ласка. У мене дуже болить у грудях. У мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_help",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_uk_help__er_5db": {
+  "text": "Допоможіть, будь ласка. У мене дуже болить у грудях. У мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_help",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_uk_help__er_0db": {
+  "text": "Допоможіть, будь ласка. У мене дуже болить у грудях. У мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_help",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_uk_help__russian": {
+  "text": "Допоможіть, будь ласка. У мене дуже болить у грудях. У мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_help",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_uk_stomach__clean": {
+  "text": "Так, у мене болить живіт праворуч. Також у мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_stomach",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_uk_stomach__er_10db": {
+  "text": "Так, у мене болить живіт праворуч. Також у мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_stomach",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_uk_stomach__er_5db": {
+  "text": "Так, у мене болить живіт праворуч. Також у мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_stomach",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_uk_stomach__er_0db": {
+  "text": "Так, у мене болить живіт праворуч. Також у мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_stomach",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_uk_stomach__russian": {
+  "text": "Так, у мене болить живіт праворуч. Також у мене алергія на пеніцилін.",
+  "lang": "uk",
+  "clip": "med_uk_stomach",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_uk_breath__clean": {
+  "text": "Мені дуже погано, мені важко дихати.",
+  "lang": "uk",
+  "clip": "med_uk_breath",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_uk_breath__er_10db": {
+  "text": "Мені дуже погано, мені важко дихати.",
+  "lang": "uk",
+  "clip": "med_uk_breath",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_uk_breath__er_5db": {
+  "text": "Мені дуже погано, мені важко дихати.",
+  "lang": "uk",
+  "clip": "med_uk_breath",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_uk_breath__er_0db": {
+  "text": "Мені дуже погано, мені важко дихати.",
+  "lang": "uk",
+  "clip": "med_uk_breath",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_uk_breath__russian": {
+  "text": "Мені дуже погано, мені важко дихати.",
+  "lang": "uk",
+  "clip": "med_uk_breath",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_uk_head__clean": {
+  "text": "У мене сильно болить голова і мене нудить.",
+  "lang": "uk",
+  "clip": "med_uk_head",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_uk_head__er_10db": {
+  "text": "У мене сильно болить голова і мене нудить.",
+  "lang": "uk",
+  "clip": "med_uk_head",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_uk_head__er_5db": {
+  "text": "У мене сильно болить голова і мене нудить.",
+  "lang": "uk",
+  "clip": "med_uk_head",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_uk_head__er_0db": {
+  "text": "У мене сильно болить голова і мене нудить.",
+  "lang": "uk",
+  "clip": "med_uk_head",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_uk_head__russian": {
+  "text": "У мене сильно болить голова і мене нудить.",
+  "lang": "uk",
+  "clip": "med_uk_head",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_en_safe__clean": {
+  "text": "You are safe. We will not give you penicillin.",
+  "lang": "en",
+  "clip": "med_en_safe",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_en_safe__er_10db": {
+  "text": "You are safe. We will not give you penicillin.",
+  "lang": "en",
+  "clip": "med_en_safe",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_en_safe__er_5db": {
+  "text": "You are safe. We will not give you penicillin.",
+  "lang": "en",
+  "clip": "med_en_safe",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_en_safe__er_0db": {
+  "text": "You are safe. We will not give you penicillin.",
+  "lang": "en",
+  "clip": "med_en_safe",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_en_safe__russian": {
+  "text": "You are safe. We will not give you penicillin.",
+  "lang": "en",
+  "clip": "med_en_safe",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_en_dose__clean": {
+  "text": "Take two tablets of 500 milligram paracetamol every six hours.",
+  "lang": "en",
+  "clip": "med_en_dose",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_en_dose__er_10db": {
+  "text": "Take two tablets of 500 milligram paracetamol every six hours.",
+  "lang": "en",
+  "clip": "med_en_dose",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_en_dose__er_5db": {
+  "text": "Take two tablets of 500 milligram paracetamol every six hours.",
+  "lang": "en",
+  "clip": "med_en_dose",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_en_dose__er_0db": {
+  "text": "Take two tablets of 500 milligram paracetamol every six hours.",
+  "lang": "en",
+  "clip": "med_en_dose",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_en_dose__russian": {
+  "text": "Take two tablets of 500 milligram paracetamol every six hours.",
+  "lang": "en",
+  "clip": "med_en_dose",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_en_where__clean": {
+  "text": "Where does it hurt? Show me with your hand.",
+  "lang": "en",
+  "clip": "med_en_where",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_en_where__er_10db": {
+  "text": "Where does it hurt? Show me with your hand.",
+  "lang": "en",
+  "clip": "med_en_where",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_en_where__er_5db": {
+  "text": "Where does it hurt? Show me with your hand.",
+  "lang": "en",
+  "clip": "med_en_where",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_en_where__er_0db": {
+  "text": "Where does it hurt? Show me with your hand.",
+  "lang": "en",
+  "clip": "med_en_where",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_en_where__russian": {
+  "text": "Where does it hurt? Show me with your hand.",
+  "lang": "en",
+  "clip": "med_en_where",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_pl_allergy__clean": {
+  "text": "Jestem uczulona na penicylinę i biorę metforminę dwa razy dziennie.",
+  "lang": "pl",
+  "clip": "med_pl_allergy",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_pl_allergy__er_10db": {
+  "text": "Jestem uczulona na penicylinę i biorę metforminę dwa razy dziennie.",
+  "lang": "pl",
+  "clip": "med_pl_allergy",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_pl_allergy__er_5db": {
+  "text": "Jestem uczulona na penicylinę i biorę metforminę dwa razy dziennie.",
+  "lang": "pl",
+  "clip": "med_pl_allergy",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_pl_allergy__er_0db": {
+  "text": "Jestem uczulona na penicylinę i biorę metforminę dwa razy dziennie.",
+  "lang": "pl",
+  "clip": "med_pl_allergy",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_pl_allergy__russian": {
+  "text": "Jestem uczulona na penicylinę i biorę metforminę dwa razy dziennie.",
+  "lang": "pl",
+  "clip": "med_pl_allergy",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_ro_pain__clean": {
+  "text": "Mă doare foarte tare în partea dreaptă a abdomenului de ieri seară.",
+  "lang": "ro",
+  "clip": "med_ro_pain",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_ro_pain__er_10db": {
+  "text": "Mă doare foarte tare în partea dreaptă a abdomenului de ieri seară.",
+  "lang": "ro",
+  "clip": "med_ro_pain",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_ro_pain__er_5db": {
+  "text": "Mă doare foarte tare în partea dreaptă a abdomenului de ieri seară.",
+  "lang": "ro",
+  "clip": "med_ro_pain",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_ro_pain__er_0db": {
+  "text": "Mă doare foarte tare în partea dreaptă a abdomenului de ieri seară.",
+  "lang": "ro",
+  "clip": "med_ro_pain",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_ro_pain__russian": {
+  "text": "Mă doare foarte tare în partea dreaptă a abdomenului de ieri seară.",
+  "lang": "ro",
+  "clip": "med_ro_pain",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_ru_chest__clean": {
+  "text": "У меня болит грудь и немеет левая рука.",
+  "lang": "ru",
+  "clip": "med_ru_chest",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_ru_chest__er_10db": {
+  "text": "У меня болит грудь и немеет левая рука.",
+  "lang": "ru",
+  "clip": "med_ru_chest",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_ru_chest__er_5db": {
+  "text": "У меня болит грудь и немеет левая рука.",
+  "lang": "ru",
+  "clip": "med_ru_chest",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_ru_chest__er_0db": {
+  "text": "У меня болит грудь и немеет левая рука.",
+  "lang": "ru",
+  "clip": "med_ru_chest",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_ru_chest__russian": {
+  "text": "У меня болит грудь и немеет левая рука.",
+  "lang": "ru",
+  "clip": "med_ru_chest",
+  "noise": "russian",
+  "kind": "clinical"
+ },
+ "med_ar_allergy__clean": {
+  "text": "عندي حساسية من البنسلين وأشعر بألم شديد في صدري.",
+  "lang": "ar",
+  "clip": "med_ar_allergy",
+  "noise": "clean",
+  "kind": "clinical"
+ },
+ "med_ar_allergy__er_10db": {
+  "text": "عندي حساسية من البنسلين وأشعر بألم شديد في صدري.",
+  "lang": "ar",
+  "clip": "med_ar_allergy",
+  "noise": "er_10db",
+  "kind": "clinical"
+ },
+ "med_ar_allergy__er_5db": {
+  "text": "عندي حساسية من البنسلين وأشعر بألم شديد في صدري.",
+  "lang": "ar",
+  "clip": "med_ar_allergy",
+  "noise": "er_5db",
+  "kind": "clinical"
+ },
+ "med_ar_allergy__er_0db": {
+  "text": "عندي حساسية من البنسلين وأشعر بألم شديد في صدري.",
+  "lang": "ar",
+  "clip": "med_ar_allergy",
+  "noise": "er_0db",
+  "kind": "clinical"
+ },
+ "med_ar_allergy__russian": {
+  "text": "عندي حساسية من البنسلين وأشعر بألم شديد في صدري.",
+  "lang": "ar",
+  "clip": "med_ar_allergy",
+  "noise": "russian",
+  "kind": "clinical"
+ }
+}

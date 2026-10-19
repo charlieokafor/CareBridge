@@ -1,0 +1,271 @@
+{
+ "uk": {
+  "model": "600m",
+  "speech": null,
+  "mtScore": 98.7,
+  "okRate": 1.0
+ },
+ "ru": {
+  "model": "600m",
+  "speech": null,
+  "mtScore": 99.2,
+  "okRate": 1.0
+ },
+ "pl": {
+  "model": "1.3b",
+  "speech": null,
+  "mtScore": 97.8,
+  "okRate": 0.95
+ },
+ "ro": {
+  "model": "1.3b",
+  "speech": null,
+  "mtScore": 99.6,
+  "okRate": 1.0
+ },
+ "ar": {
+  "model": "1.3b",
+  "speech": null,
+  "mtScore": 96.2,
+  "okRate": 0.9
+ },
+ "sq": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 99.2,
+  "okRate": 1.0,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "am": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 93.0,
+  "okRate": 0.85
+ },
+ "bn": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 96.7
+ },
+ "bg": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 98.7,
+  "okRate": 0.95,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "zh": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 89.5
+ },
+ "prs": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 94.7,
+  "okRate": 0.85
+ },
+ "tl": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 99.0
+ },
+ "fr": {
+  "model": "600m",
+  "speech": null,
+  "mtScore": 99.6,
+  "okRate": 1.0
+ },
+ "ka": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 84.5,
+  "okRate": 0.75
+ },
+ "de": {
+  "model": "600m",
+  "speech": null,
+  "mtScore": 99.8,
+  "okRate": 0.95
+ },
+ "ha": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 94.3,
+  "okRate": 0.75
+ },
+ "hi": {
+  "model": "600m",
+  "speech": null,
+  "mtScore": 99.5,
+  "okRate": 1.0
+ },
+ "hu": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 95.6,
+  "okRate": 1.0,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "ig": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 95.0,
+  "okRate": 0.95,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "ga": {
+  "model": "1.3b",
+  "speech": null,
+  "mtScore": 97.9,
+  "okRate": 1.0
+ },
+ "it": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 97.9
+ },
+ "ko": {
+  "model": "1.3b",
+  "speech": null,
+  "mtScore": 93.8,
+  "okRate": 0.9
+ },
+ "ckb": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 90.6,
+  "okRate": 0.8
+ },
+ "lv": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 90.6,
+  "okRate": 0.75
+ },
+ "lt": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 95.8,
+  "okRate": 0.95,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "ps": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 97.2,
+  "okRate": 0.95,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "pt": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 96.8
+ },
+ "pa": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 97.7,
+  "okRate": 0.95,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "sk": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 98.6,
+  "okRate": 1.0,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "so": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 94.0,
+  "okRate": 0.9,
+  "removedBy": "team decision (focus the pilot)"
+ },
+ "es": {
+  "model": "1.3b",
+  "speech": null,
+  "mtScore": 97.8,
+  "okRate": 1.0
+ },
+ "sw": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 94.5
+ },
+ "ti": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 91.7,
+  "okRate": 0.9
+ },
+ "tr": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 97.2
+ },
+ "ur": {
+  "model": "600m",
+  "speech": null,
+  "mtScore": 95.7,
+  "okRate": 0.95
+ },
+ "vi": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending",
+  "mtScoreNllb": 96.2
+ },
+ "yo": {
+  "model": "remove",
+  "speech": null,
+  "mtScore": 77.5,
+  "okRate": 0.7
+ },
+ "id": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending"
+ },
+ "ja": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Re-licensed Oct 2026 on Amazon Translate/Transcribe; clinical screen pending"
+ },
+ "cs": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Added Oct 2026 on Amazon Translate/Transcribe; clinical screen pending"
+ },
+ "el": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Added Oct 2026 on Amazon Translate/Transcribe; clinical screen pending"
+ },
+ "yue": {
+  "model": "600m",
+  "speech": null,
+  "engine": "aws",
+  "note": "Added Oct 2026 on Amazon Translate/Transcribe; clinical screen pending"
+ }
+}

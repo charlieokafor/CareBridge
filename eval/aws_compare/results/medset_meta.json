@@ -1,0 +1,2522 @@
+{
+ "med_en_0_0__clean": {
+  "text": "I'm allergic to amoxicillin.",
+  "lang": "en",
+  "drug": "amoxicillin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_0_0__er_10db": {
+  "text": "I'm allergic to amoxicillin.",
+  "lang": "en",
+  "drug": "amoxicillin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_0_0__er_5db": {
+  "text": "I'm allergic to amoxicillin.",
+  "lang": "en",
+  "drug": "amoxicillin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_0_1__clean": {
+  "text": "I take amoxicillin every day.",
+  "lang": "en",
+  "drug": "amoxicillin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_0_1__er_10db": {
+  "text": "I take amoxicillin every day.",
+  "lang": "en",
+  "drug": "amoxicillin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_0_1__er_5db": {
+  "text": "I take amoxicillin every day.",
+  "lang": "en",
+  "drug": "amoxicillin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_1_0__clean": {
+  "text": "I'm allergic to metformin.",
+  "lang": "en",
+  "drug": "metformin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_1_0__er_10db": {
+  "text": "I'm allergic to metformin.",
+  "lang": "en",
+  "drug": "metformin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_1_0__er_5db": {
+  "text": "I'm allergic to metformin.",
+  "lang": "en",
+  "drug": "metformin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_1_1__clean": {
+  "text": "I take metformin every day.",
+  "lang": "en",
+  "drug": "metformin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_1_1__er_10db": {
+  "text": "I take metformin every day.",
+  "lang": "en",
+  "drug": "metformin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_1_1__er_5db": {
+  "text": "I take metformin every day.",
+  "lang": "en",
+  "drug": "metformin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_2_0__clean": {
+  "text": "I'm allergic to warfarin.",
+  "lang": "en",
+  "drug": "warfarin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_2_0__er_10db": {
+  "text": "I'm allergic to warfarin.",
+  "lang": "en",
+  "drug": "warfarin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_2_0__er_5db": {
+  "text": "I'm allergic to warfarin.",
+  "lang": "en",
+  "drug": "warfarin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_2_1__clean": {
+  "text": "I take warfarin every day.",
+  "lang": "en",
+  "drug": "warfarin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_2_1__er_10db": {
+  "text": "I take warfarin every day.",
+  "lang": "en",
+  "drug": "warfarin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_2_1__er_5db": {
+  "text": "I take warfarin every day.",
+  "lang": "en",
+  "drug": "warfarin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_3_0__clean": {
+  "text": "I'm allergic to salbutamol.",
+  "lang": "en",
+  "drug": "salbutamol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_3_0__er_10db": {
+  "text": "I'm allergic to salbutamol.",
+  "lang": "en",
+  "drug": "salbutamol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_3_0__er_5db": {
+  "text": "I'm allergic to salbutamol.",
+  "lang": "en",
+  "drug": "salbutamol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_3_1__clean": {
+  "text": "I take salbutamol every day.",
+  "lang": "en",
+  "drug": "salbutamol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_3_1__er_10db": {
+  "text": "I take salbutamol every day.",
+  "lang": "en",
+  "drug": "salbutamol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_3_1__er_5db": {
+  "text": "I take salbutamol every day.",
+  "lang": "en",
+  "drug": "salbutamol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_4_0__clean": {
+  "text": "I'm allergic to omeprazole.",
+  "lang": "en",
+  "drug": "omeprazole",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_4_0__er_10db": {
+  "text": "I'm allergic to omeprazole.",
+  "lang": "en",
+  "drug": "omeprazole",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_4_0__er_5db": {
+  "text": "I'm allergic to omeprazole.",
+  "lang": "en",
+  "drug": "omeprazole",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_4_1__clean": {
+  "text": "I take omeprazole every day.",
+  "lang": "en",
+  "drug": "omeprazole",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_4_1__er_10db": {
+  "text": "I take omeprazole every day.",
+  "lang": "en",
+  "drug": "omeprazole",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_4_1__er_5db": {
+  "text": "I take omeprazole every day.",
+  "lang": "en",
+  "drug": "omeprazole",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_5_0__clean": {
+  "text": "I'm allergic to ibuprofen.",
+  "lang": "en",
+  "drug": "ibuprofen",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_5_0__er_10db": {
+  "text": "I'm allergic to ibuprofen.",
+  "lang": "en",
+  "drug": "ibuprofen",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_5_0__er_5db": {
+  "text": "I'm allergic to ibuprofen.",
+  "lang": "en",
+  "drug": "ibuprofen",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_5_1__clean": {
+  "text": "I take ibuprofen every day.",
+  "lang": "en",
+  "drug": "ibuprofen",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_5_1__er_10db": {
+  "text": "I take ibuprofen every day.",
+  "lang": "en",
+  "drug": "ibuprofen",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_5_1__er_5db": {
+  "text": "I take ibuprofen every day.",
+  "lang": "en",
+  "drug": "ibuprofen",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_6_0__clean": {
+  "text": "I'm allergic to insulin.",
+  "lang": "en",
+  "drug": "insulin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_6_0__er_10db": {
+  "text": "I'm allergic to insulin.",
+  "lang": "en",
+  "drug": "insulin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_6_0__er_5db": {
+  "text": "I'm allergic to insulin.",
+  "lang": "en",
+  "drug": "insulin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_6_1__clean": {
+  "text": "I take insulin every day.",
+  "lang": "en",
+  "drug": "insulin",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_6_1__er_10db": {
+  "text": "I take insulin every day.",
+  "lang": "en",
+  "drug": "insulin",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_6_1__er_5db": {
+  "text": "I take insulin every day.",
+  "lang": "en",
+  "drug": "insulin",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_7_0__clean": {
+  "text": "I'm allergic to clopidogrel.",
+  "lang": "en",
+  "drug": "clopidogrel",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_7_0__er_10db": {
+  "text": "I'm allergic to clopidogrel.",
+  "lang": "en",
+  "drug": "clopidogrel",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_7_0__er_5db": {
+  "text": "I'm allergic to clopidogrel.",
+  "lang": "en",
+  "drug": "clopidogrel",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_7_1__clean": {
+  "text": "I take clopidogrel every day.",
+  "lang": "en",
+  "drug": "clopidogrel",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_7_1__er_10db": {
+  "text": "I take clopidogrel every day.",
+  "lang": "en",
+  "drug": "clopidogrel",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_7_1__er_5db": {
+  "text": "I take clopidogrel every day.",
+  "lang": "en",
+  "drug": "clopidogrel",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_8_0__clean": {
+  "text": "I'm allergic to apixaban.",
+  "lang": "en",
+  "drug": "apixaban",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_8_0__er_10db": {
+  "text": "I'm allergic to apixaban.",
+  "lang": "en",
+  "drug": "apixaban",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_8_0__er_5db": {
+  "text": "I'm allergic to apixaban.",
+  "lang": "en",
+  "drug": "apixaban",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_8_1__clean": {
+  "text": "I take apixaban every day.",
+  "lang": "en",
+  "drug": "apixaban",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_8_1__er_10db": {
+  "text": "I take apixaban every day.",
+  "lang": "en",
+  "drug": "apixaban",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_8_1__er_5db": {
+  "text": "I take apixaban every day.",
+  "lang": "en",
+  "drug": "apixaban",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_9_0__clean": {
+  "text": "I'm allergic to codeine.",
+  "lang": "en",
+  "drug": "codeine",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_9_0__er_10db": {
+  "text": "I'm allergic to codeine.",
+  "lang": "en",
+  "drug": "codeine",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_9_0__er_5db": {
+  "text": "I'm allergic to codeine.",
+  "lang": "en",
+  "drug": "codeine",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_en_9_1__clean": {
+  "text": "I take codeine every day.",
+  "lang": "en",
+  "drug": "codeine",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_en_9_1__er_10db": {
+  "text": "I take codeine every day.",
+  "lang": "en",
+  "drug": "codeine",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_en_9_1__er_5db": {
+  "text": "I take codeine every day.",
+  "lang": "en",
+  "drug": "codeine",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_0_0__clean": {
+  "text": "У мене алергія на амоксицилін.",
+  "lang": "uk",
+  "drug": "амоксицилін",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_0_0__er_10db": {
+  "text": "У мене алергія на амоксицилін.",
+  "lang": "uk",
+  "drug": "амоксицилін",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_0_0__er_5db": {
+  "text": "У мене алергія на амоксицилін.",
+  "lang": "uk",
+  "drug": "амоксицилін",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_0_1__clean": {
+  "text": "Я щодня приймаю амоксицилін.",
+  "lang": "uk",
+  "drug": "амоксицилін",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_0_1__er_10db": {
+  "text": "Я щодня приймаю амоксицилін.",
+  "lang": "uk",
+  "drug": "амоксицилін",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_0_1__er_5db": {
+  "text": "Я щодня приймаю амоксицилін.",
+  "lang": "uk",
+  "drug": "амоксицилін",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_1_0__clean": {
+  "text": "У мене алергія на метформін.",
+  "lang": "uk",
+  "drug": "метформін",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_1_0__er_10db": {
+  "text": "У мене алергія на метформін.",
+  "lang": "uk",
+  "drug": "метформін",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_1_0__er_5db": {
+  "text": "У мене алергія на метформін.",
+  "lang": "uk",
+  "drug": "метформін",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_1_1__clean": {
+  "text": "Я щодня приймаю метформін.",
+  "lang": "uk",
+  "drug": "метформін",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_1_1__er_10db": {
+  "text": "Я щодня приймаю метформін.",
+  "lang": "uk",
+  "drug": "метформін",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_1_1__er_5db": {
+  "text": "Я щодня приймаю метформін.",
+  "lang": "uk",
+  "drug": "метформін",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_2_0__clean": {
+  "text": "У мене алергія на варфарин.",
+  "lang": "uk",
+  "drug": "варфарин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_2_0__er_10db": {
+  "text": "У мене алергія на варфарин.",
+  "lang": "uk",
+  "drug": "варфарин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_2_0__er_5db": {
+  "text": "У мене алергія на варфарин.",
+  "lang": "uk",
+  "drug": "варфарин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_2_1__clean": {
+  "text": "Я щодня приймаю варфарин.",
+  "lang": "uk",
+  "drug": "варфарин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_2_1__er_10db": {
+  "text": "Я щодня приймаю варфарин.",
+  "lang": "uk",
+  "drug": "варфарин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_2_1__er_5db": {
+  "text": "Я щодня приймаю варфарин.",
+  "lang": "uk",
+  "drug": "варфарин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_3_0__clean": {
+  "text": "У мене алергія на сальбутамол.",
+  "lang": "uk",
+  "drug": "сальбутамол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_3_0__er_10db": {
+  "text": "У мене алергія на сальбутамол.",
+  "lang": "uk",
+  "drug": "сальбутамол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_3_0__er_5db": {
+  "text": "У мене алергія на сальбутамол.",
+  "lang": "uk",
+  "drug": "сальбутамол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_3_1__clean": {
+  "text": "Я щодня приймаю сальбутамол.",
+  "lang": "uk",
+  "drug": "сальбутамол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_3_1__er_10db": {
+  "text": "Я щодня приймаю сальбутамол.",
+  "lang": "uk",
+  "drug": "сальбутамол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_3_1__er_5db": {
+  "text": "Я щодня приймаю сальбутамол.",
+  "lang": "uk",
+  "drug": "сальбутамол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_4_0__clean": {
+  "text": "У мене алергія на омепразол.",
+  "lang": "uk",
+  "drug": "омепразол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_4_0__er_10db": {
+  "text": "У мене алергія на омепразол.",
+  "lang": "uk",
+  "drug": "омепразол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_4_0__er_5db": {
+  "text": "У мене алергія на омепразол.",
+  "lang": "uk",
+  "drug": "омепразол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_4_1__clean": {
+  "text": "Я щодня приймаю омепразол.",
+  "lang": "uk",
+  "drug": "омепразол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_4_1__er_10db": {
+  "text": "Я щодня приймаю омепразол.",
+  "lang": "uk",
+  "drug": "омепразол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_4_1__er_5db": {
+  "text": "Я щодня приймаю омепразол.",
+  "lang": "uk",
+  "drug": "омепразол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_5_0__clean": {
+  "text": "У мене алергія на ібупрофен.",
+  "lang": "uk",
+  "drug": "ібупрофен",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_5_0__er_10db": {
+  "text": "У мене алергія на ібупрофен.",
+  "lang": "uk",
+  "drug": "ібупрофен",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_5_0__er_5db": {
+  "text": "У мене алергія на ібупрофен.",
+  "lang": "uk",
+  "drug": "ібупрофен",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_5_1__clean": {
+  "text": "Я щодня приймаю ібупрофен.",
+  "lang": "uk",
+  "drug": "ібупрофен",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_5_1__er_10db": {
+  "text": "Я щодня приймаю ібупрофен.",
+  "lang": "uk",
+  "drug": "ібупрофен",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_5_1__er_5db": {
+  "text": "Я щодня приймаю ібупрофен.",
+  "lang": "uk",
+  "drug": "ібупрофен",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_6_0__clean": {
+  "text": "У мене алергія на інсулін.",
+  "lang": "uk",
+  "drug": "інсулін",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_6_0__er_10db": {
+  "text": "У мене алергія на інсулін.",
+  "lang": "uk",
+  "drug": "інсулін",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_6_0__er_5db": {
+  "text": "У мене алергія на інсулін.",
+  "lang": "uk",
+  "drug": "інсулін",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_6_1__clean": {
+  "text": "Я щодня приймаю інсулін.",
+  "lang": "uk",
+  "drug": "інсулін",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_6_1__er_10db": {
+  "text": "Я щодня приймаю інсулін.",
+  "lang": "uk",
+  "drug": "інсулін",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_6_1__er_5db": {
+  "text": "Я щодня приймаю інсулін.",
+  "lang": "uk",
+  "drug": "інсулін",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_7_0__clean": {
+  "text": "У мене алергія на клопідогрель.",
+  "lang": "uk",
+  "drug": "клопідогрель",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_7_0__er_10db": {
+  "text": "У мене алергія на клопідогрель.",
+  "lang": "uk",
+  "drug": "клопідогрель",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_7_0__er_5db": {
+  "text": "У мене алергія на клопідогрель.",
+  "lang": "uk",
+  "drug": "клопідогрель",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_7_1__clean": {
+  "text": "Я щодня приймаю клопідогрель.",
+  "lang": "uk",
+  "drug": "клопідогрель",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_7_1__er_10db": {
+  "text": "Я щодня приймаю клопідогрель.",
+  "lang": "uk",
+  "drug": "клопідогрель",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_7_1__er_5db": {
+  "text": "Я щодня приймаю клопідогрель.",
+  "lang": "uk",
+  "drug": "клопідогрель",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_8_0__clean": {
+  "text": "У мене алергія на апіксабан.",
+  "lang": "uk",
+  "drug": "апіксабан",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_8_0__er_10db": {
+  "text": "У мене алергія на апіксабан.",
+  "lang": "uk",
+  "drug": "апіксабан",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_8_0__er_5db": {
+  "text": "У мене алергія на апіксабан.",
+  "lang": "uk",
+  "drug": "апіксабан",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_8_1__clean": {
+  "text": "Я щодня приймаю апіксабан.",
+  "lang": "uk",
+  "drug": "апіксабан",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_8_1__er_10db": {
+  "text": "Я щодня приймаю апіксабан.",
+  "lang": "uk",
+  "drug": "апіксабан",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_8_1__er_5db": {
+  "text": "Я щодня приймаю апіксабан.",
+  "lang": "uk",
+  "drug": "апіксабан",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_9_0__clean": {
+  "text": "У мене алергія на кодеїн.",
+  "lang": "uk",
+  "drug": "кодеїн",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_9_0__er_10db": {
+  "text": "У мене алергія на кодеїн.",
+  "lang": "uk",
+  "drug": "кодеїн",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_9_0__er_5db": {
+  "text": "У мене алергія на кодеїн.",
+  "lang": "uk",
+  "drug": "кодеїн",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_uk_9_1__clean": {
+  "text": "Я щодня приймаю кодеїн.",
+  "lang": "uk",
+  "drug": "кодеїн",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_uk_9_1__er_10db": {
+  "text": "Я щодня приймаю кодеїн.",
+  "lang": "uk",
+  "drug": "кодеїн",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_uk_9_1__er_5db": {
+  "text": "Я щодня приймаю кодеїн.",
+  "lang": "uk",
+  "drug": "кодеїн",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_0_0__clean": {
+  "text": "У меня аллергия на амоксициллин.",
+  "lang": "ru",
+  "drug": "амоксициллин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_0_0__er_10db": {
+  "text": "У меня аллергия на амоксициллин.",
+  "lang": "ru",
+  "drug": "амоксициллин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_0_0__er_5db": {
+  "text": "У меня аллергия на амоксициллин.",
+  "lang": "ru",
+  "drug": "амоксициллин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_0_1__clean": {
+  "text": "Я каждый день принимаю амоксициллин.",
+  "lang": "ru",
+  "drug": "амоксициллин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_0_1__er_10db": {
+  "text": "Я каждый день принимаю амоксициллин.",
+  "lang": "ru",
+  "drug": "амоксициллин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_0_1__er_5db": {
+  "text": "Я каждый день принимаю амоксициллин.",
+  "lang": "ru",
+  "drug": "амоксициллин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_1_0__clean": {
+  "text": "У меня аллергия на метформин.",
+  "lang": "ru",
+  "drug": "метформин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_1_0__er_10db": {
+  "text": "У меня аллергия на метформин.",
+  "lang": "ru",
+  "drug": "метформин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_1_0__er_5db": {
+  "text": "У меня аллергия на метформин.",
+  "lang": "ru",
+  "drug": "метформин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_1_1__clean": {
+  "text": "Я каждый день принимаю метформин.",
+  "lang": "ru",
+  "drug": "метформин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_1_1__er_10db": {
+  "text": "Я каждый день принимаю метформин.",
+  "lang": "ru",
+  "drug": "метформин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_1_1__er_5db": {
+  "text": "Я каждый день принимаю метформин.",
+  "lang": "ru",
+  "drug": "метформин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_2_0__clean": {
+  "text": "У меня аллергия на варфарин.",
+  "lang": "ru",
+  "drug": "варфарин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_2_0__er_10db": {
+  "text": "У меня аллергия на варфарин.",
+  "lang": "ru",
+  "drug": "варфарин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_2_0__er_5db": {
+  "text": "У меня аллергия на варфарин.",
+  "lang": "ru",
+  "drug": "варфарин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_2_1__clean": {
+  "text": "Я каждый день принимаю варфарин.",
+  "lang": "ru",
+  "drug": "варфарин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_2_1__er_10db": {
+  "text": "Я каждый день принимаю варфарин.",
+  "lang": "ru",
+  "drug": "варфарин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_2_1__er_5db": {
+  "text": "Я каждый день принимаю варфарин.",
+  "lang": "ru",
+  "drug": "варфарин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_3_0__clean": {
+  "text": "У меня аллергия на сальбутамол.",
+  "lang": "ru",
+  "drug": "сальбутамол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_3_0__er_10db": {
+  "text": "У меня аллергия на сальбутамол.",
+  "lang": "ru",
+  "drug": "сальбутамол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_3_0__er_5db": {
+  "text": "У меня аллергия на сальбутамол.",
+  "lang": "ru",
+  "drug": "сальбутамол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_3_1__clean": {
+  "text": "Я каждый день принимаю сальбутамол.",
+  "lang": "ru",
+  "drug": "сальбутамол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_3_1__er_10db": {
+  "text": "Я каждый день принимаю сальбутамол.",
+  "lang": "ru",
+  "drug": "сальбутамол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_3_1__er_5db": {
+  "text": "Я каждый день принимаю сальбутамол.",
+  "lang": "ru",
+  "drug": "сальбутамол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_4_0__clean": {
+  "text": "У меня аллергия на омепразол.",
+  "lang": "ru",
+  "drug": "омепразол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_4_0__er_10db": {
+  "text": "У меня аллергия на омепразол.",
+  "lang": "ru",
+  "drug": "омепразол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_4_0__er_5db": {
+  "text": "У меня аллергия на омепразол.",
+  "lang": "ru",
+  "drug": "омепразол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_4_1__clean": {
+  "text": "Я каждый день принимаю омепразол.",
+  "lang": "ru",
+  "drug": "омепразол",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_4_1__er_10db": {
+  "text": "Я каждый день принимаю омепразол.",
+  "lang": "ru",
+  "drug": "омепразол",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_4_1__er_5db": {
+  "text": "Я каждый день принимаю омепразол.",
+  "lang": "ru",
+  "drug": "омепразол",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_5_0__clean": {
+  "text": "У меня аллергия на ибупрофен.",
+  "lang": "ru",
+  "drug": "ибупрофен",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_5_0__er_10db": {
+  "text": "У меня аллергия на ибупрофен.",
+  "lang": "ru",
+  "drug": "ибупрофен",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_5_0__er_5db": {
+  "text": "У меня аллергия на ибупрофен.",
+  "lang": "ru",
+  "drug": "ибупрофен",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_5_1__clean": {
+  "text": "Я каждый день принимаю ибупрофен.",
+  "lang": "ru",
+  "drug": "ибупрофен",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_5_1__er_10db": {
+  "text": "Я каждый день принимаю ибупрофен.",
+  "lang": "ru",
+  "drug": "ибупрофен",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_5_1__er_5db": {
+  "text": "Я каждый день принимаю ибупрофен.",
+  "lang": "ru",
+  "drug": "ибупрофен",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_6_0__clean": {
+  "text": "У меня аллергия на инсулин.",
+  "lang": "ru",
+  "drug": "инсулин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_6_0__er_10db": {
+  "text": "У меня аллергия на инсулин.",
+  "lang": "ru",
+  "drug": "инсулин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_6_0__er_5db": {
+  "text": "У меня аллергия на инсулин.",
+  "lang": "ru",
+  "drug": "инсулин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_6_1__clean": {
+  "text": "Я каждый день принимаю инсулин.",
+  "lang": "ru",
+  "drug": "инсулин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_6_1__er_10db": {
+  "text": "Я каждый день принимаю инсулин.",
+  "lang": "ru",
+  "drug": "инсулин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_6_1__er_5db": {
+  "text": "Я каждый день принимаю инсулин.",
+  "lang": "ru",
+  "drug": "инсулин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_7_0__clean": {
+  "text": "У меня аллергия на клопидогрель.",
+  "lang": "ru",
+  "drug": "клопидогрель",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_7_0__er_10db": {
+  "text": "У меня аллергия на клопидогрель.",
+  "lang": "ru",
+  "drug": "клопидогрель",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_7_0__er_5db": {
+  "text": "У меня аллергия на клопидогрель.",
+  "lang": "ru",
+  "drug": "клопидогрель",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_7_1__clean": {
+  "text": "Я каждый день принимаю клопидогрель.",
+  "lang": "ru",
+  "drug": "клопидогрель",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_7_1__er_10db": {
+  "text": "Я каждый день принимаю клопидогрель.",
+  "lang": "ru",
+  "drug": "клопидогрель",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_7_1__er_5db": {
+  "text": "Я каждый день принимаю клопидогрель.",
+  "lang": "ru",
+  "drug": "клопидогрель",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_8_0__clean": {
+  "text": "У меня аллергия на апиксабан.",
+  "lang": "ru",
+  "drug": "апиксабан",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_8_0__er_10db": {
+  "text": "У меня аллергия на апиксабан.",
+  "lang": "ru",
+  "drug": "апиксабан",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_8_0__er_5db": {
+  "text": "У меня аллергия на апиксабан.",
+  "lang": "ru",
+  "drug": "апиксабан",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_8_1__clean": {
+  "text": "Я каждый день принимаю апиксабан.",
+  "lang": "ru",
+  "drug": "апиксабан",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_8_1__er_10db": {
+  "text": "Я каждый день принимаю апиксабан.",
+  "lang": "ru",
+  "drug": "апиксабан",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_8_1__er_5db": {
+  "text": "Я каждый день принимаю апиксабан.",
+  "lang": "ru",
+  "drug": "апиксабан",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_9_0__clean": {
+  "text": "У меня аллергия на кодеин.",
+  "lang": "ru",
+  "drug": "кодеин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_9_0__er_10db": {
+  "text": "У меня аллергия на кодеин.",
+  "lang": "ru",
+  "drug": "кодеин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_9_0__er_5db": {
+  "text": "У меня аллергия на кодеин.",
+  "lang": "ru",
+  "drug": "кодеин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ru_9_1__clean": {
+  "text": "Я каждый день принимаю кодеин.",
+  "lang": "ru",
+  "drug": "кодеин",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ru_9_1__er_10db": {
+  "text": "Я каждый день принимаю кодеин.",
+  "lang": "ru",
+  "drug": "кодеин",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ru_9_1__er_5db": {
+  "text": "Я каждый день принимаю кодеин.",
+  "lang": "ru",
+  "drug": "кодеин",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_0_0__clean": {
+  "text": "Jestem uczulony na amoksycylinę.",
+  "lang": "pl",
+  "drug": "amoksycylinę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_0_0__er_10db": {
+  "text": "Jestem uczulony na amoksycylinę.",
+  "lang": "pl",
+  "drug": "amoksycylinę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_0_0__er_5db": {
+  "text": "Jestem uczulony na amoksycylinę.",
+  "lang": "pl",
+  "drug": "amoksycylinę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_0_1__clean": {
+  "text": "Codziennie biorę amoksycylinę.",
+  "lang": "pl",
+  "drug": "amoksycylinę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_0_1__er_10db": {
+  "text": "Codziennie biorę amoksycylinę.",
+  "lang": "pl",
+  "drug": "amoksycylinę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_0_1__er_5db": {
+  "text": "Codziennie biorę amoksycylinę.",
+  "lang": "pl",
+  "drug": "amoksycylinę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_1_0__clean": {
+  "text": "Jestem uczulony na metforminę.",
+  "lang": "pl",
+  "drug": "metforminę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_1_0__er_10db": {
+  "text": "Jestem uczulony na metforminę.",
+  "lang": "pl",
+  "drug": "metforminę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_1_0__er_5db": {
+  "text": "Jestem uczulony na metforminę.",
+  "lang": "pl",
+  "drug": "metforminę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_1_1__clean": {
+  "text": "Codziennie biorę metforminę.",
+  "lang": "pl",
+  "drug": "metforminę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_1_1__er_10db": {
+  "text": "Codziennie biorę metforminę.",
+  "lang": "pl",
+  "drug": "metforminę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_1_1__er_5db": {
+  "text": "Codziennie biorę metforminę.",
+  "lang": "pl",
+  "drug": "metforminę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_2_0__clean": {
+  "text": "Jestem uczulony na warfarynę.",
+  "lang": "pl",
+  "drug": "warfarynę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_2_0__er_10db": {
+  "text": "Jestem uczulony na warfarynę.",
+  "lang": "pl",
+  "drug": "warfarynę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_2_0__er_5db": {
+  "text": "Jestem uczulony na warfarynę.",
+  "lang": "pl",
+  "drug": "warfarynę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_2_1__clean": {
+  "text": "Codziennie biorę warfarynę.",
+  "lang": "pl",
+  "drug": "warfarynę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_2_1__er_10db": {
+  "text": "Codziennie biorę warfarynę.",
+  "lang": "pl",
+  "drug": "warfarynę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_2_1__er_5db": {
+  "text": "Codziennie biorę warfarynę.",
+  "lang": "pl",
+  "drug": "warfarynę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_3_0__clean": {
+  "text": "Jestem uczulony na salbutamol.",
+  "lang": "pl",
+  "drug": "salbutamol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_3_0__er_10db": {
+  "text": "Jestem uczulony na salbutamol.",
+  "lang": "pl",
+  "drug": "salbutamol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_3_0__er_5db": {
+  "text": "Jestem uczulony na salbutamol.",
+  "lang": "pl",
+  "drug": "salbutamol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_3_1__clean": {
+  "text": "Codziennie biorę salbutamol.",
+  "lang": "pl",
+  "drug": "salbutamol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_3_1__er_10db": {
+  "text": "Codziennie biorę salbutamol.",
+  "lang": "pl",
+  "drug": "salbutamol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_3_1__er_5db": {
+  "text": "Codziennie biorę salbutamol.",
+  "lang": "pl",
+  "drug": "salbutamol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_4_0__clean": {
+  "text": "Jestem uczulony na omeprazol.",
+  "lang": "pl",
+  "drug": "omeprazol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_4_0__er_10db": {
+  "text": "Jestem uczulony na omeprazol.",
+  "lang": "pl",
+  "drug": "omeprazol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_4_0__er_5db": {
+  "text": "Jestem uczulony na omeprazol.",
+  "lang": "pl",
+  "drug": "omeprazol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_4_1__clean": {
+  "text": "Codziennie biorę omeprazol.",
+  "lang": "pl",
+  "drug": "omeprazol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_4_1__er_10db": {
+  "text": "Codziennie biorę omeprazol.",
+  "lang": "pl",
+  "drug": "omeprazol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_4_1__er_5db": {
+  "text": "Codziennie biorę omeprazol.",
+  "lang": "pl",
+  "drug": "omeprazol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_5_0__clean": {
+  "text": "Jestem uczulony na ibuprofen.",
+  "lang": "pl",
+  "drug": "ibuprofen",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_5_0__er_10db": {
+  "text": "Jestem uczulony na ibuprofen.",
+  "lang": "pl",
+  "drug": "ibuprofen",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_5_0__er_5db": {
+  "text": "Jestem uczulony na ibuprofen.",
+  "lang": "pl",
+  "drug": "ibuprofen",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_5_1__clean": {
+  "text": "Codziennie biorę ibuprofen.",
+  "lang": "pl",
+  "drug": "ibuprofen",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_5_1__er_10db": {
+  "text": "Codziennie biorę ibuprofen.",
+  "lang": "pl",
+  "drug": "ibuprofen",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_5_1__er_5db": {
+  "text": "Codziennie biorę ibuprofen.",
+  "lang": "pl",
+  "drug": "ibuprofen",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_6_0__clean": {
+  "text": "Jestem uczulony na insulinę.",
+  "lang": "pl",
+  "drug": "insulinę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_6_0__er_10db": {
+  "text": "Jestem uczulony na insulinę.",
+  "lang": "pl",
+  "drug": "insulinę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_6_0__er_5db": {
+  "text": "Jestem uczulony na insulinę.",
+  "lang": "pl",
+  "drug": "insulinę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_6_1__clean": {
+  "text": "Codziennie biorę insulinę.",
+  "lang": "pl",
+  "drug": "insulinę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_6_1__er_10db": {
+  "text": "Codziennie biorę insulinę.",
+  "lang": "pl",
+  "drug": "insulinę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_6_1__er_5db": {
+  "text": "Codziennie biorę insulinę.",
+  "lang": "pl",
+  "drug": "insulinę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_7_0__clean": {
+  "text": "Jestem uczulony na klopidogrel.",
+  "lang": "pl",
+  "drug": "klopidogrel",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_7_0__er_10db": {
+  "text": "Jestem uczulony na klopidogrel.",
+  "lang": "pl",
+  "drug": "klopidogrel",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_7_0__er_5db": {
+  "text": "Jestem uczulony na klopidogrel.",
+  "lang": "pl",
+  "drug": "klopidogrel",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_7_1__clean": {
+  "text": "Codziennie biorę klopidogrel.",
+  "lang": "pl",
+  "drug": "klopidogrel",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_7_1__er_10db": {
+  "text": "Codziennie biorę klopidogrel.",
+  "lang": "pl",
+  "drug": "klopidogrel",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_7_1__er_5db": {
+  "text": "Codziennie biorę klopidogrel.",
+  "lang": "pl",
+  "drug": "klopidogrel",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_8_0__clean": {
+  "text": "Jestem uczulony na apiksaban.",
+  "lang": "pl",
+  "drug": "apiksaban",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_8_0__er_10db": {
+  "text": "Jestem uczulony na apiksaban.",
+  "lang": "pl",
+  "drug": "apiksaban",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_8_0__er_5db": {
+  "text": "Jestem uczulony na apiksaban.",
+  "lang": "pl",
+  "drug": "apiksaban",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_8_1__clean": {
+  "text": "Codziennie biorę apiksaban.",
+  "lang": "pl",
+  "drug": "apiksaban",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_8_1__er_10db": {
+  "text": "Codziennie biorę apiksaban.",
+  "lang": "pl",
+  "drug": "apiksaban",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_8_1__er_5db": {
+  "text": "Codziennie biorę apiksaban.",
+  "lang": "pl",
+  "drug": "apiksaban",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_9_0__clean": {
+  "text": "Jestem uczulony na kodeinę.",
+  "lang": "pl",
+  "drug": "kodeinę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_9_0__er_10db": {
+  "text": "Jestem uczulony na kodeinę.",
+  "lang": "pl",
+  "drug": "kodeinę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_9_0__er_5db": {
+  "text": "Jestem uczulony na kodeinę.",
+  "lang": "pl",
+  "drug": "kodeinę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_pl_9_1__clean": {
+  "text": "Codziennie biorę kodeinę.",
+  "lang": "pl",
+  "drug": "kodeinę",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_pl_9_1__er_10db": {
+  "text": "Codziennie biorę kodeinę.",
+  "lang": "pl",
+  "drug": "kodeinę",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_pl_9_1__er_5db": {
+  "text": "Codziennie biorę kodeinę.",
+  "lang": "pl",
+  "drug": "kodeinę",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_0_0__clean": {
+  "text": "Sunt alergic la amoxicilină.",
+  "lang": "ro",
+  "drug": "amoxicilină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_0_0__er_10db": {
+  "text": "Sunt alergic la amoxicilină.",
+  "lang": "ro",
+  "drug": "amoxicilină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_0_0__er_5db": {
+  "text": "Sunt alergic la amoxicilină.",
+  "lang": "ro",
+  "drug": "amoxicilină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_0_1__clean": {
+  "text": "Iau amoxicilină în fiecare zi.",
+  "lang": "ro",
+  "drug": "amoxicilină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_0_1__er_10db": {
+  "text": "Iau amoxicilină în fiecare zi.",
+  "lang": "ro",
+  "drug": "amoxicilină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_0_1__er_5db": {
+  "text": "Iau amoxicilină în fiecare zi.",
+  "lang": "ro",
+  "drug": "amoxicilină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_1_0__clean": {
+  "text": "Sunt alergic la metformină.",
+  "lang": "ro",
+  "drug": "metformină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_1_0__er_10db": {
+  "text": "Sunt alergic la metformină.",
+  "lang": "ro",
+  "drug": "metformină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_1_0__er_5db": {
+  "text": "Sunt alergic la metformină.",
+  "lang": "ro",
+  "drug": "metformină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_1_1__clean": {
+  "text": "Iau metformină în fiecare zi.",
+  "lang": "ro",
+  "drug": "metformină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_1_1__er_10db": {
+  "text": "Iau metformină în fiecare zi.",
+  "lang": "ro",
+  "drug": "metformină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_1_1__er_5db": {
+  "text": "Iau metformină în fiecare zi.",
+  "lang": "ro",
+  "drug": "metformină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_2_0__clean": {
+  "text": "Sunt alergic la warfarină.",
+  "lang": "ro",
+  "drug": "warfarină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_2_0__er_10db": {
+  "text": "Sunt alergic la warfarină.",
+  "lang": "ro",
+  "drug": "warfarină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_2_0__er_5db": {
+  "text": "Sunt alergic la warfarină.",
+  "lang": "ro",
+  "drug": "warfarină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_2_1__clean": {
+  "text": "Iau warfarină în fiecare zi.",
+  "lang": "ro",
+  "drug": "warfarină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_2_1__er_10db": {
+  "text": "Iau warfarină în fiecare zi.",
+  "lang": "ro",
+  "drug": "warfarină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_2_1__er_5db": {
+  "text": "Iau warfarină în fiecare zi.",
+  "lang": "ro",
+  "drug": "warfarină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_3_0__clean": {
+  "text": "Sunt alergic la salbutamol.",
+  "lang": "ro",
+  "drug": "salbutamol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_3_0__er_10db": {
+  "text": "Sunt alergic la salbutamol.",
+  "lang": "ro",
+  "drug": "salbutamol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_3_0__er_5db": {
+  "text": "Sunt alergic la salbutamol.",
+  "lang": "ro",
+  "drug": "salbutamol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_3_1__clean": {
+  "text": "Iau salbutamol în fiecare zi.",
+  "lang": "ro",
+  "drug": "salbutamol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_3_1__er_10db": {
+  "text": "Iau salbutamol în fiecare zi.",
+  "lang": "ro",
+  "drug": "salbutamol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_3_1__er_5db": {
+  "text": "Iau salbutamol în fiecare zi.",
+  "lang": "ro",
+  "drug": "salbutamol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_4_0__clean": {
+  "text": "Sunt alergic la omeprazol.",
+  "lang": "ro",
+  "drug": "omeprazol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_4_0__er_10db": {
+  "text": "Sunt alergic la omeprazol.",
+  "lang": "ro",
+  "drug": "omeprazol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_4_0__er_5db": {
+  "text": "Sunt alergic la omeprazol.",
+  "lang": "ro",
+  "drug": "omeprazol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_4_1__clean": {
+  "text": "Iau omeprazol în fiecare zi.",
+  "lang": "ro",
+  "drug": "omeprazol",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_4_1__er_10db": {
+  "text": "Iau omeprazol în fiecare zi.",
+  "lang": "ro",
+  "drug": "omeprazol",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_4_1__er_5db": {
+  "text": "Iau omeprazol în fiecare zi.",
+  "lang": "ro",
+  "drug": "omeprazol",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_5_0__clean": {
+  "text": "Sunt alergic la ibuprofen.",
+  "lang": "ro",
+  "drug": "ibuprofen",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_5_0__er_10db": {
+  "text": "Sunt alergic la ibuprofen.",
+  "lang": "ro",
+  "drug": "ibuprofen",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_5_0__er_5db": {
+  "text": "Sunt alergic la ibuprofen.",
+  "lang": "ro",
+  "drug": "ibuprofen",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_5_1__clean": {
+  "text": "Iau ibuprofen în fiecare zi.",
+  "lang": "ro",
+  "drug": "ibuprofen",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_5_1__er_10db": {
+  "text": "Iau ibuprofen în fiecare zi.",
+  "lang": "ro",
+  "drug": "ibuprofen",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_5_1__er_5db": {
+  "text": "Iau ibuprofen în fiecare zi.",
+  "lang": "ro",
+  "drug": "ibuprofen",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_6_0__clean": {
+  "text": "Sunt alergic la insulină.",
+  "lang": "ro",
+  "drug": "insulină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_6_0__er_10db": {
+  "text": "Sunt alergic la insulină.",
+  "lang": "ro",
+  "drug": "insulină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_6_0__er_5db": {
+  "text": "Sunt alergic la insulină.",
+  "lang": "ro",
+  "drug": "insulină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_6_1__clean": {
+  "text": "Iau insulină în fiecare zi.",
+  "lang": "ro",
+  "drug": "insulină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_6_1__er_10db": {
+  "text": "Iau insulină în fiecare zi.",
+  "lang": "ro",
+  "drug": "insulină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_6_1__er_5db": {
+  "text": "Iau insulină în fiecare zi.",
+  "lang": "ro",
+  "drug": "insulină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_7_0__clean": {
+  "text": "Sunt alergic la clopidogrel.",
+  "lang": "ro",
+  "drug": "clopidogrel",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_7_0__er_10db": {
+  "text": "Sunt alergic la clopidogrel.",
+  "lang": "ro",
+  "drug": "clopidogrel",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_7_0__er_5db": {
+  "text": "Sunt alergic la clopidogrel.",
+  "lang": "ro",
+  "drug": "clopidogrel",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_7_1__clean": {
+  "text": "Iau clopidogrel în fiecare zi.",
+  "lang": "ro",
+  "drug": "clopidogrel",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_7_1__er_10db": {
+  "text": "Iau clopidogrel în fiecare zi.",
+  "lang": "ro",
+  "drug": "clopidogrel",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_7_1__er_5db": {
+  "text": "Iau clopidogrel în fiecare zi.",
+  "lang": "ro",
+  "drug": "clopidogrel",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_8_0__clean": {
+  "text": "Sunt alergic la apixaban.",
+  "lang": "ro",
+  "drug": "apixaban",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_8_0__er_10db": {
+  "text": "Sunt alergic la apixaban.",
+  "lang": "ro",
+  "drug": "apixaban",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_8_0__er_5db": {
+  "text": "Sunt alergic la apixaban.",
+  "lang": "ro",
+  "drug": "apixaban",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_8_1__clean": {
+  "text": "Iau apixaban în fiecare zi.",
+  "lang": "ro",
+  "drug": "apixaban",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_8_1__er_10db": {
+  "text": "Iau apixaban în fiecare zi.",
+  "lang": "ro",
+  "drug": "apixaban",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_8_1__er_5db": {
+  "text": "Iau apixaban în fiecare zi.",
+  "lang": "ro",
+  "drug": "apixaban",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_9_0__clean": {
+  "text": "Sunt alergic la codeină.",
+  "lang": "ro",
+  "drug": "codeină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_9_0__er_10db": {
+  "text": "Sunt alergic la codeină.",
+  "lang": "ro",
+  "drug": "codeină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_9_0__er_5db": {
+  "text": "Sunt alergic la codeină.",
+  "lang": "ro",
+  "drug": "codeină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ro_9_1__clean": {
+  "text": "Iau codeină în fiecare zi.",
+  "lang": "ro",
+  "drug": "codeină",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ro_9_1__er_10db": {
+  "text": "Iau codeină în fiecare zi.",
+  "lang": "ro",
+  "drug": "codeină",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ro_9_1__er_5db": {
+  "text": "Iau codeină în fiecare zi.",
+  "lang": "ro",
+  "drug": "codeină",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_0_0__clean": {
+  "text": "عندي حساسية من أموكسيسيلين.",
+  "lang": "ar",
+  "drug": "أموكسيسيلين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_0_0__er_10db": {
+  "text": "عندي حساسية من أموكسيسيلين.",
+  "lang": "ar",
+  "drug": "أموكسيسيلين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_0_0__er_5db": {
+  "text": "عندي حساسية من أموكسيسيلين.",
+  "lang": "ar",
+  "drug": "أموكسيسيلين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_0_1__clean": {
+  "text": "آخذ أموكسيسيلين كل يوم.",
+  "lang": "ar",
+  "drug": "أموكسيسيلين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_0_1__er_10db": {
+  "text": "آخذ أموكسيسيلين كل يوم.",
+  "lang": "ar",
+  "drug": "أموكسيسيلين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_0_1__er_5db": {
+  "text": "آخذ أموكسيسيلين كل يوم.",
+  "lang": "ar",
+  "drug": "أموكسيسيلين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_1_0__clean": {
+  "text": "عندي حساسية من الميتفورمين.",
+  "lang": "ar",
+  "drug": "الميتفورمين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_1_0__er_10db": {
+  "text": "عندي حساسية من الميتفورمين.",
+  "lang": "ar",
+  "drug": "الميتفورمين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_1_0__er_5db": {
+  "text": "عندي حساسية من الميتفورمين.",
+  "lang": "ar",
+  "drug": "الميتفورمين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_1_1__clean": {
+  "text": "آخذ الميتفورمين كل يوم.",
+  "lang": "ar",
+  "drug": "الميتفورمين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_1_1__er_10db": {
+  "text": "آخذ الميتفورمين كل يوم.",
+  "lang": "ar",
+  "drug": "الميتفورمين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_1_1__er_5db": {
+  "text": "آخذ الميتفورمين كل يوم.",
+  "lang": "ar",
+  "drug": "الميتفورمين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_2_0__clean": {
+  "text": "عندي حساسية من الوارفارين.",
+  "lang": "ar",
+  "drug": "الوارفارين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_2_0__er_10db": {
+  "text": "عندي حساسية من الوارفارين.",
+  "lang": "ar",
+  "drug": "الوارفارين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_2_0__er_5db": {
+  "text": "عندي حساسية من الوارفارين.",
+  "lang": "ar",
+  "drug": "الوارفارين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_2_1__clean": {
+  "text": "آخذ الوارفارين كل يوم.",
+  "lang": "ar",
+  "drug": "الوارفارين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_2_1__er_10db": {
+  "text": "آخذ الوارفارين كل يوم.",
+  "lang": "ar",
+  "drug": "الوارفارين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_2_1__er_5db": {
+  "text": "آخذ الوارفارين كل يوم.",
+  "lang": "ar",
+  "drug": "الوارفارين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_3_0__clean": {
+  "text": "عندي حساسية من سالبوتامول.",
+  "lang": "ar",
+  "drug": "سالبوتامول",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_3_0__er_10db": {
+  "text": "عندي حساسية من سالبوتامول.",
+  "lang": "ar",
+  "drug": "سالبوتامول",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_3_0__er_5db": {
+  "text": "عندي حساسية من سالبوتامول.",
+  "lang": "ar",
+  "drug": "سالبوتامول",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_3_1__clean": {
+  "text": "آخذ سالبوتامول كل يوم.",
+  "lang": "ar",
+  "drug": "سالبوتامول",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_3_1__er_10db": {
+  "text": "آخذ سالبوتامول كل يوم.",
+  "lang": "ar",
+  "drug": "سالبوتامول",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_3_1__er_5db": {
+  "text": "آخذ سالبوتامول كل يوم.",
+  "lang": "ar",
+  "drug": "سالبوتامول",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_4_0__clean": {
+  "text": "عندي حساسية من أوميبرازول.",
+  "lang": "ar",
+  "drug": "أوميبرازول",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_4_0__er_10db": {
+  "text": "عندي حساسية من أوميبرازول.",
+  "lang": "ar",
+  "drug": "أوميبرازول",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_4_0__er_5db": {
+  "text": "عندي حساسية من أوميبرازول.",
+  "lang": "ar",
+  "drug": "أوميبرازول",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_4_1__clean": {
+  "text": "آخذ أوميبرازول كل يوم.",
+  "lang": "ar",
+  "drug": "أوميبرازول",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_4_1__er_10db": {
+  "text": "آخذ أوميبرازول كل يوم.",
+  "lang": "ar",
+  "drug": "أوميبرازول",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_4_1__er_5db": {
+  "text": "آخذ أوميبرازول كل يوم.",
+  "lang": "ar",
+  "drug": "أوميبرازول",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_5_0__clean": {
+  "text": "عندي حساسية من إيبوبروفين.",
+  "lang": "ar",
+  "drug": "إيبوبروفين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_5_0__er_10db": {
+  "text": "عندي حساسية من إيبوبروفين.",
+  "lang": "ar",
+  "drug": "إيبوبروفين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_5_0__er_5db": {
+  "text": "عندي حساسية من إيبوبروفين.",
+  "lang": "ar",
+  "drug": "إيبوبروفين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_5_1__clean": {
+  "text": "آخذ إيبوبروفين كل يوم.",
+  "lang": "ar",
+  "drug": "إيبوبروفين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_5_1__er_10db": {
+  "text": "آخذ إيبوبروفين كل يوم.",
+  "lang": "ar",
+  "drug": "إيبوبروفين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_5_1__er_5db": {
+  "text": "آخذ إيبوبروفين كل يوم.",
+  "lang": "ar",
+  "drug": "إيبوبروفين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_6_0__clean": {
+  "text": "عندي حساسية من الأنسولين.",
+  "lang": "ar",
+  "drug": "الأنسولين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_6_0__er_10db": {
+  "text": "عندي حساسية من الأنسولين.",
+  "lang": "ar",
+  "drug": "الأنسولين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_6_0__er_5db": {
+  "text": "عندي حساسية من الأنسولين.",
+  "lang": "ar",
+  "drug": "الأنسولين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_6_1__clean": {
+  "text": "آخذ الأنسولين كل يوم.",
+  "lang": "ar",
+  "drug": "الأنسولين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_6_1__er_10db": {
+  "text": "آخذ الأنسولين كل يوم.",
+  "lang": "ar",
+  "drug": "الأنسولين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_6_1__er_5db": {
+  "text": "آخذ الأنسولين كل يوم.",
+  "lang": "ar",
+  "drug": "الأنسولين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_7_0__clean": {
+  "text": "عندي حساسية من كلوبيدوجريل.",
+  "lang": "ar",
+  "drug": "كلوبيدوجريل",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_7_0__er_10db": {
+  "text": "عندي حساسية من كلوبيدوجريل.",
+  "lang": "ar",
+  "drug": "كلوبيدوجريل",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_7_0__er_5db": {
+  "text": "عندي حساسية من كلوبيدوجريل.",
+  "lang": "ar",
+  "drug": "كلوبيدوجريل",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_7_1__clean": {
+  "text": "آخذ كلوبيدوجريل كل يوم.",
+  "lang": "ar",
+  "drug": "كلوبيدوجريل",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_7_1__er_10db": {
+  "text": "آخذ كلوبيدوجريل كل يوم.",
+  "lang": "ar",
+  "drug": "كلوبيدوجريل",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_7_1__er_5db": {
+  "text": "آخذ كلوبيدوجريل كل يوم.",
+  "lang": "ar",
+  "drug": "كلوبيدوجريل",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_8_0__clean": {
+  "text": "عندي حساسية من أبيكسابان.",
+  "lang": "ar",
+  "drug": "أبيكسابان",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_8_0__er_10db": {
+  "text": "عندي حساسية من أبيكسابان.",
+  "lang": "ar",
+  "drug": "أبيكسابان",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_8_0__er_5db": {
+  "text": "عندي حساسية من أبيكسابان.",
+  "lang": "ar",
+  "drug": "أبيكسابان",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_8_1__clean": {
+  "text": "آخذ أبيكسابان كل يوم.",
+  "lang": "ar",
+  "drug": "أبيكسابان",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_8_1__er_10db": {
+  "text": "آخذ أبيكسابان كل يوم.",
+  "lang": "ar",
+  "drug": "أبيكسابان",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_8_1__er_5db": {
+  "text": "آخذ أبيكسابان كل يوم.",
+  "lang": "ar",
+  "drug": "أبيكسابان",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_9_0__clean": {
+  "text": "عندي حساسية من الكودايين.",
+  "lang": "ar",
+  "drug": "الكودايين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_9_0__er_10db": {
+  "text": "عندي حساسية من الكودايين.",
+  "lang": "ar",
+  "drug": "الكودايين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_9_0__er_5db": {
+  "text": "عندي حساسية من الكودايين.",
+  "lang": "ar",
+  "drug": "الكودايين",
+  "noise": "er_5db",
+  "kind": "drug"
+ },
+ "med_ar_9_1__clean": {
+  "text": "آخذ الكودايين كل يوم.",
+  "lang": "ar",
+  "drug": "الكودايين",
+  "noise": "clean",
+  "kind": "drug"
+ },
+ "med_ar_9_1__er_10db": {
+  "text": "آخذ الكودايين كل يوم.",
+  "lang": "ar",
+  "drug": "الكودايين",
+  "noise": "er_10db",
+  "kind": "drug"
+ },
+ "med_ar_9_1__er_5db": {
+  "text": "آخذ الكودايين كل يوم.",
+  "lang": "ar",
+  "drug": "الكودايين",
+  "noise": "er_5db",
+  "kind": "drug"
+ }
+}

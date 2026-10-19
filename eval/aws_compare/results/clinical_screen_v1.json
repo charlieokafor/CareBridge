@@ -1,0 +1,3076 @@
+{
+ "pl": {
+  "okRate": 0.9,
+  "avgScore": 98.3,
+  "flagged": [
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Jutro zrobimy operację prawego kolana.",
+    "back": "Tomorrow we will have surgery on the right knee.",
+    "score": 74,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Nie należy prowadzić pojazdów przez 24 godziny po znieczuleniu.",
+    "back": "Do not drive vehicles for 24 hours after anesthesia.",
+    "score": 93,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Weź dwie 500 miligramowe tabletki paracetamolu co sześć godzin.",
+    "back": "Take two 500 milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Nie jedz ani nie pij niczego po północy.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Ból jest w lewej nodze.",
+    "back": "The pain is in the left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Weź jedną tabletkę ibuprofenu dwa razy dziennie po jedzeniu.",
+    "back": "Take one ibuprofen tablet twice a day after eating.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Jesteś uczulony na penicylinę.",
+    "back": "You're allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Nie należy przyjmować więcej niż osiem tabletek w ciągu 24 godzin.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Jutro zrobimy operację prawego kolana.",
+    "back": "Tomorrow we will have surgery on the right knee.",
+    "score": 74,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Weź 10 jednostek insuliny przed śniadaniem.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Twoje ciśnienie krwi wynosi 150 powyżej 90.",
+    "back": "Your blood pressure is 150 above 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Nie należy prowadzić pojazdów przez 24 godziny po znieczuleniu.",
+    "back": "Do not drive vehicles for 24 hours after anesthesia.",
+    "score": 93,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "Zdjęcie rentgenowskie pokazuje złamanie lewego nadgarstka.",
+    "back": "X-ray shows a fracture of the left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Weź 5 ml syropu trzy razy dziennie.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Nie wolno przyjmować aspiryny z tym lekiem.",
+    "back": "Aspirin must not be taken with this medicine.",
+    "score": 99,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Wróć za 7 dni, aby usunąć szwy.",
+    "back": "Come back in 7 days to remove the stitches.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Nie podnoś niczego ciężkiego przez sześć tygodni.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Twoja temperatura wynosi 39 stopni.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Weź antybiotyk przez 5 dni, nawet jeśli czujesz się lepiej.",
+    "back": "Take an antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Ból po prawej stronie może być zapaleniem wyrostka robaczkowego.",
+    "back": "Pain in the right side can be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Nie należy przerywać przyjmowania warfaryny bez pytania lekarza.",
+    "back": "You should not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Naciśnij ten przycisk, jeśli ból w klatce piersiowej nasili się.",
+    "back": "Press this button if the chest pain intensifies.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "uk": {
+  "okRate": 0.9,
+  "avgScore": 97.8,
+  "flagged": [
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Завтра ми зробимо операцію на правому коліні.",
+    "back": "Tomorrow we will have surgery on the right knee.",
+    "score": 74,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Не керуйте автомобілем протягом 24 годин після анестезії.",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Приймайте дві таблетки парацетамолу по 500 міліграм кожні шість годин.",
+    "back": "Take two paracetamol tablets of 500 milligrams every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Не їжте і не пийте нічого після півночі.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Біль у вашій лівій нозі.",
+    "back": "Pain in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Приймати по одній таблетці ібупрофену двічі на день після їжі.",
+    "back": "Take one tablet of ibuprofen twice a day after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "У вас алергія на пеніцилін.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Не приймайте більше восьми таблеток за 24 години.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Завтра ми зробимо операцію на правому коліні.",
+    "back": "Tomorrow we will have surgery on the right knee.",
+    "score": 74,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Приймати 10 одиниць інсуліну перед сніданком.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Ваш артеріальний тиск становить 150 понад 90.",
+    "back": "Your blood pressure is 150 over 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Не керуйте автомобілем протягом 24 годин після анестезії.",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "Рентген показує перелом у лівому зап'ясті.",
+    "back": "An X-ray shows a fracture in his left wrist.",
+    "score": 88,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Приймати по 5 мл сиропу тричі на день.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Не можна приймати аспірин разом з цим ліками.",
+    "back": "You can not take aspirin with this medicine.",
+    "score": 97,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Поверніться через 7 днів, щоб видалити шви.",
+    "back": "Come back after 7 days to remove the stitches.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Не піднімайте нічого важкого протягом шести тижнів.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Ваша температура 39 градусів.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Приймайте антибіотик протягом 5 днів, навіть якщо ви відчуваєте себе краще.",
+    "back": "Take an antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Біль на правому боці може бути апендицитом.",
+    "back": "Pain on the right side can be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Не припиняйте приймати варфарин, не запитавши лікаря.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Натисніть цю кнопку, якщо біль у грудях посилюється.",
+    "back": "Press this button if the chest pain gets worse.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "pt": {
+  "okRate": 0.9,
+  "avgScore": 98.8,
+  "flagged": [
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Não dirija por 24 horas após a anestesia.",
+    "back": "Do not drive for 24 hours after anaesthesia.",
+    "score": 100,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Você não deve tomar aspirina com este medicamento.",
+    "back": "You should not take aspirin with this medication.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Tome dois comprimidos de 500 miligramas de paracetamol a cada seis horas.",
+    "back": "Take two 500 milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Não coma nem beba nada depois da meia-noite.",
+    "back": "Don't eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "A dor está na sua perna esquerda.",
+    "back": "The pain is in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Tome um comprimido de ibuprofeno duas vezes ao dia após as refeições.",
+    "back": "Take an ibuprofen tablet twice daily after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Você é alérgico à penicilina.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Não tome mais de oito comprimidos em 24 horas.",
+    "back": "Do not take more than eight pills in 24 hours.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Operaremos seu joelho direito amanhã.",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Tome 10 unidades de insulina antes do café da manhã.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Sua pressão arterial está 150 acima de 90.",
+    "back": "Your blood pressure is 150 above 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Não dirija por 24 horas após a anestesia.",
+    "back": "Do not drive for 24 hours after anaesthesia.",
+    "score": 100,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "O raio-X mostra uma fratura no pulso esquerdo.",
+    "back": "The X-ray shows a fracture in the left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Tome 5 ml da calda três vezes ao dia.",
+    "back": "Take 5 ml of the syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Você não deve tomar aspirina com este medicamento.",
+    "back": "You should not take aspirin with this medication.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Volte em 7 dias para remover os pontos.",
+    "back": "Come back in 7 days to remove the stitches.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Não levante nada pesado por seis semanas.",
+    "back": "Don't lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Sua temperatura é de 39 graus.",
+    "back": "Its temperature is 39 degrees.",
+    "score": 92,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Tome o antibiótico por 5 dias, mesmo se você se sentir melhor.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "A dor no lado direito pode ser apendicite.",
+    "back": "Pain on the right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Não pare de tomar varfarina sem consultar seu médico.",
+    "back": "Do not stop taking warfarin without consulting your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Pressione este botão se a dor no peito piorar.",
+    "back": "Press this button if your chest pain worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "zh": {
+  "okRate": 0.85,
+  "avgScore": 96.7,
+  "flagged": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "每六小时服用两片 500 毫克的对乙酰氨基酚片。",
+    "back": "Take two 500mg acetaminophen tablets every six hours.",
+    "score": 79,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "麻醉后 24 小时内不要开车。",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "即使你感觉好转，也要服用 5 天的抗生素。",
+    "back": "Take antibiotics for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "每六小时服用两片 500 毫克的对乙酰氨基酚片。",
+    "back": "Take two 500mg acetaminophen tablets every six hours.",
+    "score": 79,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "午夜之后不要吃或喝任何东西。",
+    "back": "Don't eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "疼痛在你的左腿。",
+    "back": "Pain in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "每天两次在进食后服用一片布洛芬片。",
+    "back": "Take 1 ibuprofen tablet twice daily after eating.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "你对青霉素过敏。",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "24 小时内不要服用超过八片。",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "明天我们将对你的右膝进行手术。",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "早餐前服用 10 个单位的胰岛素。",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "你的血压在 90 以上 150。",
+    "back": "Your blood pressure is above 90 to 150.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "麻醉后 24 小时内不要开车。",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "X 光片显示您的左手腕骨折。",
+    "back": "An X-ray showed a broken left wrist.",
+    "score": 92,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "每天三次服用 5 毫升糖浆。",
+    "back": "Take 5 ml of syrup three times daily.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "你不能将阿司匹林与这种药物一起服用。",
+    "back": "You can't take aspirin with this medication.",
+    "score": 83,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "7 天后回来拆线。",
+    "back": "Came back in 7 days to remove the stitches.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "六周内不要举任何重物。",
+    "back": "Don't lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "你的体温是 39 度。",
+    "back": "Your body temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "即使你感觉好转，也要服用 5 天的抗生素。",
+    "back": "Take antibiotics for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "右侧的疼痛可能是阑尾炎。",
+    "back": "Pain in the right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "不要在没有询问医生的情况下停止服用华法林。",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "如果胸部疼痛加重，请按此按钮。",
+    "back": "If chest pain worsens, press this button.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "yue": {
+  "okRate": 0.95,
+  "avgScore": 96.7,
+  "flagged": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "每六小時服用兩片 500 毫克的對乙酰氨基酚片。",
+    "back": "Take two 500mg acetaminophen tablets every six hours.",
+    "score": 79,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "每六小時服用兩片 500 毫克的對乙酰氨基酚片。",
+    "back": "Take two 500mg acetaminophen tablets every six hours.",
+    "score": 79,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "午夜之後不要吃或喝任何東西。",
+    "back": "Don't eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "疼痛在你的左腿。",
+    "back": "Pain in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "每天兩次在進食後服用一片布洛芬片。",
+    "back": "Take 1 ibuprofen tablet twice daily after eating.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "你對青黴素過敏。",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "24 小時內不要服用超過八片。",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "明天我們將對你的右膝進行手術。",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "早餐前服用 10 個單位的胰島素。",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "你的血壓在 90 以上 150。",
+    "back": "Your blood pressure is above 90 to 150.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "麻醉後 24 小時內不要開車。",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "X 光片顯示您的左手腕骨折。",
+    "back": "An X-ray showed a broken left wrist.",
+    "score": 92,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "每天三次服用 5 毫升糖漿。",
+    "back": "Take 5 ml of syrup three times daily.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "你不能將阿司匹林與這種藥物一起服用。",
+    "back": "You can't take aspirin with this medication.",
+    "score": 83,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "7 天后回來拆線。",
+    "back": "Came back in 7 days to remove the stitches.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "六週內不要舉任何重物。",
+    "back": "Don't lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "你的體温是 39 度。",
+    "back": "Your body temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "即使你感覺好轉，也要服用 5 天的抗生素。",
+    "back": "Take antibiotics for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "右側的疼痛可能是闌尾炎。",
+    "back": "Pain in the right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "不要在沒有詢問醫生的情況下停止服用華法林。",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "如果胸部疼痛加重，請按此按鈕。",
+    "back": "If chest pain worsens, press this button.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "it": {
+  "okRate": 0.95,
+  "avgScore": 98.5,
+  "flagged": [
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Non guidare per 24 ore dopo l'anestesia.",
+    "back": "Do not drive for 24 hours after anaesthesia.",
+    "score": 100,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Assumere due compresse di paracetamolo da 500 milligrammi ogni sei ore.",
+    "back": "Take two 500 milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Non mangiare o bere nulla dopo la mezzanotte.",
+    "back": "Don't eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Il dolore è alla gamba sinistra.",
+    "back": "The pain is in the left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Assumere una compressa di ibuprofene due volte al giorno dopo i pasti.",
+    "back": "Take one ibuprofen tablet twice daily after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "È allergico alla penicillina.",
+    "back": "He is allergic to penicillin.",
+    "score": 87,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Non prenda più di otto compresse in 24 ore.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Domani ti opereremo il ginocchio destro.",
+    "back": "Tomorrow we'll have surgery on your right knee.",
+    "score": 84,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Assumere 10 unità di insulina prima di colazione.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "La tua pressione sanguigna è 150 su 90.",
+    "back": "Your blood pressure is 150 out of 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Non guidare per 24 ore dopo l'anestesia.",
+    "back": "Do not drive for 24 hours after anaesthesia.",
+    "score": 100,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "La radiografia mostra una frattura al polso sinistro.",
+    "back": "The X-ray shows a fracture in the left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Prendete 5 ml di sciroppo tre volte al giorno.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Non deve assumere aspirina con questo medicinale.",
+    "back": "You should not take aspirin with this medicine.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Torna tra 7 giorni per far rimuovere i punti di sutura.",
+    "back": "Come back in 7 days to have the stitches removed.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Non sollevare oggetti pesanti per sei settimane.",
+    "back": "Do not lift heavy objects for six weeks.",
+    "score": 99,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "La tua temperatura è di 39 gradi.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Prendi l'antibiotico per 5 giorni, anche se ti senti meglio.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Il dolore sul lato destro può essere un'appendicite.",
+    "back": "The pain on the right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Non interrompa l'assunzione di warfarin senza chiedere al medico.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Premi questo pulsante se il dolore al petto peggiora.",
+    "back": "Press this button if your chest pain worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "tr": {
+  "okRate": 0.9,
+  "avgScore": 99.0,
+  "flagged": [
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Anesteziden sonra 24 saat boyunca araba kullanmayın.",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Daha iyi hissetseniz bile antibiyotiği 5 gün boyunca alın.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Her altı saatte bir iki 500 miligram parasetamol tableti alın.",
+    "back": "Take two 500-milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Gece yarısından sonra hiçbir şey yemeyin veya içmeyin.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Ağrı sol bacağında.",
+    "back": "Pain in the left leg.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Yemekten sonra günde iki kez bir ibuprofen tableti alın.",
+    "back": "Take one ibuprofen tablet twice a day after a meal.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Penisiline alerjiniz var.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "24 saat içinde sekizden fazla tablet almayın.",
+    "back": "Do not take more than eight tablets within 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Yarın sağ dizinizi ameliyat edeceğiz.",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Kahvaltıdan önce 10 ünite insülin alın.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Kan basıncınız 90'ın üzerinde 150'dir.",
+    "back": "Your blood pressure is above 90 to 150.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Anesteziden sonra 24 saat boyunca araba kullanmayın.",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "Röntgen sol bileğinizde bir kırık gösteriyor.",
+    "back": "The x-ray shows a fracture in your left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Günde üç kez 5 ml şurup alın.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Bu ilaçla aspirin almamalısınız.",
+    "back": "You should not take aspirin with this drug.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Dikişleri çıkarmak için 7 gün içinde geri gelin.",
+    "back": "Come back in 7 days to remove the stitches.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Altı hafta boyunca ağır bir şey kaldırmayın.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Sıcaklığınız 39 derece.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Daha iyi hissetseniz bile antibiyotiği 5 gün boyunca alın.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Sağ tarafınızdaki ağrı apandisit olabilir.",
+    "back": "Pain in your right side can be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Doktorunuza sormadan warfarin almayı bırakmayın.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Göğsünüzdeki ağrı kötüleşirse bu düğmeye basın.",
+    "back": "Press this button if the pain in your chest worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "vi": {
+  "okRate": 1.0,
+  "avgScore": 99.3,
+  "flagged": [],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Uống hai viên paracetamol 500 miligam cứ sau sáu giờ.",
+    "back": "Take two 500-milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Không ăn hoặc uống bất cứ thứ gì sau nửa đêm.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Cơn đau ở chân trái của bạn.",
+    "back": "The pain in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Uống một viên ibuprofen hai lần một ngày sau khi ăn.",
+    "back": "Take one tablet of ibuprofen twice a day after eating.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Bạn bị dị ứng với penicillin.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Không dùng quá tám viên trong 24 giờ.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Chúng tôi sẽ phẫu thuật đầu gối phải của bạn vào ngày mai.",
+    "back": "We will operate on your right knee tomorrow.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Uống 10 đơn vị insulin trước khi ăn sáng.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Huyết áp của bạn là 150 trên 90.",
+    "back": "Your blood pressure is 150 out of 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Không lái xe trong 24 giờ sau khi gây mê.",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "X-quang cho thấy gãy xương ở cổ tay trái của bạn.",
+    "back": "X-rays show a fracture in your left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Uống 5 ml xi-rô ba lần một ngày.",
+    "back": "Drink 5 ml of syrup three times a day.",
+    "score": 97,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Bạn không nên dùng aspirin với thuốc này.",
+    "back": "You should not take aspirin with this medicine.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Trở lại sau 7 ngày để lấy các mũi khâu ra.",
+    "back": "Return after 7 days to remove the stitches.",
+    "score": 93,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Đừng nâng bất cứ thứ gì nặng trong sáu tuần.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Nhiệt độ của bạn là 39 độ.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Dùng kháng sinh trong 5 ngày, ngay cả khi bạn cảm thấy tốt hơn.",
+    "back": "Take antibiotics for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Cơn đau ở bên phải của bạn có thể là viêm ruột thừa.",
+    "back": "The pain on your right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Đừng ngừng dùng warfarin mà không hỏi bác sĩ của bạn.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Nhấn nút này nếu cơn đau ở ngực của bạn trở nên tồi tệ hơn.",
+    "back": "Press this button if the pain in your chest gets worse.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "tl": {
+  "okRate": 0.9,
+  "avgScore": 99.3,
+  "flagged": [
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Huwag magmaneho sa loob ng 24 na oras pagkatapos ng anestetiko.",
+    "back": "Do not drive within 24 hours after the anesthetic.",
+    "score": 99,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Kunin ang antibiotiko sa loob ng 5 araw, kahit na mas mahusay ang pakiramdam mo.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Kumuha ng dalawang 500 milligram paracetamol tablet tuwing anim na oras.",
+    "back": "Take two 500 milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Huwag kumain o uminom ng anumang bagay pagkatapos ng hatinggabi.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Ang sakit ay nasa iyong kaliwang binti.",
+    "back": "The pain is in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Kumuha ng isang ibuprofen tablet dalawang beses sa isang araw pagkatapos ng pagkain.",
+    "back": "Take an ibuprofen tablet twice a day after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Ikaw ay alerdyi sa penicillin.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Huwag kumuha ng higit sa walong tablet sa loob ng 24 na oras.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Magpapatakbo kami sa iyong kanang tuhod bukas.",
+    "back": "We will run on your right knee tomorrow.",
+    "score": 94,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Kumuha ng 10 yunit ng insulin bago agahan.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Ang iyong presyon ng dugo ay 150 higit sa 90.",
+    "back": "Your blood pressure is 150 over 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Huwag magmaneho sa loob ng 24 na oras pagkatapos ng anestetiko.",
+    "back": "Do not drive within 24 hours after the anesthetic.",
+    "score": 99,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "Ang X-ray ay nagpapakita ng isang bali sa iyong kaliwang pulso.",
+    "back": "The X-ray shows a fracture in your left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Kumuha ng 5 ML ng syrup tatlong beses sa isang araw.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Hindi ka dapat kumuha ng aspirin sa gamot na ito.",
+    "back": "You should not take aspirin with this drug.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Bumalik sa loob ng 7 araw upang alisin ang mga tahi.",
+    "back": "Return within 7 days to remove the stitches.",
+    "score": 94,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Huwag itaas ang anumang mabigat sa loob ng anim na linggo.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Ang iyong temperatura ay 39 degree.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Kunin ang antibiotiko sa loob ng 5 araw, kahit na mas mahusay ang pakiramdam mo.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Ang sakit sa iyong kanang bahagi ay maaaring apendisitis.",
+    "back": "Pain in your right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Huwag tumigil sa pag-inom ng warfarin nang hindi tinatanong sa iyong doktor.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Pindutin ang pindutan na ito kung lumalala ang sakit sa iyong dibdib.",
+    "back": "Press this button if the pain in your chest worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "bn": {
+  "okRate": 0.9,
+  "avgScore": 99.1,
+  "flagged": [
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "খাবারের পরে দিনে দুবার একটি আইবুপ্রোফেন ট্যাবলেট নিন।",
+    "back": "Take an ibuprofen tablet twice a day after meals.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "অ্যানেস্থেটিকের পরে 24 ঘন্টা গাড়ি চালাবেন না।",
+    "back": "Do not drive for 24 hours after the anesthetic.",
+    "score": 100,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "প্রতি ছয় ঘন্টায় দুটি 500 মিলিগ্রাম প্যারাসিটামল ট্যাবলেট",
+    "back": "Two 500 mg paracetamol tablets every six hours",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "মধ্যরাতের পরে কিছু খাবেন না বা পান করবেন না।",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "ব্যথা আপনার বাম পায়ে।",
+    "back": "Pain in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "খাবারের পরে দিনে দুবার একটি আইবুপ্রোফেন ট্যাবলেট নিন।",
+    "back": "Take an ibuprofen tablet twice a day after meals.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "আপনার পেনিসিলিনের অ্যালার্জি আছে।",
+    "back": "You have an allergy to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "24 ঘন্টার মধ্যে আটটিরও বেশি ট্যাবলেট গ্রহণ করবেন না।",
+    "back": "Do not take more than eight tablets within 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "আমরা আগামীকাল আপনার ডান হাঁটুতে অপারেশন করব।",
+    "back": "We will have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "প্রাতঃরাশের আগে 10 ইউনিট ইনসুলিন নিন।",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "আপনার রক্তচাপ ১৫০-এর বেশি ৯০ এর বেশি।",
+    "back": "Your blood pressure is above 150 and above 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "অ্যানেস্থেটিকের পরে 24 ঘন্টা গাড়ি চালাবেন না।",
+    "back": "Do not drive for 24 hours after the anesthetic.",
+    "score": 100,
+    "failed": [],
+    "warned": [
+     "Clinical terms"
+    ],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "এক্স-রে আপনার বাম কব্জিতে একটি ফ্র্যাকচার দেখায়।",
+    "back": "X-rays show a fracture in your left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "দিনে তিনবার 5 মিলি সিরাপ নিন।",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "এই ওষুধের সাথে আপনার অবশ্যই অ্যাসপিরিন নেওয়া উচিত নয়।",
+    "back": "You must not take aspirin with this medicine.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "সেলাই সরানোর জন্য 7 দিনের মধ্যে ফিরে আসুন।",
+    "back": "Return within 7 days to remove stitches.",
+    "score": 93,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "ছয় সপ্তাহ ধরে ভারী কিছু তুলবেন না।",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "আপনার তাপমাত্রা 39 ডিগ্রি।",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "আপনি আরও ভাল বোধ করলেও 5 দিনের জন্য অ্যান্টিবায়োটিক নিন।",
+    "back": "Take antibiotics for 5 days even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "আপনার ডান পাশের ব্যথা অ্যাপেনডিসাইটিস হতে পারে।",
+    "back": "Pain in your right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "আপনার ডাক্তারকে জিজ্ঞাসা না করেই ওয়ারফারিন গ্রহণ বন্ধ করবেন না।",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "আপনার বুকের ব্যথা আরও খারাপ হলে এই বোতামটি টিপুন।",
+    "back": "Press this button if your chest pain gets worse.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "sw": {
+  "okRate": 0.8,
+  "avgScore": 95.9,
+  "flagged": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Chukua vidonge viwili vya parasetamoli miligramu 500 kila masaa sita.",
+    "back": "Take two tablets of paracetamol 500 milligrams every six hours.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Usiendesha gari kwa masaa 24 baada ya uchunguzi.",
+    "back": "Do not drive for 24 hours after the examination.",
+    "score": 71,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Rudi baada ya siku 7 ili kuondolewa msho.",
+    "back": "Return after 7 days to get rid of thrush.",
+    "score": 68,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Chukua antibiotiki kwa siku 5, hata ikiwa unajisikia vizuri.",
+    "back": "Take antibiotics for 5 days, even if you feel well.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Chukua vidonge viwili vya parasetamoli miligramu 500 kila masaa sita.",
+    "back": "Take two tablets of paracetamol 500 milligrams every six hours.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Usiule au kunywa chochote baada ya usiku usiku.",
+    "back": "Do not eat or drink anything after a night's sleep.",
+    "score": 85,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Maumivu ni katika mguu wako wa kushoto.",
+    "back": "The pain is in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Chukua kibao kimoja cha ibuprofen mara mbili kwa siku baada ya chakula.",
+    "back": "Take one tablet of ibuprofen twice a day after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Una mzio wa penicillin.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Usichukue vidonge zaidi ya nane katika masaa 24.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Tutafanya kazi kwenye goti lako la kulia kesho.",
+    "back": "We'll work on your right knee tomorrow.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Chukua vitengo 10 vya insulini kabla ya kifungua kinywa.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Shinikizo lako la damu ni 150 zaidi ya 90.",
+    "back": "Your blood pressure is 150 over 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Usiendesha gari kwa masaa 24 baada ya uchunguzi.",
+    "back": "Do not drive for 24 hours after the examination.",
+    "score": 71,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "X-ray inaonyesha kuvunjika kwenye mkono wako wa kushoto.",
+    "back": "An X-ray shows a fracture in your left arm.",
+    "score": 94,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Chukua 5 ml ya siropi mara tatu kwa siku.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Haupaswi kuchukua aspirini na dawa hii.",
+    "back": "You should not take aspirin with this medicine.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Rudi baada ya siku 7 ili kuondolewa msho.",
+    "back": "Return after 7 days to get rid of thrush.",
+    "score": 68,
+    "failed": [],
+    "warned": [],
+    "status": "warn"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Usiinua chochote nzito kwa wiki sita.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Joto lako ni digrii 39.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Chukua antibiotiki kwa siku 5, hata ikiwa unajisikia vizuri.",
+    "back": "Take antibiotics for 5 days, even if you feel well.",
+    "score": 100,
+    "failed": [
+     "Clinical terms"
+    ],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Maumivu upande wako wa kulia inaweza kuwa appendicitis.",
+    "back": "Pain in your right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Usiacha kuchukua warfarin bila kuuliza daktari wako.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Bonyeza kitufe hiki ikiwa maumivu kwenye kifua chako yanakuwa mbaya zaidi.",
+    "back": "Press this button if the pain in your chest gets worse.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "id": {
+  "okRate": 1.0,
+  "avgScore": 99.2,
+  "flagged": [],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Ambil dua tablet parasetamol 500 miligram setiap enam jam.",
+    "back": "Take two 500-milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Jangan makan atau minum apa pun setelah tengah malam.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Rasa sakitnya ada di kaki kiri Anda.",
+    "back": "The pain is in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Ambil satu tablet ibuprofen dua kali sehari setelah makan.",
+    "back": "Take one tablet of ibuprofen twice a day after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Anda alergi terhadap penisilin.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Jangan minum lebih dari delapan tablet dalam 24 jam.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Kami akan mengoperasi lutut kananmu besok.",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Minumlah 10 unit insulin sebelum sarapan.",
+    "back": "Drink 10 units of insulin before breakfast.",
+    "score": 98,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Tekanan darah Anda adalah 150 di atas 90.",
+    "back": "Your blood pressure is 150 above 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Jangan mengemudi selama 24 jam setelah anestesi.",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "X-ray menunjukkan patah tulang di pergelangan tangan kiri Anda.",
+    "back": "An X-ray shows a fracture in your left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Ambil 5 mL sirup tiga kali sehari.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Anda tidak boleh mengonsumsi aspirin dengan obat ini.",
+    "back": "You should not take aspirin with this drug.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Kembalilah dalam 7 hari untuk menghapus jahitannya.",
+    "back": "Come back in 7 days to remove the stitches.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Jangan mengangkat sesuatu yang berat selama enam minggu.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Suhu Anda 39 derajat.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Minumlah antibiotik selama 5 hari, bahkan jika Anda merasa lebih baik.",
+    "back": "Take antibiotics for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Rasa sakit di sisi kanan Anda mungkin radang usus buntu.",
+    "back": "The pain in your right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Jangan berhenti minum warfarin tanpa bertanya kepada dokter Anda.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Tekan tombol ini jika rasa sakit di dada Anda memburuk.",
+    "back": "Press this button if the pain in your chest worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "ja": {
+  "okRate": 0.95,
+  "avgScore": 97.2,
+  "flagged": [
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "明日、右膝の手術をします。",
+    "back": "I'm having surgery on my right knee tomorrow.",
+    "score": 57,
+    "failed": [],
+    "warned": [],
+    "status": "fail"
+   }
+  ],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "6時間ごとに500ミリグラムのパラセタモール錠を2錠服用してください。",
+    "back": "Take 2 500 milligram paracetamol tablets every 6 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "真夜中以降は何も食べたり飲んだりしないでください。",
+    "back": "Don't eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "痛みは左足にあります。",
+    "back": "The pain is in the left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "イブプロフェン1錠を1日2回、食後に服用してください。",
+    "back": "Take 1 ibuprofen tablet 2 times daily, after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "あなたはペニシリンにアレルギーがあります。",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "24時間に8錠以上服用しないでください。",
+    "back": "Do not take more than 8 tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "明日、右膝の手術をします。",
+    "back": "I'm having surgery on my right knee tomorrow.",
+    "score": 57,
+    "failed": [],
+    "warned": [],
+    "status": "fail"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "朝食前にインスリンを10単位服用してください。",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "あなたの血圧は90以上で150です。",
+    "back": "Your blood pressure is over 90 and 150.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "麻酔後24時間は運転しないでください。",
+    "back": "Do not drive for 24 hours after anesthesia.",
+    "score": 96,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "レントゲン写真では左手首の骨折が見えます。",
+    "back": "A left wrist fracture is visible on the X-ray.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "5mlのシロップを1日3回服用してください。",
+    "back": "Take 5 ml of syrup 3 times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "この薬と一緒にアスピリンを服用してはいけません。",
+    "back": "You should not take aspirin along with this medication.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "7日後に戻ってきて抜糸してもらってください。",
+    "back": "Please come back in 7 days and have the stitches removed.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "6週間は重いものを持ち上げないでください。",
+    "back": "Do not lift heavy objects for 6 weeks.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "あなたの体温は39度です。",
+    "back": "Your body temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "気分が良くなっても、抗生物質を5日間服用してください。",
+    "back": "Take antibiotics for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "右側の痛みは虫垂炎かもしれません。",
+    "back": "Pain in the right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "医師に相談せずにワルファリンの服用を中止しないでください。",
+    "back": "Do not stop taking warfarin without consulting your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "胸の痛みがひどくなったら、このボタンを押してください。",
+    "back": "If your chest pain gets worse, press this button.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "cs": {
+  "okRate": 1.0,
+  "avgScore": 99.2,
+  "flagged": [],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Užívejte dvě 500 miligramové tablety paracetamolu každých šest hodin.",
+    "back": "Take two 500-milligram paracetamol tablets every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Nejezte ani nepijte nic po půlnoci.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Bolest je v levé noze.",
+    "back": "The pain is in the left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Vezměte jednu tabletu ibuprofenu dvakrát denně po jídle.",
+    "back": "Take one ibuprofen tablet twice a day after meals.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Jste alergičtí na penicilin.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Neužívejte více než osm tablet za 24 hodin.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Zítra vám operujeme pravé koleno.",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Vezměte 10 jednotek inzulínu před snídaní.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Váš krevní tlak je 150 nad 90.",
+    "back": "Your blood pressure is 150 above 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Nejezděte 24 hodin po anestezii.",
+    "back": "Do not drive 24 hours after anesthesia.",
+    "score": 95,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "Rentgen ukazuje zlomeninu levého zápěstí.",
+    "back": "An X-ray shows a fracture of the left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Vezměte 5 ml sirupu třikrát denně.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Aspirin nesmíte užívat s tímto lékem.",
+    "back": "Aspirin must not be taken with this medicine.",
+    "score": 99,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Vraťte se za 7 dní a nechte stehy odstranit.",
+    "back": "Come back in 7 days and have the stitches removed.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Nezvedejte nic těžkého po dobu šesti týdnů.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Vaše teplota je 39 stupňů.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Vezměte antibiotikum po dobu 5 dnů, i když se cítíte lépe.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Bolest na pravé straně může být apendicitida.",
+    "back": "Pain in the right side can be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Nepřestávejte užívat warfarin, aniž byste se zeptali svého lékaře.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Stiskněte toto tlačítko, pokud se bolest v hrudi zhorší.",
+    "back": "Press this button if the pain in the chest worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ },
+ "el": {
+  "okRate": 1.0,
+  "avgScore": 99.3,
+  "flagged": [],
+  "rows": [
+   {
+    "en": "Take two 500 milligram paracetamol tablets every six hours.",
+    "tr": "Πάρτε δύο δισκία παρακεταμόλης 500 χιλιοστόγραμμα κάθε έξι ώρες.",
+    "back": "Take two tablets of paracetamol 500 milligrams every six hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not eat or drink anything after midnight.",
+    "tr": "Μην τρώτε ή πίνετε τίποτα μετά τα μεσάνυχτα.",
+    "back": "Do not eat or drink anything after midnight.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain is in your left leg.",
+    "tr": "Ο πόνος είναι στο αριστερό σας πόδι.",
+    "back": "The pain is in your left leg.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take one ibuprofen tablet twice a day after food.",
+    "tr": "Πάρτε ένα δισκίο ιβουπροφαίνης δύο φορές την ημέρα μετά το φαγητό.",
+    "back": "Take one tablet of ibuprofen twice a day after eating.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You are allergic to penicillin.",
+    "tr": "Είστε αλλεργικοί στην πενικιλίνη.",
+    "back": "You are allergic to penicillin.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not take more than eight tablets in 24 hours.",
+    "tr": "Μην πάρετε περισσότερα από οκτώ δισκία σε 24 ώρες.",
+    "back": "Do not take more than eight tablets in 24 hours.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "We will operate on your right knee tomorrow.",
+    "tr": "Θα χειρουργήσουμε το δεξί σου γόνατο αύριο.",
+    "back": "We'll have surgery on your right knee tomorrow.",
+    "score": 89,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 10 units of insulin before breakfast.",
+    "tr": "Πάρτε 10 μονάδες ινσουλίνης πριν από το πρωινό.",
+    "back": "Take 10 units of insulin before breakfast.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your blood pressure is 150 over 90.",
+    "tr": "Η αρτηριακή σας πίεση είναι 150 πάνω από 90.",
+    "back": "Your blood pressure is 150 over 90.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not drive for 24 hours after the anaesthetic.",
+    "tr": "Μην οδηγείτε για 24 ώρες μετά το αναισθητικό.",
+    "back": "Do not drive for 24 hours after the anesthetic.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The X-ray shows a fracture in your left wrist.",
+    "tr": "Η ακτινογραφία δείχνει ένα κάταγμα στον αριστερό καρπό σας.",
+    "back": "The x-ray shows a fracture in your left wrist.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take 5 ml of the syrup three times a day.",
+    "tr": "Πάρτε 5 ml σιροπιού τρεις φορές την ημέρα.",
+    "back": "Take 5 ml of syrup three times a day.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "You must not take aspirin with this medicine.",
+    "tr": "Δεν πρέπει να παίρνετε ασπιρίνη με αυτό το φάρμακο.",
+    "back": "You should not take aspirin with this medicine.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Come back in 7 days to have the stitches removed.",
+    "tr": "Επιστρέψτε σε 7 ημέρες για να αφαιρέσετε τα ράμματα.",
+    "back": "Return in 7 days to remove the stitches.",
+    "score": 97,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not lift anything heavy for six weeks.",
+    "tr": "Μην σηκώνετε τίποτα βαρύ για έξι εβδομάδες.",
+    "back": "Do not lift anything heavy for six weeks.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Your temperature is 39 degrees.",
+    "tr": "Η θερμοκρασία σας είναι 39 μοίρες.",
+    "back": "Your temperature is 39 degrees.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Take the antibiotic for 5 days, even if you feel better.",
+    "tr": "Πάρτε το αντιβιοτικό για 5 ημέρες, ακόμα κι αν αισθάνεστε καλύτερα.",
+    "back": "Take the antibiotic for 5 days, even if you feel better.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "The pain on your right side may be appendicitis.",
+    "tr": "Ο πόνος στη δεξιά πλευρά σας μπορεί να είναι σκωληκοειδίτιδα.",
+    "back": "Pain in your right side may be appendicitis.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Do not stop taking warfarin without asking your doctor.",
+    "tr": "Μην σταματήσετε να παίρνετε βαρφαρίνη χωρίς να ρωτήσετε το γιατρό σας.",
+    "back": "Do not stop taking warfarin without asking your doctor.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   },
+   {
+    "en": "Press this button if the pain in your chest gets worse.",
+    "tr": "Πατήστε αυτό το κουμπί εάν ο πόνος στο στήθος σας επιδεινωθεί.",
+    "back": "Press this button if your chest pain worsens.",
+    "score": 100,
+    "failed": [],
+    "warned": [],
+    "status": "ok"
+   }
+  ]
+ }
+}

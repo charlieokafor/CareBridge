@@ -1,0 +1,4388 @@
+{
+ "uk|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Приймати метформін двічі на день під час їжі.",
+   "back": "Take metformin twice a day with meals.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "У вас алергія на амоксицилін.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Не приймайте ібупрофен разом з варфарином.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Використовуйте інгалятор сальбутамолу, коли у вас задишка.",
+   "back": "Use a salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Приймайте омепразол щоранку перед сніданком.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Ми дамо вам морфін від болю.",
+   "back": "We will give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Припиніть прийом клопідогрелю за п'ять днів до операції.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Приймайте по дві таблетки парацетамолу кожні шість годин.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Вводять еноксапарин один раз на добу протягом десяти днів.",
+   "back": "Enoxaparin is administered once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Ви приймаєте апіксабан або ривароксабан?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Флуклоксацилін потрібно чотири рази на день протягом семи днів.",
+   "back": "Flucloxacillin is required four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Не вживайте алкоголь під час прийому метронідазолу.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Приймати преднізолон по 40 мг щоранку.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ондансетрон зупинить блювоту.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Тримайте свій EpiPen завжди при собі.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Кодеїн може викликати запор.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Приймайте 75 мг аспірину один раз на добу.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Розкажіть, чи приймаєте ви інсулін.",
+   "back": "Tell me if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "У вас коли-небудь була реакція на пеніцилін?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Приймати фуросемід вранці, а не вночі.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "uk|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Приймати метформін двічі на день під час їжі.",
+   "back": "Take metformin twice a day with meals.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "У вас алергія на амоксицилін.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Не приймайте ібупрофен разом з варфарином.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Використовуйте інгалятор сальбутамолу, коли у вас задишка.",
+   "back": "Use a salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Приймайте омепразол щоранку перед сніданком.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Ми дамо вам морфін від болю.",
+   "back": "We will give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Припиніть прийом клопідогрелю за п'ять днів до операції.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Приймайте по дві таблетки парацетамолу кожні шість годин.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Вводять еноксапарин один раз на добу протягом десяти днів.",
+   "back": "Enoxaparin is administered once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Ви приймаєте апіксабан або ривароксабан?",
+   "back": "Do you take apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Вам потрібен флуклоксацилін чотири рази на день протягом семи днів.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Не вживайте алкоголь під час прийому метронідазолу.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Приймайте предзолонін по 40 мг щоранку.",
+   "back": "Take predzolonin 40 mg every morning.",
+   "med": false,
+   "status": "fail",
+   "failed": [
+    "Medicines"
+   ],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ондансетрон зупинить блювоту.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Тримайте свій EpiPen завжди при собі.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Кодеїн може викликати запор.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Приймайте 75 мг аспірину один раз на добу.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Розкажіть, чи приймаєте ви інсулін.",
+   "back": "Tell me if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "У вас коли-небудь була реакція на пеніцилін?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Приймайте фуросемід вранці, а не вночі.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ru|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Принимайте метформин два раза в день во время еды.",
+   "back": "Take metformin twice daily with meals.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "У вас аллергия на амоксициллин.",
+   "back": "You're allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Не принимайте ибупрофен вместе с варфарином.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Используйте ингалятор сальбутамола при одышке.",
+   "back": "Use a salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Принимайте омепразол каждое утро перед завтраком.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Мы дадим вам морфин от боли.",
+   "back": "We'll give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Прекратите прием клопидогреля за пять дней до операции.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Принимайте две таблетки парацетамола каждые шесть часов.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Вводите эноксапарин один раз в день в течение десяти дней.",
+   "back": "Administer enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Вы принимаете апиксабан или ривароксабан?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Вам нужен флуклоксациллин четыре раза в день в течение семи дней.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Не употребляйте алкоголь во время приема метронидазола.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Принимайте преднизолон 40 мг каждое утро.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ондансетрон остановит рвоту.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Всегда держите EpiPen при себе.",
+   "back": "Keep EpiPen with you at all times.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Кодеин может вызвать запор.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Принимайте 75 мг аспирина один раз в день.",
+   "back": "Take 75 mg of aspirin once daily.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Сообщите нам, принимаете ли вы инсулин.",
+   "back": "Let us know if you're taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "У вас когда-нибудь была реакция на пенициллин?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Принимайте фуросемид утром, а не ночью.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ru|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Принимайте метформин два раза в день во время еды.",
+   "back": "Take metformin twice daily with meals.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "У вас аллергия на амоксициллин.",
+   "back": "You're allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Не принимайте ибупрофен вместе с варфарином.",
+   "back": "Do not take ibuprofen along with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Используйте ингалятор с сальбутамолом при одышке.",
+   "back": "Use a salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Принимайте омепразол каждое утро перед завтраком.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Мы дадим вам морфин от боли.",
+   "back": "We'll give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Прекратите принимать клопидогрель за пять дней до операции.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Принимайте две таблетки парацетамола каждые шесть часов.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Вводите эноксапарин один раз в день в течение десяти дней.",
+   "back": "Administer enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Вы принимаете апиксабан или ривароксабан?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Вам нужен флуклоксациллин четыре раза в день в течение семи дней.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Не употребляйте алкоголь во время приема метронидазола.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Принимайте преднизолон 40 мг каждое утро.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ондансетрон остановит рвоту.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Всегда держите EpiPen при себе.",
+   "back": "Keep EpiPen with you at all times.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Кодеин может вызвать запор.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Принимайте 75 мг аспирина один раз в день.",
+   "back": "Take 75 mg of aspirin once daily.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Сообщите нам, принимаете ли вы инсулин.",
+   "back": "Let us know if you're taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "У вас когда-нибудь была реакция на пенициллин?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Принимайте фуросемид утром, а не ночью.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "pl|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Weź metforminę dwa razy dziennie z jedzeniem.",
+   "back": "Take metformin twice a day with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Jesteś uczulony na amoksycylinę.",
+   "back": "You're allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Nie należy przyjmować ibuprofenu z warfaryną.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Używaj inhalatora salbutamolu, gdy masz brak oddechu.",
+   "back": "Use a salbutamol inhaler when you have shortness of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Weź omeprazol codziennie rano przed śniadaniem.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Damy ci morfinę na ból.",
+   "back": "We'll give you morphine for your pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Przestań przyjmować klopidogrel na pięć dni przed operacją.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Weź dwie tabletki paracetamolu co sześć godzin.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Wstrzykiwać enoksaparynę raz dziennie przez dziesięć dni.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Czy bierzesz apiksaban lub rywaroksaban?",
+   "back": "Do you take apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Potrzebujesz flukloksacyliny cztery razy dziennie przez siedem dni.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Nie pij alkoholu podczas przyjmowania metronidazolu.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Przyjmuj prednizolon 40 mg każdego ranka.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron zatrzyma wymioty.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Trzymaj swój EpiPen przy sobie przez cały czas.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Kodeina może powodować zaparcia.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Weź 75 mg aspiryny raz dziennie.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Poinformuj nas, jeśli przyjmujesz insulinę.",
+   "back": "Let us know if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Czy kiedykolwiek miałeś reakcję na penicylinę?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Weź furosemid rano, a nie w nocy.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "pl|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Weź metforminę dwa razy dziennie z jedzeniem.",
+   "back": "Take metformin twice a day with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Jesteś uczulony na amoksycylina.",
+   "back": "You're allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Nie należy przyjmować ibuprofen z warfaryna.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Używaj inhalatora salbutamol, gdy masz brak oddechu.",
+   "back": "Use a salbutamol inhaler when you have shortness of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Weź omeprazol codziennie rano przed śniadaniem.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Damy ci morfinę na ból.",
+   "back": "We'll give you morphine for your pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Przestań przyjmować klopidogrel na pięć dni przed operacją.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Weź dwie tabletki paracetamol co sześć godzin.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Wstrzykiwać enoksaparynę raz dziennie przez dziesięć dni.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Czy bierzesz apiksaban lub rywaroksaban?",
+   "back": "Do you take apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Potrzebujesz flukloksacylina cztery razy dziennie przez siedem dni.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Nie pij alkoholu podczas przyjmowania metronidazol.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Przyjmuj prednizolon 40 mg każdego ranka.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron zatrzyma wymioty.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Trzymaj swój EpiPen przy sobie przez cały czas.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Kodeina może powodować zaparcia.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Weź 75 mg aspiryna raz dziennie.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Poinformuj nas, jeśli przyjmujesz insulina.",
+   "back": "Let us know if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Czy kiedykolwiek miałeś reakcję na penicylina?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Weź furosemid rano, a nie w nocy.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ro|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Luați metformină de două ori pe zi cu alimente.",
+   "back": "Take metformin twice a day with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Sunteți alergic la amoxicilină.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Nu luați ibuprofen cu warfarină.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Utilizați inhalatorul de salbutamol atunci când aveți dificultăți de respirație.",
+   "back": "Use the salbutamol inhaler when you have difficulty breathing.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Luați omeprazol în fiecare dimineață înainte de micul dejun.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Îți vom da morfină pentru durere.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Nu mai luați clopidogrel cu cinci zile înainte de operație.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Luați două comprimate de paracetamol la fiecare șase ore.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Injectați enoxaparină o dată pe zi timp de zece zile.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Luați apixaban sau rivaroxaban?",
+   "back": "Do you take apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Aveți nevoie de flucloxacilină de patru ori pe zi timp de șapte zile.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Nu beți alcool în timp ce luați metronidazol.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Luați prednisolon 40 mg în fiecare dimineață.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron va opri vărsăturile.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Păstrați-vă EpiPen-ul cu dvs. în orice moment.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Codeina te poate face constipat.",
+   "back": "Codeine can make you constipated.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Luați 75 mg de aspirină o dată pe zi.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Spuneți-ne dacă luați insulină.",
+   "back": "Let us know if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Ați avut vreodată o reacție la penicilină?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Luați furosemid dimineața, nu noaptea.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ro|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Luați metformină de două ori pe zi cu alimente.",
+   "back": "Take metformin twice a day with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Sunteți alergic la amoxicilină.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Nu luați ibuprofen cu warfarină.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Utilizați inhalatorul de salbutamol atunci când aveți dificultăți de respirație.",
+   "back": "Use the salbutamol inhaler when you have difficulty breathing.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Luați omeprazol în fiecare dimineață înainte de micul dejun.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Îți vom da morfină pentru durere.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Nu mai luați clopidogrel cu cinci zile înainte de operație.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Luați două comprimate de paracetamol la fiecare șase ore.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Injectați enoxaparin o dată pe zi timp de zece zile.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Luați apixaban sau rivaroxaban?",
+   "back": "Do you take apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Aveți nevoie de flucloxacilină de patru ori pe zi timp de șapte zile.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Nu beți alcool în timp ce luați metronidazol.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Luați prednisolon 40 mg în fiecare dimineață.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron va opri vărsăturile.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Păstrați-vă EpiPen-ul cu dvs. în orice moment.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Codeina te poate face constipat.",
+   "back": "Codeine can make you constipated.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Luați 75 mg de aspirină o dată pe zi.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Spuneți-ne dacă luați insulină.",
+   "back": "Let us know if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Ați avut vreodată o reacție la penicilină?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Luați furosemid dimineața, nu noaptea.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ar|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "تناول الميتفورمين مرتين يوميًا مع الطعام.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "لديك حساسية للأموكسيسيلين.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "لا تتناول الإيبوبروفين مع الوارفارين.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "استخدم جهاز استنشاق السالبوتامول عندما تعاني من ضيق في التنفس.",
+   "back": "Use a salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "خذ أوميبرازول كل صباح قبل الإفطار.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "سنقدم لك المورفين للألم.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "توقف عن تناول عقار كلوبيدوجريل قبل خمسة أيام من العملية.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "تناول قرصين من الباراسيتامول كل ست ساعات.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "احقن إينوكسابارين مرة واحدة يوميًا لمدة عشرة أيام.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "هل تتناول أبيكسابان أو ريفاروكسابان؟",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "تحتاج إلى فلوكلوكساسيلين أربع مرات في اليوم لمدة سبعة أيام.",
+   "back": "You need to take flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "لا تشرب الكحول أثناء تناول ميترونيدازول.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "خذ بريدنيزولون 40 ملغ كل صباح.",
+   "back": "Take prednisolone 40 mg each morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "سوف يوقف أوندانسيترون القيء.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "احتفظ بـ EpiPen معك في جميع الأوقات.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "يمكن أن يسبب الكودين الإمساك.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "تناول 75 ملغ من الأسبرين مرة واحدة يوميًا.",
+   "back": "Take 75 mg aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "أخبرنا إذا كنت تتناول الأنسولين.",
+   "back": "Tell us if you're taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "هل سبق لك أن تعرضت لرد فعل تجاه البنسلين؟",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "خذ فوروسيميد في الصباح وليس في الليل.",
+   "back": "Take furosemide in the morning rather than at night.",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Negation"
+   ],
+   "score": 97
+  }
+ ],
+ "ar|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "تناول الميتفورمين مرتين يوميًا مع الطعام.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "لديك حساسية للأموكسيسيلين.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "لا تأخذ ايبوبروفين مع الوارفارين.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "استخدم جهاز استنشاق السالبوتامول عندما تعاني من ضيق في التنفس.",
+   "back": "Use a salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "خذ أوميبرازول كل صباح قبل الإفطار.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "سنقدم لك المورفين للألم.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "توقف عن تناول عقار كلوبيدوجريل قبل خمسة أيام من العملية.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "تناول قرصين من الباراسيتامول كل ست ساعات.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "احقن إينوكسابارين مرة واحدة يوميًا لمدة عشرة أيام.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "هل تتناول أبيكسابان أو ريفاروكسابان؟",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "تحتاج إلى فلوكلوكساسيلين أربع مرات في اليوم لمدة سبعة أيام.",
+   "back": "You need to take flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "لا تشرب الكحول أثناء تناول ميترونيدازول.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "خذ بريدنيزولون 40 ملغ كل صباح.",
+   "back": "Take prednisolone 40 mg each morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "سوف يوقف أوندانسيترون القيء.",
+   "back": "ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "احتفظ بـ EpiPen معك في جميع الأوقات.",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "يمكن أن يسبب الكودين الإمساك.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "تناول 75 ملغ من الأسبرين مرة واحدة يوميًا.",
+   "back": "Take 75 mg aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "أخبرنا إذا كنت تتناول الأنسولين.",
+   "back": "Tell us if you're taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "هل سبق لك أن تعرضت لرد فعل تجاه البنسلين؟",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "خذ فوروسيميد في الصباح وليس في الليل.",
+   "back": "Take furosemide in the morning rather than at night.",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Negation"
+   ],
+   "score": 97
+  }
+ ],
+ "fr|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Prenez de la metformine deux fois par jour avec de la nourriture.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Vous êtes allergique à l'amoxicilline.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Ne prenez pas d'ibuprofène avec de la warfarine.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Utilisez l'inhalateur de salbutamol lorsque vous êtes essoufflé.",
+   "back": "Use the salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Prenez de l'oméprazole tous les matins avant le petit déjeuner.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Nous vous donnerons de la morphine pour soulager la douleur.",
+   "back": "We'll give you morphine to ease the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 95
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Arrêtez de prendre le clopidogrel cinq jours avant l'opération.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Prenez deux comprimés de paracétamol toutes les six heures.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Injectez de l'énoxaparine une fois par jour pendant dix jours.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Prenez-vous de l'apixaban ou du rivaroxaban ?",
+   "back": "Are you taking Apixaban or Rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Vous avez besoin de flucloxacilline quatre fois par jour pendant sept jours.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Ne buvez pas d'alcool pendant que vous prenez du métronidazole.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Prenez 40 mg de prednisolone tous les matins.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "L'ondansétron arrêtera les vomissements.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Ayez toujours votre EpiPen sur vous.",
+   "back": "Always have your EpiPen with you.",
+   "med": true,
+   "status": "warn",
+   "failed": [],
+   "score": 75
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "La codéine peut provoquer la constipation.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Prenez 75 mg d'aspirine une fois par jour.",
+   "back": "Take 75 mg of aspirin once daily.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Dites-nous si vous prenez de l'insuline.",
+   "back": "Tell us if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Avez-vous déjà eu une réaction à la pénicilline ?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Prenez du furosémide le matin, pas le soir.",
+   "back": "Take furosemide in the morning, not in the evening.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "fr|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Prenez de la metformine deux fois par jour avec de la nourriture.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Vous êtes allergique à l'amoxicilline.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Ne prenez pas d'ibuprofène avec de la warfarine.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Utilisez l'inhalateur de salbutamol lorsque vous êtes essoufflé.",
+   "back": "Use the salbutamol inhaler when you are out of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Prenez de l'oméprazole tous les matins avant le petit-déjeuner.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Nous vous donnerons de la morphine pour soulager la douleur.",
+   "back": "We'll give you morphine to ease the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 95
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Arrêtez de prendre le clopidogrel cinq jours avant l'opération.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Prenez deux comprimés de paracétamol toutes les six heures.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Injectez de l'énoxaparine une fois par jour pendant dix jours.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Prenez-vous de l'apixaban ou du rivaroxaban ?",
+   "back": "Are you taking Apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Vous avez besoin de flucloxacilline quatre fois par jour pendant sept jours.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Ne buvez pas d'alcool pendant que vous prenez du métronidazole.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Prenez 40 mg de prednisolone tous les matins.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "L'ondansétron arrêtera les vomissements.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Ayez toujours votre EpiPen sur vous.",
+   "back": "Always have your EpiPen with you.",
+   "med": true,
+   "status": "warn",
+   "failed": [],
+   "score": 75
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "La codéine peut provoquer la constipation.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Prenez 75 mg d'aspirine une fois par jour.",
+   "back": "Take 75 mg of aspirin once daily.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Dites-nous si vous prenez de l'insuline.",
+   "back": "Tell us if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Avez-vous déjà eu une réaction à la pénicilline ?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Prenez du furosémide le matin et non le soir.",
+   "back": "Take furosemide in the morning, not in the evening.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "es|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Tome metformina dos veces al día con alimentos.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Es alérgico a la amoxicilina.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "No tome ibuprofeno con warfarina.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Use el inhalador de salbutamol cuando le falte el aire.",
+   "back": "Use the salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Tome omeprazol todas las mañanas antes del desayuno.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Le daremos morfina para el dolor.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Deje de tomar clopidogrel cinco días antes de la operación.",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Tome dos comprimidos de paracetamol cada seis horas.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Inyecte enoxaparina una vez al día durante diez días.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "¿Está tomando apixabán o rivaroxabán?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Necesita flucloxacilina cuatro veces al día durante siete días.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "No beba alcohol mientras esté tomando metronidazol.",
+   "back": "Do not drink alcohol while you are taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Tome 40 mg de prednisolona todas las mañanas.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "El ondansetrón detendrá el vómito.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Lleva tu EpiPen contigo en todo momento.",
+   "back": "Carry your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 90
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "La codeína puede provocar estreñimiento.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Tome 75 mg de aspirina una vez al día.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Indíquenos si se inyecta insulina.",
+   "back": "Tell us if you inject insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 87
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "¿Alguna vez ha tenido una reacción a la penicilina?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Tome furosemida por la mañana, no por la noche.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "es|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Tome metformina dos veces al día con alimentos.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Es alérgico a la amoxicilina.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "No tome ibuprofeno con warfarina.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Use el inhalador de salbutamol cuando le falte el aire.",
+   "back": "Use the salbutamol inhaler when you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Tome omeprazol todas las mañanas antes del desayuno.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Le daremos morfina para el dolor.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Deje de tomar el clopidogrel cinco días antes de la operación.",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Tome dos comprimidos de paracetamol cada seis horas.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Inyecte enoxaparina una vez al día durante diez días.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "¿Está tomando apixabán o rivaroxabán?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Necesita flucloxacilina cuatro veces al día durante siete días.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "No beba alcohol mientras esté tomando metronidazol.",
+   "back": "Do not drink alcohol while you are taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Tome 40 mg de prednisolona todas las mañanas.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "El ondansetrón detendrá el vómito.",
+   "back": "The ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Lleva tu EpiPen contigo en todo momento.",
+   "back": "Carry your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 90
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "La codeína puede provocar estreñimiento.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Tome 75 mg de aspirina una vez al día.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Indíquenos si toma insulina.",
+   "back": "Tell us if you take insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "¿Alguna vez ha tenido una reacción a la penicilina?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Tome furosemida por la mañana, no por la noche.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "de|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Nehmen Sie Metformin zweimal täglich mit einer Mahlzeit ein.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Sie sind allergisch gegen Amoxicillin.",
+   "back": "You're allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Nehmen Sie Ibuprofen nicht zusammen mit Warfarin ein.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Verwenden Sie den Salbutamol-Inhalator, wenn Sie kurzatmig sind.",
+   "back": "Use the salbutamol inhaler if you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Nehmen Sie Omeprazol jeden Morgen vor dem Frühstück ein.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Wir geben dir Morphium gegen die Schmerzen.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Brechen Sie die Einnahme von Clopidogrel fünf Tage vor der Operation ab.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Nehmen Sie alle sechs Stunden zwei Paracetamol-Tabletten ein.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Injizieren Sie Enoxaparin einmal täglich für zehn Tage.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Nehmen Sie Apixaban oder Rivaroxaban ein?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Sie benötigen Flucloxacillin viermal täglich für sieben Tage.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Trinken Sie während der Einnahme von Metronidazol keinen Alkohol.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Nehmen Sie Prednisolon 40 mg jeden Morgen ein.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron stoppt das Erbrechen.",
+   "back": "Ondansetron stops vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 92
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Tragen Sie Ihren EpiPen immer bei sich.",
+   "back": "Always carry your EpiPen with you.",
+   "med": true,
+   "status": "warn",
+   "failed": [],
+   "score": 72
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Codein kann zu Verstopfung führen.",
+   "back": "Codeine may cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Nehmen Sie 75 mg Aspirin einmal täglich ein.",
+   "back": "Take 75 mg aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Teilen Sie uns mit, ob Sie Insulin einnehmen.",
+   "back": "Tell us if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Hatten Sie jemals eine Reaktion auf Penicillin?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Nehmen Sie Furosemid morgens ein, nicht abends.",
+   "back": "Take furosemide in the morning, not in the evening.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "de|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Nehmen Sie Metformin zweimal täglich mit einer Mahlzeit ein.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Sie sind allergisch gegen Amoxicillin.",
+   "back": "You're allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Nehmen Sie Ibuprofen nicht zusammen mit Warfarin ein.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Verwenden Sie den Salbutamol-Inhalator, wenn Sie kurzatmig sind.",
+   "back": "Use the salbutamol inhaler if you are short of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Nehmen Sie Omeprazol jeden Morgen vor dem Frühstück ein.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Wir geben dir Morphin gegen die Schmerzen.",
+   "back": "We'll give you morphine for the pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Brechen Sie die Einnahme von Clopidogrel fünf Tage vor der Operation ab.",
+   "back": "Stop taking clopidogrel five days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Nehmen Sie alle sechs Stunden zwei Paracetamol-Tabletten ein.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Injizieren Sie Enoxaparin einmal täglich für zehn Tage.",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "Nehmen Sie Apixaban oder Rivaroxaban ein?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Sie benötigen Flucloxacillin viermal täglich für sieben Tage.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Trinken Sie während der Einnahme von Metronidazol keinen Alkohol.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Nehmen Sie Prednisolon 40 mg jeden Morgen ein.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron stoppt das Erbrechen.",
+   "back": "Ondansetron stops vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 92
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Tragen Sie Ihren EpiPen immer bei sich.",
+   "back": "Always carry your EpiPen with you.",
+   "med": true,
+   "status": "warn",
+   "failed": [],
+   "score": 72
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Codein kann zu Verstopfung führen.",
+   "back": "Codeine may cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Nehmen Sie 75 mg Aspirin einmal täglich ein.",
+   "back": "Take 75 mg aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Teilen Sie uns mit, ob Sie Insulin einnehmen.",
+   "back": "Tell us if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "Hatten Sie jemals eine Reaktion auf Penicillin?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Nehmen Sie Furosemid morgens ein, nicht abends.",
+   "back": "Take furosemide in the morning, not in the evening.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "hi|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "भोजन के साथ दिन में दो बार मेटफॉर्मिन लें।",
+   "back": "Take metformin twice a day with meals.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "आपको एमोक्सिसिलिन से एलर्जी है।",
+   "back": "You are allergic to amoxicillin.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "वार्फरिन के साथ इबुप्रोफेन न लें।",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "सांस लेने में तकलीफ होने पर सैल्बुटामोल इनहेलर का इस्तेमाल करें।",
+   "back": "Use a salbutamol inhaler if you have trouble breathing.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "हर सुबह नाश्ते से पहले ओमेप्राज़ोल लें।",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "हम आपको दर्द के लिए मॉर्फिन देंगे।",
+   "back": "We will give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "ऑपरेशन से पांच दिन पहले क्लोपिडोग्रेल लेना बंद कर दें।",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "हर छह घंटे में दो पेरासिटामोल की गोलियां लें।",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "दस दिनों के लिए दिन में एक बार एनोक्सापारिन इंजेक्ट करें।",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "क्या आप अपिक्सबैन या रिवरॉक्सबैन ले रहे हैं?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "आपको सात दिनों के लिए दिन में चार बार फ्लुक्लोक्सासिलिन की आवश्यकता होती है।",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "मेट्रोनिडाजोल लेते समय शराब न पिएं।",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "हर सुबह प्रेडनिसोलोन 40 मिलीग्राम लें।",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron उल्टी को रोक देगा।",
+   "back": "Ondansetron will stop vomiting.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "अपने एपिपेन को हर समय अपने साथ रखें।",
+   "back": "Carry your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 90
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "कोडीन से आपको कब्ज़ हो सकता है।",
+   "back": "Codeine can make you constipated.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "दिन में एक बार 75 मिलीग्राम एस्पिरिन लें।",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "अगर आप इंसुलिन लेते हैं तो हमें बताएं।",
+   "back": "Tell us if you take insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "क्या आपने कभी पेनिसिलिन पर प्रतिक्रिया दी है?",
+   "back": "Have you ever reacted to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "फ़्यूरोसेमाइड सुबह लें, रात में नहीं।",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "hi|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "भोजन के साथ दिन में दो बार मेटफॉर्मिन लें।",
+   "back": "Take metformin twice a day with meals.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "आपको अमोक्सिसिलिन से एलर्जी है।",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "वार्फरिन के साथ इबुप्रोफेन न लें।",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "सांस लेने में तकलीफ होने पर सल्बुटामोल इनहेलर का इस्तेमाल करें।",
+   "back": "Use a salbutamol inhaler if you have trouble breathing.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "हर सुबह नाश्ते से पहले ओमेप्राज़ोल लें।",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "हम आपको दर्द के लिए मॉर्फिन देंगे।",
+   "back": "We will give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "ऑपरेशन से पांच दिन पहले क्लोपिडोग्रेल लेना बंद कर दें।",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "हर छह घंटे में दो पेरासिटामोल की गोलियां लें।",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "दस दिनों के लिए दिन में एक बार एनोक्सापारिन इंजेक्ट करें।",
+   "back": "Inject enoxaparin once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "क्या आप अपिक्सबैन या रिवरोक्सबैन ले रहे हैं?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "आपको सात दिनों के लिए दिन में चार बार फ्लुक्लोक्सासिलिन की आवश्यकता होती है।",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "मेट्रोनिडाजोल लेते समय शराब न पिएं।",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "हर सुबह प्रेडनिसोलोन 40 मिलीग्राम लें।",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Ondansetron उल्टी को रोक देगा।",
+   "back": "Ondansetron will stop vomiting.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "अपने एपिपेन को हर समय अपने साथ रखें।",
+   "back": "Carry your epipen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 85
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "कोडीन से आपको कब्ज़ हो सकता है।",
+   "back": "Codeine can make you constipated.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "दिन में एक बार 75 मिलीग्राम एस्पिरिन लें।",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "अगर आप इंसुलिन लेते हैं तो हमें बताएं।",
+   "back": "Tell us if you take insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "क्या आपने कभी पेनिसिलिन पर प्रतिक्रिया की है?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "फ़्यूरोसेमाइड सुबह लें, रात में नहीं।",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ko|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "메트포르민을 음식과 함께 하루에 두 번 복용하십시오.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "아목시실린에 알레르기가 있습니다.",
+   "back": "I'm allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 99
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "와파린과 함께 이부프로펜을 복용하지 마십시오.",
+   "back": "Do not take ibuprofen together with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "호흡이 곤란할 때는 살부타몰 흡입기를 사용하십시오.",
+   "back": "Use a salbutamol inhaler when breathing is difficult.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "매일 아침 식사 전에 오메프라졸을 복용하십시오.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "통증 치료제로 모르핀을 줄 것입니다.",
+   "back": "I'm going to give morphine as a pain remedy.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 88
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "수술 5 일 전에 클로피도그렐 복용을 중단하십시오.",
+   "back": "Stop taking clopidogrel 5 days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "6 시간마다 두 개의 파라세타몰 정제를 복용하십시오.",
+   "back": "Take two paracetamol tablets every 6 hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "에녹사파린을 하루에 한 번 10 일 동안 주사하십시오.",
+   "back": "Inject enoxaparin once a day for 10 days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "아픽사반이나 리바록사반 복용 중이신가요?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "플루클록사실린은 7 일 동안 하루에 네 번 필요합니다.",
+   "back": "Flucloxacillin is needed four times a day for 7 days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "메트로니다졸을 복용하는 동안 술을 마시지 마십시오.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "매일 아침 프레드니솔론 40mg을 복용하십시오.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "온단세트론은 구토를 멈출 것입니다.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "EpiPen을 항상 휴대하세요.",
+   "back": "Keep your EpiPen with you at all times",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "코데인은 변비를 유발할 수 있습니다.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "하루에 한 번 75mg의 아스피린을 복용하십시오.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "인슐린을 복용하고 있는지 알려주세요.",
+   "back": "Please let me know if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "페니실린에 반응을 보인 적이 있습니까?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "푸로세미드는 밤이 아닌 아침에 복용하십시오.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ko|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "메트포르민을 음식과 함께 하루에 두 번 복용하십시오.",
+   "back": "Take metformin twice daily with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "아목시실린에 알레르기가 있습니다.",
+   "back": "I'm allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 99
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "와파린과 함께 이부프로펜을 복용하지 마십시오.",
+   "back": "Do not take ibuprofen together with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "호흡이 곤란할 때는 살부타몰 흡입기를 사용하십시오.",
+   "back": "Use a salbutamol inhaler when breathing is difficult.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "매일 아침 식사 전에 오메프라졸을 복용하십시오.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "통증 치료제로 모르핀을 줄 것입니다.",
+   "back": "I'm going to give morphine as a pain remedy.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 88
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "수술 5 일 전에 클로피도그렐 복용을 중단하십시오.",
+   "back": "Stop taking clopidogrel 5 days before surgery.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "6 시간마다 두 개의 파라세타몰 정제를 복용하십시오.",
+   "back": "Take two paracetamol tablets every 6 hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "에녹사파린을 하루에 한 번 10 일 동안 주사하십시오.",
+   "back": "Inject enoxaparin once a day for 10 days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "아픽사반 또는 리바록사반을 복용하고 있습니까?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "플루클록사실린은 7 일 동안 하루에 네 번 필요합니다.",
+   "back": "Flucloxacillin is needed four times a day for 7 days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "메트로니다졸을 복용하는 동안 술을 마시지 마십시오.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "매일 아침 프레드니솔론 40mg을 복용하십시오.",
+   "back": "Take 40 mg of prednisolone every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "온단세트론은 구토를 멈출 것입니다.",
+   "back": "Ondansetron will stop vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "EpiPen을 항상 휴대하세요.",
+   "back": "Keep your EpiPen with you at all times",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "코데인은 변비를 유발할 수 있습니다.",
+   "back": "Codeine can cause constipation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "하루에 한 번 75mg의 아스피린을 복용하십시오.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "인슐린을 복용하고 있는지 알려주십시오.",
+   "back": "Please let me know if you are taking insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 98
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "페니실린에 반응을 보인 적이 있습니까?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "푸로세미드라는 밤이 아닌 아침에 복용하십시오.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ga|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Tóg metformin dhá uair sa lá le bia.",
+   "back": "Take metformin twice a day with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Tá tú ailléirgeach le amoxicillin.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Ná tóg ibuprofen le warfarin.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Úsáid an t-inhaler salbutamol nuair a bhíonn anáil gearr agat.",
+   "back": "Use the salbutamol inhaler when you have shortness of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Tóg omeprazole gach maidin roimh bhricfeasta.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Tabharfaimid moirfín duit don phian.",
+   "back": "We will give you morphine for the pain.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Stop clopidogrel a ghlacadh cúig lá roimh an oibríocht.",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Tóg dhá tháibléad paracetamol gach sé uair an chloig.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Instealladh enoxaparin uair sa lá ar feadh deich lá.",
+   "back": "Enoxaparin was injected once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "An bhfuil tú ag glacadh apixaban nó rivaroxaban?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Teastaíonn flucloxacillin de dhíth ort ceithre huaire sa lá ar feadh seacht lá.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Ná ól alcól agus tú ag glacadh metronidazole.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Tóg prednisolone 40 mg gach maidin.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Cuirfidh Ondansetron stop leis an urlacan.",
+   "back": "Ondansetron will stop the vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Coinnigh do EpiPen leat i gcónaí.",
+   "back": "Always keep your EpiPen with you.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 81
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Is féidir le codeine coimhneacht a dhéanamh ort.",
+   "back": "Codeine can make you intimate.",
+   "med": false,
+   "status": "fail",
+   "failed": [],
+   "score": 35
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Tóg 75 mg de aspirin uair amháin sa lá.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Inis dúinn má ghlacann tú insulin.",
+   "back": "Tell us if you take insulin.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "An raibh imoibriú agat riamh ar pheinisillin?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Tóg furosemide ar maidin, ní san oíche.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ga|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "Tóg metformin dhá uair sa lá le bia.",
+   "back": "Take metformin twice a day with food.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "Tá tú ailléirgeach le amoxicillin.",
+   "back": "You are allergic to amoxicillin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "Ná tóg ibuprofen le warfarin.",
+   "back": "Do not take ibuprofen with warfarin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "Úsáid an t-inhaler salbutamol nuair a bhíonn anáil gearr agat.",
+   "back": "Use the salbutamol inhaler when you have shortness of breath.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "Tóg omeprazole gach maidin roimh bhricfeasta.",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "Tabharfaimid moirfín duit don phian.",
+   "back": "We will give you morphine for the pain.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "Stop clopidogrel a ghlacadh cúig lá roimh an oibríocht.",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "Tóg dhá tháibléad paracetamol gach sé uair an chloig.",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "Instealladh enoxaparin uair sa lá ar feadh deich lá.",
+   "back": "Enoxaparin was injected once a day for ten days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "An bhfuil tú ag glacadh apixaban nó rivaroxaban?",
+   "back": "Are you taking apixaban or rivaroxaban?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "Teastaíonn flucloxacillin de dhíth ort ceithre huaire sa lá ar feadh seacht lá.",
+   "back": "You need flucloxacillin four times a day for seven days.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "Ná ól alcól agus tú ag glacadh metronidazole.",
+   "back": "Do not drink alcohol while taking metronidazole.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "Tóg prednisolone 40 mg gach maidin.",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "Cuirfidh Ondansetron stop leis an urlacan.",
+   "back": "Ondansetron will stop the vomiting.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "Coinnigh do EpiPen leat i gcónaí.",
+   "back": "Always keep your EpiPen with you.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 81
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "Is féidir le codeine coimhneacht a dhéanamh ort.",
+   "back": "Codeine can make you intimate.",
+   "med": false,
+   "status": "fail",
+   "failed": [],
+   "score": 35
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "Tóg 75 mg de aspirin uair amháin sa lá.",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "Inis dúinn má ghlacann tú inslin.",
+   "back": "Tell us if you take insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "An raibh imoibriú agat riamh ar pheinisillin?",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "Tóg furosemide ar maidin, ní san oíche.",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ur|plain": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "دن میں دو بار میٹفارمین کھانے کے ساتھ لیں۔",
+   "back": "Take metformin twice a day with food.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "آپ کو اموکسیلن سے الرجی ہے۔",
+   "back": "You are allergic to amoxicillin",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "وارفرین کے ساتھ آئبوپروفین نہ لیں۔",
+   "back": "Do not take ibuprofen with warfarin",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "جب آپ کو سانس کی کمی ہو تو سلبٹامول انہیلر کا استعمال کریں۔",
+   "back": "Use a sulbutamol inhaler when you have shortness of breath.",
+   "med": false,
+   "status": "fail",
+   "failed": [
+    "Medicines"
+   ],
+   "score": 75
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "ناشتے سے پہلے ہر صبح اومپرازول لیں۔",
+   "back": "Take omeprazole every morning before breakfast.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "ہم آپ کو درد کے لئے مورفین دیں گے۔",
+   "back": "We will give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "آپریشن سے پانچ دن پہلے کلوپیڈوگریل لینا بند کریں۔",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "ہر چھ گھنٹے میں دو پیراسیٹامول گولیاں لیں۔",
+   "back": "Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "دس دن تک دن میں ایک بار اینوکساپیرین انجیکشن لگائیں۔",
+   "back": "Inject anoxapyrin once a day for ten days.",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Medicines"
+   ],
+   "score": 74
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "کیا آپ اپکسابان یا ریوروکسابن لے رہے ہیں؟",
+   "back": "Are you taking ipxaban or rivoxaban?",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Medicines"
+   ],
+   "score": 98
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "آپ کو سات دن کے لئے دن میں چار بار فلوکساسیلن کی ضرورت ہے۔",
+   "back": "You need fluoxacillin four times a day for seven days.",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Medicines"
+   ],
+   "score": 100
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "میٹرونیڈازول لیتے وقت شراب نہ پیں۔",
+   "back": "Do not drink alcohol while taking metronidazole",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "ہر صبح پریڈنیسولون 40 ملی گرام لیں۔",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "اونڈانسٹرون قے کو روک دے گا۔",
+   "back": "Ondanestron will stop vomiting.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "اپنے ایپی پین کو ہر وقت اپنے ساتھ رکھیں۔",
+   "back": "Keep your EpiPen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "کوڈین آپ کو قبض بنا سکتی ہے۔",
+   "back": "Codeine can make you constipated",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "دن میں ایک بار 75 ملی گرام اسپرین لیں۔",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "اگر آپ انسولین لیتے ہیں تو ہمیں بتائیں۔",
+   "back": "Tell us if you take insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "کیا آپ کو کبھی پینسلن کا رد عمل آیا ہے؟",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "رات کو نہیں، صبح فوروسمائڈ لیں۔",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ],
+ "ur|terms": [
+  {
+   "en": "Take metformin twice a day with food.",
+   "tr": "دن میں میٹفورمین میٹفارمین کھانے کے ساتھ لیں۔",
+   "back": "Take metformin metformin with food throughout the day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 91
+  },
+  {
+   "en": "You are allergic to amoxicillin.",
+   "tr": "آپ کو اموکسیلن اموکسیسلن ہے۔",
+   "back": "You have amoxicillin amoxicillin.",
+   "med": true,
+   "status": "warn",
+   "failed": [],
+   "score": 75
+  },
+  {
+   "en": "Do not take ibuprofen with warfarin.",
+   "tr": "وارفارین کے ساتھ آئبوپروفین نہ لیں۔",
+   "back": "Do not take ibuprofen with warfarin",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Use the salbutamol inhaler when you are short of breath.",
+   "tr": "جب آپ کو سالبوٹامول تو سلبٹامول انہیلر کا استعمال کریں۔",
+   "back": "Use a sulbutamol inhaler when you have salbutamol",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 80
+  },
+  {
+   "en": "Take omeprazole every morning before breakfast.",
+   "tr": "ناشتے اومیپرازول صبح اومپرازول لیں۔",
+   "back": "Breakfast. Omiprazole. Take omeprazole in the morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 88
+  },
+  {
+   "en": "We will give you morphine for the pain.",
+   "tr": "ہم آپ کو درد کے لئے مورفین دیں گے۔",
+   "back": "We will give you morphine for pain.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Stop taking clopidogrel five days before the operation.",
+   "tr": "آپریشن سے پانچ دن پہلے کلوپیڈوگریل لینا بند کریں۔",
+   "back": "Stop taking clopidogrel five days before the operation.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take two paracetamol tablets every six hours.",
+   "tr": "ہر چھ گھنٹے پیراسیٹامول دو پیراسیٹامول گولیاں لیں۔",
+   "back": "Paracetamol. Take two paracetamol tablets every six hours.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Inject enoxaparin once a day for ten days.",
+   "tr": "دس اینوکساپیرن اینوکساپیرین انجیکشن لگائیں۔",
+   "back": "Ten enoxaparin Inject Enoxapyrin.",
+   "med": true,
+   "status": "fail",
+   "failed": [],
+   "score": 49
+  },
+  {
+   "en": "Are you taking apixaban or rivaroxaban?",
+   "tr": "کیا آپ اپکسابان یا ریوروکسابان لے رہے ہیں؟",
+   "back": "Are you taking apixaban or rivoxaban?",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Medicines"
+   ],
+   "score": 100
+  },
+  {
+   "en": "You need flucloxacillin four times a day for seven days.",
+   "tr": "آپ کو سات فلوکساسیلن بار فلوکساسیلن کی ضرورت ہے۔",
+   "back": "You need seven flucloxacillin bars of flucloxacillin.",
+   "med": true,
+   "status": "fail",
+   "failed": [
+    "Numbers"
+   ],
+   "score": 52
+  },
+  {
+   "en": "Do not drink alcohol while taking metronidazole.",
+   "tr": "میٹرونیڈازول لیتے وقت شراب نہ پیں۔",
+   "back": "Do not drink alcohol while taking metronidazole",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take prednisolone 40 mg every morning.",
+   "tr": "ہر صبح پریڈنیسولون 40 ملی گرام لیں۔",
+   "back": "Take prednisolone 40 mg every morning.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Ondansetron will stop the vomiting.",
+   "tr": "اونڈانسٹرون قے کو روک دے گا۔",
+   "back": "Ondanestron will stop vomiting.",
+   "med": false,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Keep your EpiPen with you at all times.",
+   "tr": "اپنے ایپی پین کو ہر وقت اپنے ساتھ رکھیں۔",
+   "back": "Keep your epipen with you at all times.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Codeine can make you constipated.",
+   "tr": "کوڈین آپ کو قبض بنا سکتی ہے۔",
+   "back": "Codeine can make you constipated",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take 75 mg of aspirin once a day.",
+   "tr": "دن میں ایک بار 75 ملی گرام ایسپرن لیں۔",
+   "back": "Take 75 mg of aspirin once a day.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Tell us if you take insulin.",
+   "tr": "اگر آپ انسولین لیتے ہیں تو ہمیں بتائیں۔",
+   "back": "Tell us if you take insulin.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Have you ever had a reaction to penicillin?",
+   "tr": "کیا آپ کو کبھی پینسلن کا رد عمل آیا ہے؟",
+   "back": "Have you ever had a reaction to penicillin?",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  },
+  {
+   "en": "Take furosemide in the morning, not at night.",
+   "tr": "رات کو نہیں، صبح فوروسمائڈ لیں۔",
+   "back": "Take furosemide in the morning, not at night.",
+   "med": true,
+   "status": "ok",
+   "failed": [],
+   "score": 100
+  }
+ ]
+}
